@@ -1,0 +1,5636 @@
+country,date,confirmed,deaths,recovered
+Afghanistan,2020-01-22,0,0,0
+Afghanistan,2020-01-23,0,0,0
+Afghanistan,2020-01-24,0,0,0
+Afghanistan,2020-01-25,0,0,0
+Afghanistan,2020-01-26,0,0,0
+Afghanistan,2020-01-27,0,0,0
+Afghanistan,2020-01-28,0,0,0
+Afghanistan,2020-01-29,0,0,0
+Afghanistan,2020-01-30,0,0,0
+Afghanistan,2020-01-31,0,0,0
+Afghanistan,2020-02-01,0,0,0
+Afghanistan,2020-02-02,0,0,0
+Afghanistan,2020-02-03,0,0,0
+Afghanistan,2020-02-04,0,0,0
+Afghanistan,2020-02-05,0,0,0
+Afghanistan,2020-02-06,0,0,0
+Afghanistan,2020-02-07,0,0,0
+Afghanistan,2020-02-08,0,0,0
+Afghanistan,2020-02-09,0,0,0
+Afghanistan,2020-02-10,0,0,0
+Afghanistan,2020-02-11,0,0,0
+Afghanistan,2020-02-12,0,0,0
+Afghanistan,2020-02-13,0,0,0
+Afghanistan,2020-02-14,0,0,0
+Afghanistan,2020-02-15,0,0,0
+Afghanistan,2020-02-16,0,0,0
+Afghanistan,2020-02-17,0,0,0
+Afghanistan,2020-02-18,0,0,0
+Afghanistan,2020-02-19,0,0,0
+Afghanistan,2020-02-20,0,0,0
+Afghanistan,2020-02-21,0,0,0
+Afghanistan,2020-02-22,0,0,0
+Afghanistan,2020-02-23,0,0,0
+Afghanistan,2020-02-24,1,0,0
+Afghanistan,2020-02-25,1,0,0
+Afghanistan,2020-02-26,1,0,0
+Afghanistan,2020-02-27,1,0,0
+Afghanistan,2020-02-28,1,0,0
+Afghanistan,2020-02-29,1,0,0
+Afghanistan,2020-03-01,1,0,0
+Afghanistan,2020-03-02,1,0,0
+Afghanistan,2020-03-03,1,0,0
+Afghanistan,2020-03-04,1,0,0
+Afghanistan,2020-03-05,1,0,0
+Afghanistan,2020-03-06,1,0,0
+Afghanistan,2020-03-07,1,0,0
+Afghanistan,2020-03-08,4,0,0
+Afghanistan,2020-03-09,4,0,0
+Afghanistan,2020-03-10,5,0,0
+Albania,2020-01-22,0,0,0
+Albania,2020-01-23,0,0,0
+Albania,2020-01-24,0,0,0
+Albania,2020-01-25,0,0,0
+Albania,2020-01-26,0,0,0
+Albania,2020-01-27,0,0,0
+Albania,2020-01-28,0,0,0
+Albania,2020-01-29,0,0,0
+Albania,2020-01-30,0,0,0
+Albania,2020-01-31,0,0,0
+Albania,2020-02-01,0,0,0
+Albania,2020-02-02,0,0,0
+Albania,2020-02-03,0,0,0
+Albania,2020-02-04,0,0,0
+Albania,2020-02-05,0,0,0
+Albania,2020-02-06,0,0,0
+Albania,2020-02-07,0,0,0
+Albania,2020-02-08,0,0,0
+Albania,2020-02-09,0,0,0
+Albania,2020-02-10,0,0,0
+Albania,2020-02-11,0,0,0
+Albania,2020-02-12,0,0,0
+Albania,2020-02-13,0,0,0
+Albania,2020-02-14,0,0,0
+Albania,2020-02-15,0,0,0
+Albania,2020-02-16,0,0,0
+Albania,2020-02-17,0,0,0
+Albania,2020-02-18,0,0,0
+Albania,2020-02-19,0,0,0
+Albania,2020-02-20,0,0,0
+Albania,2020-02-21,0,0,0
+Albania,2020-02-22,0,0,0
+Albania,2020-02-23,0,0,0
+Albania,2020-02-24,0,0,0
+Albania,2020-02-25,0,0,0
+Albania,2020-02-26,0,0,0
+Albania,2020-02-27,0,0,0
+Albania,2020-02-28,0,0,0
+Albania,2020-02-29,0,0,0
+Albania,2020-03-01,0,0,0
+Albania,2020-03-02,0,0,0
+Albania,2020-03-03,0,0,0
+Albania,2020-03-04,0,0,0
+Albania,2020-03-05,0,0,0
+Albania,2020-03-06,0,0,0
+Albania,2020-03-07,0,0,0
+Albania,2020-03-08,0,0,0
+Albania,2020-03-09,2,0,0
+Albania,2020-03-10,10,0,0
+Algeria,2020-01-22,0,0,0
+Algeria,2020-01-23,0,0,0
+Algeria,2020-01-24,0,0,0
+Algeria,2020-01-25,0,0,0
+Algeria,2020-01-26,0,0,0
+Algeria,2020-01-27,0,0,0
+Algeria,2020-01-28,0,0,0
+Algeria,2020-01-29,0,0,0
+Algeria,2020-01-30,0,0,0
+Algeria,2020-01-31,0,0,0
+Algeria,2020-02-01,0,0,0
+Algeria,2020-02-02,0,0,0
+Algeria,2020-02-03,0,0,0
+Algeria,2020-02-04,0,0,0
+Algeria,2020-02-05,0,0,0
+Algeria,2020-02-06,0,0,0
+Algeria,2020-02-07,0,0,0
+Algeria,2020-02-08,0,0,0
+Algeria,2020-02-09,0,0,0
+Algeria,2020-02-10,0,0,0
+Algeria,2020-02-11,0,0,0
+Algeria,2020-02-12,0,0,0
+Algeria,2020-02-13,0,0,0
+Algeria,2020-02-14,0,0,0
+Algeria,2020-02-15,0,0,0
+Algeria,2020-02-16,0,0,0
+Algeria,2020-02-17,0,0,0
+Algeria,2020-02-18,0,0,0
+Algeria,2020-02-19,0,0,0
+Algeria,2020-02-20,0,0,0
+Algeria,2020-02-21,0,0,0
+Algeria,2020-02-22,0,0,0
+Algeria,2020-02-23,0,0,0
+Algeria,2020-02-24,0,0,0
+Algeria,2020-02-25,1,0,0
+Algeria,2020-02-26,1,0,0
+Algeria,2020-02-27,1,0,0
+Algeria,2020-02-28,1,0,0
+Algeria,2020-02-29,1,0,0
+Algeria,2020-03-01,1,0,0
+Algeria,2020-03-02,3,0,0
+Algeria,2020-03-03,5,0,0
+Algeria,2020-03-04,12,0,0
+Algeria,2020-03-05,12,0,0
+Algeria,2020-03-06,17,0,0
+Algeria,2020-03-07,17,0,0
+Algeria,2020-03-08,19,0,0
+Algeria,2020-03-09,20,0,0
+Algeria,2020-03-10,20,0,0
+Andorra,2020-01-22,0,0,0
+Andorra,2020-01-23,0,0,0
+Andorra,2020-01-24,0,0,0
+Andorra,2020-01-25,0,0,0
+Andorra,2020-01-26,0,0,0
+Andorra,2020-01-27,0,0,0
+Andorra,2020-01-28,0,0,0
+Andorra,2020-01-29,0,0,0
+Andorra,2020-01-30,0,0,0
+Andorra,2020-01-31,0,0,0
+Andorra,2020-02-01,0,0,0
+Andorra,2020-02-02,0,0,0
+Andorra,2020-02-03,0,0,0
+Andorra,2020-02-04,0,0,0
+Andorra,2020-02-05,0,0,0
+Andorra,2020-02-06,0,0,0
+Andorra,2020-02-07,0,0,0
+Andorra,2020-02-08,0,0,0
+Andorra,2020-02-09,0,0,0
+Andorra,2020-02-10,0,0,0
+Andorra,2020-02-11,0,0,0
+Andorra,2020-02-12,0,0,0
+Andorra,2020-02-13,0,0,0
+Andorra,2020-02-14,0,0,0
+Andorra,2020-02-15,0,0,0
+Andorra,2020-02-16,0,0,0
+Andorra,2020-02-17,0,0,0
+Andorra,2020-02-18,0,0,0
+Andorra,2020-02-19,0,0,0
+Andorra,2020-02-20,0,0,0
+Andorra,2020-02-21,0,0,0
+Andorra,2020-02-22,0,0,0
+Andorra,2020-02-23,0,0,0
+Andorra,2020-02-24,0,0,0
+Andorra,2020-02-25,0,0,0
+Andorra,2020-02-26,0,0,0
+Andorra,2020-02-27,0,0,0
+Andorra,2020-02-28,0,0,0
+Andorra,2020-02-29,0,0,0
+Andorra,2020-03-01,0,0,0
+Andorra,2020-03-02,1,0,0
+Andorra,2020-03-03,1,0,0
+Andorra,2020-03-04,1,0,0
+Andorra,2020-03-05,1,0,0
+Andorra,2020-03-06,1,0,0
+Andorra,2020-03-07,1,0,0
+Andorra,2020-03-08,1,0,0
+Andorra,2020-03-09,1,0,0
+Andorra,2020-03-10,1,0,0
+Argentina,2020-01-22,0,0,0
+Argentina,2020-01-23,0,0,0
+Argentina,2020-01-24,0,0,0
+Argentina,2020-01-25,0,0,0
+Argentina,2020-01-26,0,0,0
+Argentina,2020-01-27,0,0,0
+Argentina,2020-01-28,0,0,0
+Argentina,2020-01-29,0,0,0
+Argentina,2020-01-30,0,0,0
+Argentina,2020-01-31,0,0,0
+Argentina,2020-02-01,0,0,0
+Argentina,2020-02-02,0,0,0
+Argentina,2020-02-03,0,0,0
+Argentina,2020-02-04,0,0,0
+Argentina,2020-02-05,0,0,0
+Argentina,2020-02-06,0,0,0
+Argentina,2020-02-07,0,0,0
+Argentina,2020-02-08,0,0,0
+Argentina,2020-02-09,0,0,0
+Argentina,2020-02-10,0,0,0
+Argentina,2020-02-11,0,0,0
+Argentina,2020-02-12,0,0,0
+Argentina,2020-02-13,0,0,0
+Argentina,2020-02-14,0,0,0
+Argentina,2020-02-15,0,0,0
+Argentina,2020-02-16,0,0,0
+Argentina,2020-02-17,0,0,0
+Argentina,2020-02-18,0,0,0
+Argentina,2020-02-19,0,0,0
+Argentina,2020-02-20,0,0,0
+Argentina,2020-02-21,0,0,0
+Argentina,2020-02-22,0,0,0
+Argentina,2020-02-23,0,0,0
+Argentina,2020-02-24,0,0,0
+Argentina,2020-02-25,0,0,0
+Argentina,2020-02-26,0,0,0
+Argentina,2020-02-27,0,0,0
+Argentina,2020-02-28,0,0,0
+Argentina,2020-02-29,0,0,0
+Argentina,2020-03-01,0,0,0
+Argentina,2020-03-02,0,0,0
+Argentina,2020-03-03,1,0,0
+Argentina,2020-03-04,1,0,0
+Argentina,2020-03-05,1,0,0
+Argentina,2020-03-06,2,0,0
+Argentina,2020-03-07,8,0,0
+Argentina,2020-03-08,12,1,0
+Argentina,2020-03-09,12,1,0
+Argentina,2020-03-10,17,1,0
+Armenia,2020-01-22,0,0,0
+Armenia,2020-01-23,0,0,0
+Armenia,2020-01-24,0,0,0
+Armenia,2020-01-25,0,0,0
+Armenia,2020-01-26,0,0,0
+Armenia,2020-01-27,0,0,0
+Armenia,2020-01-28,0,0,0
+Armenia,2020-01-29,0,0,0
+Armenia,2020-01-30,0,0,0
+Armenia,2020-01-31,0,0,0
+Armenia,2020-02-01,0,0,0
+Armenia,2020-02-02,0,0,0
+Armenia,2020-02-03,0,0,0
+Armenia,2020-02-04,0,0,0
+Armenia,2020-02-05,0,0,0
+Armenia,2020-02-06,0,0,0
+Armenia,2020-02-07,0,0,0
+Armenia,2020-02-08,0,0,0
+Armenia,2020-02-09,0,0,0
+Armenia,2020-02-10,0,0,0
+Armenia,2020-02-11,0,0,0
+Armenia,2020-02-12,0,0,0
+Armenia,2020-02-13,0,0,0
+Armenia,2020-02-14,0,0,0
+Armenia,2020-02-15,0,0,0
+Armenia,2020-02-16,0,0,0
+Armenia,2020-02-17,0,0,0
+Armenia,2020-02-18,0,0,0
+Armenia,2020-02-19,0,0,0
+Armenia,2020-02-20,0,0,0
+Armenia,2020-02-21,0,0,0
+Armenia,2020-02-22,0,0,0
+Armenia,2020-02-23,0,0,0
+Armenia,2020-02-24,0,0,0
+Armenia,2020-02-25,0,0,0
+Armenia,2020-02-26,0,0,0
+Armenia,2020-02-27,0,0,0
+Armenia,2020-02-28,0,0,0
+Armenia,2020-02-29,0,0,0
+Armenia,2020-03-01,1,0,0
+Armenia,2020-03-02,1,0,0
+Armenia,2020-03-03,1,0,0
+Armenia,2020-03-04,1,0,0
+Armenia,2020-03-05,1,0,0
+Armenia,2020-03-06,1,0,0
+Armenia,2020-03-07,1,0,0
+Armenia,2020-03-08,1,0,0
+Armenia,2020-03-09,1,0,0
+Armenia,2020-03-10,1,0,0
+Australia,2020-01-22,0,0,0
+Australia,2020-01-23,0,0,0
+Australia,2020-01-24,0,0,0
+Australia,2020-01-25,0,0,0
+Australia,2020-01-26,4,0,0
+Australia,2020-01-27,5,0,0
+Australia,2020-01-28,5,0,0
+Australia,2020-01-29,6,0,0
+Australia,2020-01-30,9,0,2
+Australia,2020-01-31,9,0,2
+Australia,2020-02-01,12,0,2
+Australia,2020-02-02,12,0,2
+Australia,2020-02-03,12,0,2
+Australia,2020-02-04,13,0,2
+Australia,2020-02-05,13,0,2
+Australia,2020-02-06,14,0,2
+Australia,2020-02-07,15,0,2
+Australia,2020-02-08,15,0,2
+Australia,2020-02-09,15,0,2
+Australia,2020-02-10,15,0,2
+Australia,2020-02-11,15,0,2
+Australia,2020-02-12,15,0,2
+Australia,2020-02-13,15,0,8
+Australia,2020-02-14,15,0,8
+Australia,2020-02-15,15,0,8
+Australia,2020-02-16,15,0,8
+Australia,2020-02-17,15,0,10
+Australia,2020-02-18,15,0,10
+Australia,2020-02-19,15,0,10
+Australia,2020-02-20,15,0,10
+Australia,2020-02-21,19,0,11
+Australia,2020-02-22,22,0,11
+Australia,2020-02-23,22,0,11
+Australia,2020-02-24,22,0,11
+Australia,2020-02-25,22,0,11
+Australia,2020-02-26,22,0,11
+Australia,2020-02-27,23,0,11
+Australia,2020-02-28,23,0,11
+Australia,2020-02-29,25,0,11
+Australia,2020-03-01,27,1,11
+Australia,2020-03-02,30,1,11
+Australia,2020-03-03,39,1,11
+Australia,2020-03-04,52,2,11
+Australia,2020-03-05,55,2,21
+Australia,2020-03-06,60,2,21
+Australia,2020-03-07,63,2,21
+Australia,2020-03-08,76,3,21
+Australia,2020-03-09,91,3,21
+Australia,2020-03-10,107,3,21
+Austria,2020-01-22,0,0,0
+Austria,2020-01-23,0,0,0
+Austria,2020-01-24,0,0,0
+Austria,2020-01-25,0,0,0
+Austria,2020-01-26,0,0,0
+Austria,2020-01-27,0,0,0
+Austria,2020-01-28,0,0,0
+Austria,2020-01-29,0,0,0
+Austria,2020-01-30,0,0,0
+Austria,2020-01-31,0,0,0
+Austria,2020-02-01,0,0,0
+Austria,2020-02-02,0,0,0
+Austria,2020-02-03,0,0,0
+Austria,2020-02-04,0,0,0
+Austria,2020-02-05,0,0,0
+Austria,2020-02-06,0,0,0
+Austria,2020-02-07,0,0,0
+Austria,2020-02-08,0,0,0
+Austria,2020-02-09,0,0,0
+Austria,2020-02-10,0,0,0
+Austria,2020-02-11,0,0,0
+Austria,2020-02-12,0,0,0
+Austria,2020-02-13,0,0,0
+Austria,2020-02-14,0,0,0
+Austria,2020-02-15,0,0,0
+Austria,2020-02-16,0,0,0
+Austria,2020-02-17,0,0,0
+Austria,2020-02-18,0,0,0
+Austria,2020-02-19,0,0,0
+Austria,2020-02-20,0,0,0
+Austria,2020-02-21,0,0,0
+Austria,2020-02-22,0,0,0
+Austria,2020-02-23,0,0,0
+Austria,2020-02-24,0,0,0
+Austria,2020-02-25,2,0,0
+Austria,2020-02-26,2,0,0
+Austria,2020-02-27,3,0,0
+Austria,2020-02-28,3,0,0
+Austria,2020-02-29,9,0,0
+Austria,2020-03-01,14,0,0
+Austria,2020-03-02,18,0,0
+Austria,2020-03-03,21,0,0
+Austria,2020-03-04,29,0,0
+Austria,2020-03-05,41,0,0
+Austria,2020-03-06,55,0,0
+Austria,2020-03-07,79,0,0
+Austria,2020-03-08,104,0,0
+Austria,2020-03-09,131,0,2
+Austria,2020-03-10,182,0,4
+Azerbaijan,2020-01-22,0,0,0
+Azerbaijan,2020-01-23,0,0,0
+Azerbaijan,2020-01-24,0,0,0
+Azerbaijan,2020-01-25,0,0,0
+Azerbaijan,2020-01-26,0,0,0
+Azerbaijan,2020-01-27,0,0,0
+Azerbaijan,2020-01-28,0,0,0
+Azerbaijan,2020-01-29,0,0,0
+Azerbaijan,2020-01-30,0,0,0
+Azerbaijan,2020-01-31,0,0,0
+Azerbaijan,2020-02-01,0,0,0
+Azerbaijan,2020-02-02,0,0,0
+Azerbaijan,2020-02-03,0,0,0
+Azerbaijan,2020-02-04,0,0,0
+Azerbaijan,2020-02-05,0,0,0
+Azerbaijan,2020-02-06,0,0,0
+Azerbaijan,2020-02-07,0,0,0
+Azerbaijan,2020-02-08,0,0,0
+Azerbaijan,2020-02-09,0,0,0
+Azerbaijan,2020-02-10,0,0,0
+Azerbaijan,2020-02-11,0,0,0
+Azerbaijan,2020-02-12,0,0,0
+Azerbaijan,2020-02-13,0,0,0
+Azerbaijan,2020-02-14,0,0,0
+Azerbaijan,2020-02-15,0,0,0
+Azerbaijan,2020-02-16,0,0,0
+Azerbaijan,2020-02-17,0,0,0
+Azerbaijan,2020-02-18,0,0,0
+Azerbaijan,2020-02-19,0,0,0
+Azerbaijan,2020-02-20,0,0,0
+Azerbaijan,2020-02-21,0,0,0
+Azerbaijan,2020-02-22,0,0,0
+Azerbaijan,2020-02-23,0,0,0
+Azerbaijan,2020-02-24,0,0,0
+Azerbaijan,2020-02-25,0,0,0
+Azerbaijan,2020-02-26,0,0,0
+Azerbaijan,2020-02-27,0,0,0
+Azerbaijan,2020-02-28,0,0,0
+Azerbaijan,2020-02-29,0,0,0
+Azerbaijan,2020-03-01,3,0,0
+Azerbaijan,2020-03-02,3,0,0
+Azerbaijan,2020-03-03,3,0,0
+Azerbaijan,2020-03-04,3,0,0
+Azerbaijan,2020-03-05,6,0,0
+Azerbaijan,2020-03-06,6,0,0
+Azerbaijan,2020-03-07,9,0,0
+Azerbaijan,2020-03-08,9,0,0
+Azerbaijan,2020-03-09,9,0,0
+Azerbaijan,2020-03-10,11,0,0
+Bahrain,2020-01-22,0,0,0
+Bahrain,2020-01-23,0,0,0
+Bahrain,2020-01-24,0,0,0
+Bahrain,2020-01-25,0,0,0
+Bahrain,2020-01-26,0,0,0
+Bahrain,2020-01-27,0,0,0
+Bahrain,2020-01-28,0,0,0
+Bahrain,2020-01-29,0,0,0
+Bahrain,2020-01-30,0,0,0
+Bahrain,2020-01-31,0,0,0
+Bahrain,2020-02-01,0,0,0
+Bahrain,2020-02-02,0,0,0
+Bahrain,2020-02-03,0,0,0
+Bahrain,2020-02-04,0,0,0
+Bahrain,2020-02-05,0,0,0
+Bahrain,2020-02-06,0,0,0
+Bahrain,2020-02-07,0,0,0
+Bahrain,2020-02-08,0,0,0
+Bahrain,2020-02-09,0,0,0
+Bahrain,2020-02-10,0,0,0
+Bahrain,2020-02-11,0,0,0
+Bahrain,2020-02-12,0,0,0
+Bahrain,2020-02-13,0,0,0
+Bahrain,2020-02-14,0,0,0
+Bahrain,2020-02-15,0,0,0
+Bahrain,2020-02-16,0,0,0
+Bahrain,2020-02-17,0,0,0
+Bahrain,2020-02-18,0,0,0
+Bahrain,2020-02-19,0,0,0
+Bahrain,2020-02-20,0,0,0
+Bahrain,2020-02-21,0,0,0
+Bahrain,2020-02-22,0,0,0
+Bahrain,2020-02-23,0,0,0
+Bahrain,2020-02-24,1,0,0
+Bahrain,2020-02-25,23,0,0
+Bahrain,2020-02-26,33,0,0
+Bahrain,2020-02-27,33,0,0
+Bahrain,2020-02-28,36,0,0
+Bahrain,2020-02-29,41,0,0
+Bahrain,2020-03-01,47,0,0
+Bahrain,2020-03-02,49,0,0
+Bahrain,2020-03-03,49,0,0
+Bahrain,2020-03-04,52,0,0
+Bahrain,2020-03-05,55,0,0
+Bahrain,2020-03-06,60,0,4
+Bahrain,2020-03-07,85,0,4
+Bahrain,2020-03-08,85,0,4
+Bahrain,2020-03-09,95,0,14
+Bahrain,2020-03-10,110,0,22
+Bangladesh,2020-01-22,0,0,0
+Bangladesh,2020-01-23,0,0,0
+Bangladesh,2020-01-24,0,0,0
+Bangladesh,2020-01-25,0,0,0
+Bangladesh,2020-01-26,0,0,0
+Bangladesh,2020-01-27,0,0,0
+Bangladesh,2020-01-28,0,0,0
+Bangladesh,2020-01-29,0,0,0
+Bangladesh,2020-01-30,0,0,0
+Bangladesh,2020-01-31,0,0,0
+Bangladesh,2020-02-01,0,0,0
+Bangladesh,2020-02-02,0,0,0
+Bangladesh,2020-02-03,0,0,0
+Bangladesh,2020-02-04,0,0,0
+Bangladesh,2020-02-05,0,0,0
+Bangladesh,2020-02-06,0,0,0
+Bangladesh,2020-02-07,0,0,0
+Bangladesh,2020-02-08,0,0,0
+Bangladesh,2020-02-09,0,0,0
+Bangladesh,2020-02-10,0,0,0
+Bangladesh,2020-02-11,0,0,0
+Bangladesh,2020-02-12,0,0,0
+Bangladesh,2020-02-13,0,0,0
+Bangladesh,2020-02-14,0,0,0
+Bangladesh,2020-02-15,0,0,0
+Bangladesh,2020-02-16,0,0,0
+Bangladesh,2020-02-17,0,0,0
+Bangladesh,2020-02-18,0,0,0
+Bangladesh,2020-02-19,0,0,0
+Bangladesh,2020-02-20,0,0,0
+Bangladesh,2020-02-21,0,0,0
+Bangladesh,2020-02-22,0,0,0
+Bangladesh,2020-02-23,0,0,0
+Bangladesh,2020-02-24,0,0,0
+Bangladesh,2020-02-25,0,0,0
+Bangladesh,2020-02-26,0,0,0
+Bangladesh,2020-02-27,0,0,0
+Bangladesh,2020-02-28,0,0,0
+Bangladesh,2020-02-29,0,0,0
+Bangladesh,2020-03-01,0,0,0
+Bangladesh,2020-03-02,0,0,0
+Bangladesh,2020-03-03,0,0,0
+Bangladesh,2020-03-04,0,0,0
+Bangladesh,2020-03-05,0,0,0
+Bangladesh,2020-03-06,0,0,0
+Bangladesh,2020-03-07,0,0,0
+Bangladesh,2020-03-08,3,0,0
+Bangladesh,2020-03-09,3,0,0
+Bangladesh,2020-03-10,3,0,0
+Belarus,2020-01-22,0,0,0
+Belarus,2020-01-23,0,0,0
+Belarus,2020-01-24,0,0,0
+Belarus,2020-01-25,0,0,0
+Belarus,2020-01-26,0,0,0
+Belarus,2020-01-27,0,0,0
+Belarus,2020-01-28,0,0,0
+Belarus,2020-01-29,0,0,0
+Belarus,2020-01-30,0,0,0
+Belarus,2020-01-31,0,0,0
+Belarus,2020-02-01,0,0,0
+Belarus,2020-02-02,0,0,0
+Belarus,2020-02-03,0,0,0
+Belarus,2020-02-04,0,0,0
+Belarus,2020-02-05,0,0,0
+Belarus,2020-02-06,0,0,0
+Belarus,2020-02-07,0,0,0
+Belarus,2020-02-08,0,0,0
+Belarus,2020-02-09,0,0,0
+Belarus,2020-02-10,0,0,0
+Belarus,2020-02-11,0,0,0
+Belarus,2020-02-12,0,0,0
+Belarus,2020-02-13,0,0,0
+Belarus,2020-02-14,0,0,0
+Belarus,2020-02-15,0,0,0
+Belarus,2020-02-16,0,0,0
+Belarus,2020-02-17,0,0,0
+Belarus,2020-02-18,0,0,0
+Belarus,2020-02-19,0,0,0
+Belarus,2020-02-20,0,0,0
+Belarus,2020-02-21,0,0,0
+Belarus,2020-02-22,0,0,0
+Belarus,2020-02-23,0,0,0
+Belarus,2020-02-24,0,0,0
+Belarus,2020-02-25,0,0,0
+Belarus,2020-02-26,0,0,0
+Belarus,2020-02-27,0,0,0
+Belarus,2020-02-28,1,0,0
+Belarus,2020-02-29,1,0,0
+Belarus,2020-03-01,1,0,0
+Belarus,2020-03-02,1,0,0
+Belarus,2020-03-03,1,0,0
+Belarus,2020-03-04,6,0,0
+Belarus,2020-03-05,6,0,0
+Belarus,2020-03-06,6,0,0
+Belarus,2020-03-07,6,0,0
+Belarus,2020-03-08,6,0,0
+Belarus,2020-03-09,6,0,1
+Belarus,2020-03-10,9,0,3
+Belgium,2020-01-22,0,0,0
+Belgium,2020-01-23,0,0,0
+Belgium,2020-01-24,0,0,0
+Belgium,2020-01-25,0,0,0
+Belgium,2020-01-26,0,0,0
+Belgium,2020-01-27,0,0,0
+Belgium,2020-01-28,0,0,0
+Belgium,2020-01-29,0,0,0
+Belgium,2020-01-30,0,0,0
+Belgium,2020-01-31,0,0,0
+Belgium,2020-02-01,0,0,0
+Belgium,2020-02-02,0,0,0
+Belgium,2020-02-03,0,0,0
+Belgium,2020-02-04,1,0,0
+Belgium,2020-02-05,1,0,0
+Belgium,2020-02-06,1,0,0
+Belgium,2020-02-07,1,0,0
+Belgium,2020-02-08,1,0,0
+Belgium,2020-02-09,1,0,0
+Belgium,2020-02-10,1,0,0
+Belgium,2020-02-11,1,0,0
+Belgium,2020-02-12,1,0,0
+Belgium,2020-02-13,1,0,0
+Belgium,2020-02-14,1,0,0
+Belgium,2020-02-15,1,0,0
+Belgium,2020-02-16,1,0,0
+Belgium,2020-02-17,1,0,1
+Belgium,2020-02-18,1,0,1
+Belgium,2020-02-19,1,0,1
+Belgium,2020-02-20,1,0,1
+Belgium,2020-02-21,1,0,1
+Belgium,2020-02-22,1,0,1
+Belgium,2020-02-23,1,0,1
+Belgium,2020-02-24,1,0,1
+Belgium,2020-02-25,1,0,1
+Belgium,2020-02-26,1,0,1
+Belgium,2020-02-27,1,0,1
+Belgium,2020-02-28,1,0,1
+Belgium,2020-02-29,1,0,1
+Belgium,2020-03-01,2,0,1
+Belgium,2020-03-02,8,0,1
+Belgium,2020-03-03,13,0,1
+Belgium,2020-03-04,23,0,1
+Belgium,2020-03-05,50,0,1
+Belgium,2020-03-06,109,0,1
+Belgium,2020-03-07,169,0,1
+Belgium,2020-03-08,200,0,1
+Belgium,2020-03-09,239,0,1
+Belgium,2020-03-10,267,0,1
+Bhutan,2020-01-22,0,0,0
+Bhutan,2020-01-23,0,0,0
+Bhutan,2020-01-24,0,0,0
+Bhutan,2020-01-25,0,0,0
+Bhutan,2020-01-26,0,0,0
+Bhutan,2020-01-27,0,0,0
+Bhutan,2020-01-28,0,0,0
+Bhutan,2020-01-29,0,0,0
+Bhutan,2020-01-30,0,0,0
+Bhutan,2020-01-31,0,0,0
+Bhutan,2020-02-01,0,0,0
+Bhutan,2020-02-02,0,0,0
+Bhutan,2020-02-03,0,0,0
+Bhutan,2020-02-04,0,0,0
+Bhutan,2020-02-05,0,0,0
+Bhutan,2020-02-06,0,0,0
+Bhutan,2020-02-07,0,0,0
+Bhutan,2020-02-08,0,0,0
+Bhutan,2020-02-09,0,0,0
+Bhutan,2020-02-10,0,0,0
+Bhutan,2020-02-11,0,0,0
+Bhutan,2020-02-12,0,0,0
+Bhutan,2020-02-13,0,0,0
+Bhutan,2020-02-14,0,0,0
+Bhutan,2020-02-15,0,0,0
+Bhutan,2020-02-16,0,0,0
+Bhutan,2020-02-17,0,0,0
+Bhutan,2020-02-18,0,0,0
+Bhutan,2020-02-19,0,0,0
+Bhutan,2020-02-20,0,0,0
+Bhutan,2020-02-21,0,0,0
+Bhutan,2020-02-22,0,0,0
+Bhutan,2020-02-23,0,0,0
+Bhutan,2020-02-24,0,0,0
+Bhutan,2020-02-25,0,0,0
+Bhutan,2020-02-26,0,0,0
+Bhutan,2020-02-27,0,0,0
+Bhutan,2020-02-28,0,0,0
+Bhutan,2020-02-29,0,0,0
+Bhutan,2020-03-01,0,0,0
+Bhutan,2020-03-02,0,0,0
+Bhutan,2020-03-03,0,0,0
+Bhutan,2020-03-04,0,0,0
+Bhutan,2020-03-05,0,0,0
+Bhutan,2020-03-06,1,0,0
+Bhutan,2020-03-07,1,0,0
+Bhutan,2020-03-08,1,0,0
+Bhutan,2020-03-09,1,0,0
+Bhutan,2020-03-10,1,0,0
+Bosnia and Herzegovina,2020-01-22,0,0,0
+Bosnia and Herzegovina,2020-01-23,0,0,0
+Bosnia and Herzegovina,2020-01-24,0,0,0
+Bosnia and Herzegovina,2020-01-25,0,0,0
+Bosnia and Herzegovina,2020-01-26,0,0,0
+Bosnia and Herzegovina,2020-01-27,0,0,0
+Bosnia and Herzegovina,2020-01-28,0,0,0
+Bosnia and Herzegovina,2020-01-29,0,0,0
+Bosnia and Herzegovina,2020-01-30,0,0,0
+Bosnia and Herzegovina,2020-01-31,0,0,0
+Bosnia and Herzegovina,2020-02-01,0,0,0
+Bosnia and Herzegovina,2020-02-02,0,0,0
+Bosnia and Herzegovina,2020-02-03,0,0,0
+Bosnia and Herzegovina,2020-02-04,0,0,0
+Bosnia and Herzegovina,2020-02-05,0,0,0
+Bosnia and Herzegovina,2020-02-06,0,0,0
+Bosnia and Herzegovina,2020-02-07,0,0,0
+Bosnia and Herzegovina,2020-02-08,0,0,0
+Bosnia and Herzegovina,2020-02-09,0,0,0
+Bosnia and Herzegovina,2020-02-10,0,0,0
+Bosnia and Herzegovina,2020-02-11,0,0,0
+Bosnia and Herzegovina,2020-02-12,0,0,0
+Bosnia and Herzegovina,2020-02-13,0,0,0
+Bosnia and Herzegovina,2020-02-14,0,0,0
+Bosnia and Herzegovina,2020-02-15,0,0,0
+Bosnia and Herzegovina,2020-02-16,0,0,0
+Bosnia and Herzegovina,2020-02-17,0,0,0
+Bosnia and Herzegovina,2020-02-18,0,0,0
+Bosnia and Herzegovina,2020-02-19,0,0,0
+Bosnia and Herzegovina,2020-02-20,0,0,0
+Bosnia and Herzegovina,2020-02-21,0,0,0
+Bosnia and Herzegovina,2020-02-22,0,0,0
+Bosnia and Herzegovina,2020-02-23,0,0,0
+Bosnia and Herzegovina,2020-02-24,0,0,0
+Bosnia and Herzegovina,2020-02-25,0,0,0
+Bosnia and Herzegovina,2020-02-26,0,0,0
+Bosnia and Herzegovina,2020-02-27,0,0,0
+Bosnia and Herzegovina,2020-02-28,0,0,0
+Bosnia and Herzegovina,2020-02-29,0,0,0
+Bosnia and Herzegovina,2020-03-01,0,0,0
+Bosnia and Herzegovina,2020-03-02,0,0,0
+Bosnia and Herzegovina,2020-03-03,0,0,0
+Bosnia and Herzegovina,2020-03-04,0,0,0
+Bosnia and Herzegovina,2020-03-05,2,0,0
+Bosnia and Herzegovina,2020-03-06,2,0,0
+Bosnia and Herzegovina,2020-03-07,3,0,0
+Bosnia and Herzegovina,2020-03-08,3,0,0
+Bosnia and Herzegovina,2020-03-09,3,0,0
+Bosnia and Herzegovina,2020-03-10,5,0,0
+Brazil,2020-01-22,0,0,0
+Brazil,2020-01-23,0,0,0
+Brazil,2020-01-24,0,0,0
+Brazil,2020-01-25,0,0,0
+Brazil,2020-01-26,0,0,0
+Brazil,2020-01-27,0,0,0
+Brazil,2020-01-28,0,0,0
+Brazil,2020-01-29,0,0,0
+Brazil,2020-01-30,0,0,0
+Brazil,2020-01-31,0,0,0
+Brazil,2020-02-01,0,0,0
+Brazil,2020-02-02,0,0,0
+Brazil,2020-02-03,0,0,0
+Brazil,2020-02-04,0,0,0
+Brazil,2020-02-05,0,0,0
+Brazil,2020-02-06,0,0,0
+Brazil,2020-02-07,0,0,0
+Brazil,2020-02-08,0,0,0
+Brazil,2020-02-09,0,0,0
+Brazil,2020-02-10,0,0,0
+Brazil,2020-02-11,0,0,0
+Brazil,2020-02-12,0,0,0
+Brazil,2020-02-13,0,0,0
+Brazil,2020-02-14,0,0,0
+Brazil,2020-02-15,0,0,0
+Brazil,2020-02-16,0,0,0
+Brazil,2020-02-17,0,0,0
+Brazil,2020-02-18,0,0,0
+Brazil,2020-02-19,0,0,0
+Brazil,2020-02-20,0,0,0
+Brazil,2020-02-21,0,0,0
+Brazil,2020-02-22,0,0,0
+Brazil,2020-02-23,0,0,0
+Brazil,2020-02-24,0,0,0
+Brazil,2020-02-25,0,0,0
+Brazil,2020-02-26,1,0,0
+Brazil,2020-02-27,1,0,0
+Brazil,2020-02-28,1,0,0
+Brazil,2020-02-29,2,0,0
+Brazil,2020-03-01,2,0,0
+Brazil,2020-03-02,2,0,0
+Brazil,2020-03-03,2,0,0
+Brazil,2020-03-04,4,0,0
+Brazil,2020-03-05,4,0,0
+Brazil,2020-03-06,13,0,0
+Brazil,2020-03-07,13,0,0
+Brazil,2020-03-08,20,0,0
+Brazil,2020-03-09,25,0,0
+Brazil,2020-03-10,31,0,0
+Brunei,2020-01-22,0,0,0
+Brunei,2020-01-23,0,0,0
+Brunei,2020-01-24,0,0,0
+Brunei,2020-01-25,0,0,0
+Brunei,2020-01-26,0,0,0
+Brunei,2020-01-27,0,0,0
+Brunei,2020-01-28,0,0,0
+Brunei,2020-01-29,0,0,0
+Brunei,2020-01-30,0,0,0
+Brunei,2020-01-31,0,0,0
+Brunei,2020-02-01,0,0,0
+Brunei,2020-02-02,0,0,0
+Brunei,2020-02-03,0,0,0
+Brunei,2020-02-04,0,0,0
+Brunei,2020-02-05,0,0,0
+Brunei,2020-02-06,0,0,0
+Brunei,2020-02-07,0,0,0
+Brunei,2020-02-08,0,0,0
+Brunei,2020-02-09,0,0,0
+Brunei,2020-02-10,0,0,0
+Brunei,2020-02-11,0,0,0
+Brunei,2020-02-12,0,0,0
+Brunei,2020-02-13,0,0,0
+Brunei,2020-02-14,0,0,0
+Brunei,2020-02-15,0,0,0
+Brunei,2020-02-16,0,0,0
+Brunei,2020-02-17,0,0,0
+Brunei,2020-02-18,0,0,0
+Brunei,2020-02-19,0,0,0
+Brunei,2020-02-20,0,0,0
+Brunei,2020-02-21,0,0,0
+Brunei,2020-02-22,0,0,0
+Brunei,2020-02-23,0,0,0
+Brunei,2020-02-24,0,0,0
+Brunei,2020-02-25,0,0,0
+Brunei,2020-02-26,0,0,0
+Brunei,2020-02-27,0,0,0
+Brunei,2020-02-28,0,0,0
+Brunei,2020-02-29,0,0,0
+Brunei,2020-03-01,0,0,0
+Brunei,2020-03-02,0,0,0
+Brunei,2020-03-03,0,0,0
+Brunei,2020-03-04,0,0,0
+Brunei,2020-03-05,0,0,0
+Brunei,2020-03-06,0,0,0
+Brunei,2020-03-07,0,0,0
+Brunei,2020-03-08,0,0,0
+Brunei,2020-03-09,1,0,0
+Brunei,2020-03-10,1,0,0
+Bulgaria,2020-01-22,0,0,0
+Bulgaria,2020-01-23,0,0,0
+Bulgaria,2020-01-24,0,0,0
+Bulgaria,2020-01-25,0,0,0
+Bulgaria,2020-01-26,0,0,0
+Bulgaria,2020-01-27,0,0,0
+Bulgaria,2020-01-28,0,0,0
+Bulgaria,2020-01-29,0,0,0
+Bulgaria,2020-01-30,0,0,0
+Bulgaria,2020-01-31,0,0,0
+Bulgaria,2020-02-01,0,0,0
+Bulgaria,2020-02-02,0,0,0
+Bulgaria,2020-02-03,0,0,0
+Bulgaria,2020-02-04,0,0,0
+Bulgaria,2020-02-05,0,0,0
+Bulgaria,2020-02-06,0,0,0
+Bulgaria,2020-02-07,0,0,0
+Bulgaria,2020-02-08,0,0,0
+Bulgaria,2020-02-09,0,0,0
+Bulgaria,2020-02-10,0,0,0
+Bulgaria,2020-02-11,0,0,0
+Bulgaria,2020-02-12,0,0,0
+Bulgaria,2020-02-13,0,0,0
+Bulgaria,2020-02-14,0,0,0
+Bulgaria,2020-02-15,0,0,0
+Bulgaria,2020-02-16,0,0,0
+Bulgaria,2020-02-17,0,0,0
+Bulgaria,2020-02-18,0,0,0
+Bulgaria,2020-02-19,0,0,0
+Bulgaria,2020-02-20,0,0,0
+Bulgaria,2020-02-21,0,0,0
+Bulgaria,2020-02-22,0,0,0
+Bulgaria,2020-02-23,0,0,0
+Bulgaria,2020-02-24,0,0,0
+Bulgaria,2020-02-25,0,0,0
+Bulgaria,2020-02-26,0,0,0
+Bulgaria,2020-02-27,0,0,0
+Bulgaria,2020-02-28,0,0,0
+Bulgaria,2020-02-29,0,0,0
+Bulgaria,2020-03-01,0,0,0
+Bulgaria,2020-03-02,0,0,0
+Bulgaria,2020-03-03,0,0,0
+Bulgaria,2020-03-04,0,0,0
+Bulgaria,2020-03-05,0,0,0
+Bulgaria,2020-03-06,0,0,0
+Bulgaria,2020-03-07,0,0,0
+Bulgaria,2020-03-08,4,0,0
+Bulgaria,2020-03-09,4,0,0
+Bulgaria,2020-03-10,4,0,0
+Burkina Faso,2020-01-22,0,0,0
+Burkina Faso,2020-01-23,0,0,0
+Burkina Faso,2020-01-24,0,0,0
+Burkina Faso,2020-01-25,0,0,0
+Burkina Faso,2020-01-26,0,0,0
+Burkina Faso,2020-01-27,0,0,0
+Burkina Faso,2020-01-28,0,0,0
+Burkina Faso,2020-01-29,0,0,0
+Burkina Faso,2020-01-30,0,0,0
+Burkina Faso,2020-01-31,0,0,0
+Burkina Faso,2020-02-01,0,0,0
+Burkina Faso,2020-02-02,0,0,0
+Burkina Faso,2020-02-03,0,0,0
+Burkina Faso,2020-02-04,0,0,0
+Burkina Faso,2020-02-05,0,0,0
+Burkina Faso,2020-02-06,0,0,0
+Burkina Faso,2020-02-07,0,0,0
+Burkina Faso,2020-02-08,0,0,0
+Burkina Faso,2020-02-09,0,0,0
+Burkina Faso,2020-02-10,0,0,0
+Burkina Faso,2020-02-11,0,0,0
+Burkina Faso,2020-02-12,0,0,0
+Burkina Faso,2020-02-13,0,0,0
+Burkina Faso,2020-02-14,0,0,0
+Burkina Faso,2020-02-15,0,0,0
+Burkina Faso,2020-02-16,0,0,0
+Burkina Faso,2020-02-17,0,0,0
+Burkina Faso,2020-02-18,0,0,0
+Burkina Faso,2020-02-19,0,0,0
+Burkina Faso,2020-02-20,0,0,0
+Burkina Faso,2020-02-21,0,0,0
+Burkina Faso,2020-02-22,0,0,0
+Burkina Faso,2020-02-23,0,0,0
+Burkina Faso,2020-02-24,0,0,0
+Burkina Faso,2020-02-25,0,0,0
+Burkina Faso,2020-02-26,0,0,0
+Burkina Faso,2020-02-27,0,0,0
+Burkina Faso,2020-02-28,0,0,0
+Burkina Faso,2020-02-29,0,0,0
+Burkina Faso,2020-03-01,0,0,0
+Burkina Faso,2020-03-02,0,0,0
+Burkina Faso,2020-03-03,0,0,0
+Burkina Faso,2020-03-04,0,0,0
+Burkina Faso,2020-03-05,0,0,0
+Burkina Faso,2020-03-06,0,0,0
+Burkina Faso,2020-03-07,0,0,0
+Burkina Faso,2020-03-08,0,0,0
+Burkina Faso,2020-03-09,0,0,0
+Burkina Faso,2020-03-10,1,0,0
+Cambodia,2020-01-22,0,0,0
+Cambodia,2020-01-23,0,0,0
+Cambodia,2020-01-24,0,0,0
+Cambodia,2020-01-25,0,0,0
+Cambodia,2020-01-26,0,0,0
+Cambodia,2020-01-27,1,0,0
+Cambodia,2020-01-28,1,0,0
+Cambodia,2020-01-29,1,0,0
+Cambodia,2020-01-30,1,0,0
+Cambodia,2020-01-31,1,0,0
+Cambodia,2020-02-01,1,0,0
+Cambodia,2020-02-02,1,0,0
+Cambodia,2020-02-03,1,0,0
+Cambodia,2020-02-04,1,0,0
+Cambodia,2020-02-05,1,0,0
+Cambodia,2020-02-06,1,0,0
+Cambodia,2020-02-07,1,0,0
+Cambodia,2020-02-08,1,0,0
+Cambodia,2020-02-09,1,0,0
+Cambodia,2020-02-10,1,0,0
+Cambodia,2020-02-11,1,0,0
+Cambodia,2020-02-12,1,0,1
+Cambodia,2020-02-13,1,0,1
+Cambodia,2020-02-14,1,0,1
+Cambodia,2020-02-15,1,0,1
+Cambodia,2020-02-16,1,0,1
+Cambodia,2020-02-17,1,0,1
+Cambodia,2020-02-18,1,0,1
+Cambodia,2020-02-19,1,0,1
+Cambodia,2020-02-20,1,0,1
+Cambodia,2020-02-21,1,0,1
+Cambodia,2020-02-22,1,0,1
+Cambodia,2020-02-23,1,0,1
+Cambodia,2020-02-24,1,0,1
+Cambodia,2020-02-25,1,0,1
+Cambodia,2020-02-26,1,0,1
+Cambodia,2020-02-27,1,0,1
+Cambodia,2020-02-28,1,0,1
+Cambodia,2020-02-29,1,0,1
+Cambodia,2020-03-01,1,0,1
+Cambodia,2020-03-02,1,0,1
+Cambodia,2020-03-03,1,0,1
+Cambodia,2020-03-04,1,0,1
+Cambodia,2020-03-05,1,0,1
+Cambodia,2020-03-06,1,0,1
+Cambodia,2020-03-07,1,0,1
+Cambodia,2020-03-08,2,0,1
+Cambodia,2020-03-09,2,0,1
+Cambodia,2020-03-10,2,0,1
+Cameroon,2020-01-22,0,0,0
+Cameroon,2020-01-23,0,0,0
+Cameroon,2020-01-24,0,0,0
+Cameroon,2020-01-25,0,0,0
+Cameroon,2020-01-26,0,0,0
+Cameroon,2020-01-27,0,0,0
+Cameroon,2020-01-28,0,0,0
+Cameroon,2020-01-29,0,0,0
+Cameroon,2020-01-30,0,0,0
+Cameroon,2020-01-31,0,0,0
+Cameroon,2020-02-01,0,0,0
+Cameroon,2020-02-02,0,0,0
+Cameroon,2020-02-03,0,0,0
+Cameroon,2020-02-04,0,0,0
+Cameroon,2020-02-05,0,0,0
+Cameroon,2020-02-06,0,0,0
+Cameroon,2020-02-07,0,0,0
+Cameroon,2020-02-08,0,0,0
+Cameroon,2020-02-09,0,0,0
+Cameroon,2020-02-10,0,0,0
+Cameroon,2020-02-11,0,0,0
+Cameroon,2020-02-12,0,0,0
+Cameroon,2020-02-13,0,0,0
+Cameroon,2020-02-14,0,0,0
+Cameroon,2020-02-15,0,0,0
+Cameroon,2020-02-16,0,0,0
+Cameroon,2020-02-17,0,0,0
+Cameroon,2020-02-18,0,0,0
+Cameroon,2020-02-19,0,0,0
+Cameroon,2020-02-20,0,0,0
+Cameroon,2020-02-21,0,0,0
+Cameroon,2020-02-22,0,0,0
+Cameroon,2020-02-23,0,0,0
+Cameroon,2020-02-24,0,0,0
+Cameroon,2020-02-25,0,0,0
+Cameroon,2020-02-26,0,0,0
+Cameroon,2020-02-27,0,0,0
+Cameroon,2020-02-28,0,0,0
+Cameroon,2020-02-29,0,0,0
+Cameroon,2020-03-01,0,0,0
+Cameroon,2020-03-02,0,0,0
+Cameroon,2020-03-03,0,0,0
+Cameroon,2020-03-04,0,0,0
+Cameroon,2020-03-05,0,0,0
+Cameroon,2020-03-06,1,0,0
+Cameroon,2020-03-07,1,0,0
+Cameroon,2020-03-08,2,0,0
+Cameroon,2020-03-09,2,0,0
+Cameroon,2020-03-10,2,0,0
+Canada,2020-01-22,0,0,0
+Canada,2020-01-23,0,0,0
+Canada,2020-01-24,0,0,0
+Canada,2020-01-25,0,0,0
+Canada,2020-01-26,1,0,0
+Canada,2020-01-27,1,0,0
+Canada,2020-01-28,2,0,0
+Canada,2020-01-29,2,0,0
+Canada,2020-01-30,2,0,0
+Canada,2020-01-31,4,0,0
+Canada,2020-02-01,4,0,0
+Canada,2020-02-02,4,0,0
+Canada,2020-02-03,4,0,0
+Canada,2020-02-04,4,0,0
+Canada,2020-02-05,5,0,0
+Canada,2020-02-06,5,0,0
+Canada,2020-02-07,7,0,0
+Canada,2020-02-08,7,0,0
+Canada,2020-02-09,7,0,0
+Canada,2020-02-10,7,0,0
+Canada,2020-02-11,7,0,0
+Canada,2020-02-12,7,0,1
+Canada,2020-02-13,7,0,1
+Canada,2020-02-14,7,0,1
+Canada,2020-02-15,7,0,1
+Canada,2020-02-16,7,0,1
+Canada,2020-02-17,8,0,1
+Canada,2020-02-18,8,0,1
+Canada,2020-02-19,8,0,1
+Canada,2020-02-20,8,0,1
+Canada,2020-02-21,9,0,3
+Canada,2020-02-22,9,0,3
+Canada,2020-02-23,9,0,3
+Canada,2020-02-24,10,0,3
+Canada,2020-02-25,11,0,3
+Canada,2020-02-26,11,0,3
+Canada,2020-02-27,13,0,6
+Canada,2020-02-28,14,0,6
+Canada,2020-02-29,20,0,6
+Canada,2020-03-01,24,0,6
+Canada,2020-03-02,27,0,6
+Canada,2020-03-03,30,0,6
+Canada,2020-03-04,33,0,6
+Canada,2020-03-05,37,0,6
+Canada,2020-03-06,49,0,6
+Canada,2020-03-07,54,0,8
+Canada,2020-03-08,64,0,8
+Canada,2020-03-09,77,1,8
+Canada,2020-03-10,79,1,8
+Channel Islands,2020-01-22,0,0,0
+Channel Islands,2020-01-23,0,0,0
+Channel Islands,2020-01-24,0,0,0
+Channel Islands,2020-01-25,0,0,0
+Channel Islands,2020-01-26,0,0,0
+Channel Islands,2020-01-27,0,0,0
+Channel Islands,2020-01-28,0,0,0
+Channel Islands,2020-01-29,0,0,0
+Channel Islands,2020-01-30,0,0,0
+Channel Islands,2020-01-31,0,0,0
+Channel Islands,2020-02-01,0,0,0
+Channel Islands,2020-02-02,0,0,0
+Channel Islands,2020-02-03,0,0,0
+Channel Islands,2020-02-04,0,0,0
+Channel Islands,2020-02-05,0,0,0
+Channel Islands,2020-02-06,0,0,0
+Channel Islands,2020-02-07,0,0,0
+Channel Islands,2020-02-08,0,0,0
+Channel Islands,2020-02-09,0,0,0
+Channel Islands,2020-02-10,0,0,0
+Channel Islands,2020-02-11,0,0,0
+Channel Islands,2020-02-12,0,0,0
+Channel Islands,2020-02-13,0,0,0
+Channel Islands,2020-02-14,0,0,0
+Channel Islands,2020-02-15,0,0,0
+Channel Islands,2020-02-16,0,0,0
+Channel Islands,2020-02-17,0,0,0
+Channel Islands,2020-02-18,0,0,0
+Channel Islands,2020-02-19,0,0,0
+Channel Islands,2020-02-20,0,0,0
+Channel Islands,2020-02-21,0,0,0
+Channel Islands,2020-02-22,0,0,0
+Channel Islands,2020-02-23,0,0,0
+Channel Islands,2020-02-24,0,0,0
+Channel Islands,2020-02-25,0,0,0
+Channel Islands,2020-02-26,0,0,0
+Channel Islands,2020-02-27,0,0,0
+Channel Islands,2020-02-28,0,0,0
+Channel Islands,2020-02-29,0,0,0
+Channel Islands,2020-03-01,0,0,0
+Channel Islands,2020-03-02,0,0,0
+Channel Islands,2020-03-03,0,0,0
+Channel Islands,2020-03-04,0,0,0
+Channel Islands,2020-03-05,0,0,0
+Channel Islands,2020-03-06,0,0,0
+Channel Islands,2020-03-07,0,0,0
+Channel Islands,2020-03-08,0,0,0
+Channel Islands,2020-03-09,0,0,0
+Channel Islands,2020-03-10,1,0,0
+Chile,2020-01-22,0,0,0
+Chile,2020-01-23,0,0,0
+Chile,2020-01-24,0,0,0
+Chile,2020-01-25,0,0,0
+Chile,2020-01-26,0,0,0
+Chile,2020-01-27,0,0,0
+Chile,2020-01-28,0,0,0
+Chile,2020-01-29,0,0,0
+Chile,2020-01-30,0,0,0
+Chile,2020-01-31,0,0,0
+Chile,2020-02-01,0,0,0
+Chile,2020-02-02,0,0,0
+Chile,2020-02-03,0,0,0
+Chile,2020-02-04,0,0,0
+Chile,2020-02-05,0,0,0
+Chile,2020-02-06,0,0,0
+Chile,2020-02-07,0,0,0
+Chile,2020-02-08,0,0,0
+Chile,2020-02-09,0,0,0
+Chile,2020-02-10,0,0,0
+Chile,2020-02-11,0,0,0
+Chile,2020-02-12,0,0,0
+Chile,2020-02-13,0,0,0
+Chile,2020-02-14,0,0,0
+Chile,2020-02-15,0,0,0
+Chile,2020-02-16,0,0,0
+Chile,2020-02-17,0,0,0
+Chile,2020-02-18,0,0,0
+Chile,2020-02-19,0,0,0
+Chile,2020-02-20,0,0,0
+Chile,2020-02-21,0,0,0
+Chile,2020-02-22,0,0,0
+Chile,2020-02-23,0,0,0
+Chile,2020-02-24,0,0,0
+Chile,2020-02-25,0,0,0
+Chile,2020-02-26,0,0,0
+Chile,2020-02-27,0,0,0
+Chile,2020-02-28,0,0,0
+Chile,2020-02-29,0,0,0
+Chile,2020-03-01,0,0,0
+Chile,2020-03-02,0,0,0
+Chile,2020-03-03,1,0,0
+Chile,2020-03-04,1,0,0
+Chile,2020-03-05,4,0,0
+Chile,2020-03-06,4,0,0
+Chile,2020-03-07,4,0,0
+Chile,2020-03-08,8,0,0
+Chile,2020-03-09,8,0,0
+Chile,2020-03-10,13,0,0
+Colombia,2020-01-22,0,0,0
+Colombia,2020-01-23,0,0,0
+Colombia,2020-01-24,0,0,0
+Colombia,2020-01-25,0,0,0
+Colombia,2020-01-26,0,0,0
+Colombia,2020-01-27,0,0,0
+Colombia,2020-01-28,0,0,0
+Colombia,2020-01-29,0,0,0
+Colombia,2020-01-30,0,0,0
+Colombia,2020-01-31,0,0,0
+Colombia,2020-02-01,0,0,0
+Colombia,2020-02-02,0,0,0
+Colombia,2020-02-03,0,0,0
+Colombia,2020-02-04,0,0,0
+Colombia,2020-02-05,0,0,0
+Colombia,2020-02-06,0,0,0
+Colombia,2020-02-07,0,0,0
+Colombia,2020-02-08,0,0,0
+Colombia,2020-02-09,0,0,0
+Colombia,2020-02-10,0,0,0
+Colombia,2020-02-11,0,0,0
+Colombia,2020-02-12,0,0,0
+Colombia,2020-02-13,0,0,0
+Colombia,2020-02-14,0,0,0
+Colombia,2020-02-15,0,0,0
+Colombia,2020-02-16,0,0,0
+Colombia,2020-02-17,0,0,0
+Colombia,2020-02-18,0,0,0
+Colombia,2020-02-19,0,0,0
+Colombia,2020-02-20,0,0,0
+Colombia,2020-02-21,0,0,0
+Colombia,2020-02-22,0,0,0
+Colombia,2020-02-23,0,0,0
+Colombia,2020-02-24,0,0,0
+Colombia,2020-02-25,0,0,0
+Colombia,2020-02-26,0,0,0
+Colombia,2020-02-27,0,0,0
+Colombia,2020-02-28,0,0,0
+Colombia,2020-02-29,0,0,0
+Colombia,2020-03-01,0,0,0
+Colombia,2020-03-02,0,0,0
+Colombia,2020-03-03,0,0,0
+Colombia,2020-03-04,0,0,0
+Colombia,2020-03-05,0,0,0
+Colombia,2020-03-06,1,0,0
+Colombia,2020-03-07,1,0,0
+Colombia,2020-03-08,1,0,0
+Colombia,2020-03-09,1,0,0
+Colombia,2020-03-10,3,0,0
+Costa Rica,2020-01-22,0,0,0
+Costa Rica,2020-01-23,0,0,0
+Costa Rica,2020-01-24,0,0,0
+Costa Rica,2020-01-25,0,0,0
+Costa Rica,2020-01-26,0,0,0
+Costa Rica,2020-01-27,0,0,0
+Costa Rica,2020-01-28,0,0,0
+Costa Rica,2020-01-29,0,0,0
+Costa Rica,2020-01-30,0,0,0
+Costa Rica,2020-01-31,0,0,0
+Costa Rica,2020-02-01,0,0,0
+Costa Rica,2020-02-02,0,0,0
+Costa Rica,2020-02-03,0,0,0
+Costa Rica,2020-02-04,0,0,0
+Costa Rica,2020-02-05,0,0,0
+Costa Rica,2020-02-06,0,0,0
+Costa Rica,2020-02-07,0,0,0
+Costa Rica,2020-02-08,0,0,0
+Costa Rica,2020-02-09,0,0,0
+Costa Rica,2020-02-10,0,0,0
+Costa Rica,2020-02-11,0,0,0
+Costa Rica,2020-02-12,0,0,0
+Costa Rica,2020-02-13,0,0,0
+Costa Rica,2020-02-14,0,0,0
+Costa Rica,2020-02-15,0,0,0
+Costa Rica,2020-02-16,0,0,0
+Costa Rica,2020-02-17,0,0,0
+Costa Rica,2020-02-18,0,0,0
+Costa Rica,2020-02-19,0,0,0
+Costa Rica,2020-02-20,0,0,0
+Costa Rica,2020-02-21,0,0,0
+Costa Rica,2020-02-22,0,0,0
+Costa Rica,2020-02-23,0,0,0
+Costa Rica,2020-02-24,0,0,0
+Costa Rica,2020-02-25,0,0,0
+Costa Rica,2020-02-26,0,0,0
+Costa Rica,2020-02-27,0,0,0
+Costa Rica,2020-02-28,0,0,0
+Costa Rica,2020-02-29,0,0,0
+Costa Rica,2020-03-01,0,0,0
+Costa Rica,2020-03-02,0,0,0
+Costa Rica,2020-03-03,0,0,0
+Costa Rica,2020-03-04,0,0,0
+Costa Rica,2020-03-05,0,0,0
+Costa Rica,2020-03-06,1,0,0
+Costa Rica,2020-03-07,1,0,0
+Costa Rica,2020-03-08,5,0,0
+Costa Rica,2020-03-09,9,0,0
+Costa Rica,2020-03-10,9,0,0
+Croatia,2020-01-22,0,0,0
+Croatia,2020-01-23,0,0,0
+Croatia,2020-01-24,0,0,0
+Croatia,2020-01-25,0,0,0
+Croatia,2020-01-26,0,0,0
+Croatia,2020-01-27,0,0,0
+Croatia,2020-01-28,0,0,0
+Croatia,2020-01-29,0,0,0
+Croatia,2020-01-30,0,0,0
+Croatia,2020-01-31,0,0,0
+Croatia,2020-02-01,0,0,0
+Croatia,2020-02-02,0,0,0
+Croatia,2020-02-03,0,0,0
+Croatia,2020-02-04,0,0,0
+Croatia,2020-02-05,0,0,0
+Croatia,2020-02-06,0,0,0
+Croatia,2020-02-07,0,0,0
+Croatia,2020-02-08,0,0,0
+Croatia,2020-02-09,0,0,0
+Croatia,2020-02-10,0,0,0
+Croatia,2020-02-11,0,0,0
+Croatia,2020-02-12,0,0,0
+Croatia,2020-02-13,0,0,0
+Croatia,2020-02-14,0,0,0
+Croatia,2020-02-15,0,0,0
+Croatia,2020-02-16,0,0,0
+Croatia,2020-02-17,0,0,0
+Croatia,2020-02-18,0,0,0
+Croatia,2020-02-19,0,0,0
+Croatia,2020-02-20,0,0,0
+Croatia,2020-02-21,0,0,0
+Croatia,2020-02-22,0,0,0
+Croatia,2020-02-23,0,0,0
+Croatia,2020-02-24,0,0,0
+Croatia,2020-02-25,1,0,0
+Croatia,2020-02-26,3,0,0
+Croatia,2020-02-27,3,0,0
+Croatia,2020-02-28,5,0,0
+Croatia,2020-02-29,6,0,0
+Croatia,2020-03-01,7,0,0
+Croatia,2020-03-02,7,0,0
+Croatia,2020-03-03,9,0,0
+Croatia,2020-03-04,10,0,0
+Croatia,2020-03-05,10,0,0
+Croatia,2020-03-06,11,0,0
+Croatia,2020-03-07,12,0,0
+Croatia,2020-03-08,12,0,0
+Croatia,2020-03-09,12,0,0
+Croatia,2020-03-10,14,0,0
+Cyprus,2020-01-22,0,0,0
+Cyprus,2020-01-23,0,0,0
+Cyprus,2020-01-24,0,0,0
+Cyprus,2020-01-25,0,0,0
+Cyprus,2020-01-26,0,0,0
+Cyprus,2020-01-27,0,0,0
+Cyprus,2020-01-28,0,0,0
+Cyprus,2020-01-29,0,0,0
+Cyprus,2020-01-30,0,0,0
+Cyprus,2020-01-31,0,0,0
+Cyprus,2020-02-01,0,0,0
+Cyprus,2020-02-02,0,0,0
+Cyprus,2020-02-03,0,0,0
+Cyprus,2020-02-04,0,0,0
+Cyprus,2020-02-05,0,0,0
+Cyprus,2020-02-06,0,0,0
+Cyprus,2020-02-07,0,0,0
+Cyprus,2020-02-08,0,0,0
+Cyprus,2020-02-09,0,0,0
+Cyprus,2020-02-10,0,0,0
+Cyprus,2020-02-11,0,0,0
+Cyprus,2020-02-12,0,0,0
+Cyprus,2020-02-13,0,0,0
+Cyprus,2020-02-14,0,0,0
+Cyprus,2020-02-15,0,0,0
+Cyprus,2020-02-16,0,0,0
+Cyprus,2020-02-17,0,0,0
+Cyprus,2020-02-18,0,0,0
+Cyprus,2020-02-19,0,0,0
+Cyprus,2020-02-20,0,0,0
+Cyprus,2020-02-21,0,0,0
+Cyprus,2020-02-22,0,0,0
+Cyprus,2020-02-23,0,0,0
+Cyprus,2020-02-24,0,0,0
+Cyprus,2020-02-25,0,0,0
+Cyprus,2020-02-26,0,0,0
+Cyprus,2020-02-27,0,0,0
+Cyprus,2020-02-28,0,0,0
+Cyprus,2020-02-29,0,0,0
+Cyprus,2020-03-01,0,0,0
+Cyprus,2020-03-02,0,0,0
+Cyprus,2020-03-03,0,0,0
+Cyprus,2020-03-04,0,0,0
+Cyprus,2020-03-05,0,0,0
+Cyprus,2020-03-06,0,0,0
+Cyprus,2020-03-07,0,0,0
+Cyprus,2020-03-08,0,0,0
+Cyprus,2020-03-09,2,0,0
+Cyprus,2020-03-10,3,0,0
+Czech Republic,2020-01-22,0,0,0
+Czech Republic,2020-01-23,0,0,0
+Czech Republic,2020-01-24,0,0,0
+Czech Republic,2020-01-25,0,0,0
+Czech Republic,2020-01-26,0,0,0
+Czech Republic,2020-01-27,0,0,0
+Czech Republic,2020-01-28,0,0,0
+Czech Republic,2020-01-29,0,0,0
+Czech Republic,2020-01-30,0,0,0
+Czech Republic,2020-01-31,0,0,0
+Czech Republic,2020-02-01,0,0,0
+Czech Republic,2020-02-02,0,0,0
+Czech Republic,2020-02-03,0,0,0
+Czech Republic,2020-02-04,0,0,0
+Czech Republic,2020-02-05,0,0,0
+Czech Republic,2020-02-06,0,0,0
+Czech Republic,2020-02-07,0,0,0
+Czech Republic,2020-02-08,0,0,0
+Czech Republic,2020-02-09,0,0,0
+Czech Republic,2020-02-10,0,0,0
+Czech Republic,2020-02-11,0,0,0
+Czech Republic,2020-02-12,0,0,0
+Czech Republic,2020-02-13,0,0,0
+Czech Republic,2020-02-14,0,0,0
+Czech Republic,2020-02-15,0,0,0
+Czech Republic,2020-02-16,0,0,0
+Czech Republic,2020-02-17,0,0,0
+Czech Republic,2020-02-18,0,0,0
+Czech Republic,2020-02-19,0,0,0
+Czech Republic,2020-02-20,0,0,0
+Czech Republic,2020-02-21,0,0,0
+Czech Republic,2020-02-22,0,0,0
+Czech Republic,2020-02-23,0,0,0
+Czech Republic,2020-02-24,0,0,0
+Czech Republic,2020-02-25,0,0,0
+Czech Republic,2020-02-26,0,0,0
+Czech Republic,2020-02-27,0,0,0
+Czech Republic,2020-02-28,0,0,0
+Czech Republic,2020-02-29,0,0,0
+Czech Republic,2020-03-01,3,0,0
+Czech Republic,2020-03-02,3,0,0
+Czech Republic,2020-03-03,5,0,0
+Czech Republic,2020-03-04,8,0,0
+Czech Republic,2020-03-05,12,0,0
+Czech Republic,2020-03-06,18,0,0
+Czech Republic,2020-03-07,19,0,0
+Czech Republic,2020-03-08,31,0,0
+Czech Republic,2020-03-09,31,0,0
+Czech Republic,2020-03-10,41,0,0
+Denmark,2020-01-22,0,0,0
+Denmark,2020-01-23,0,0,0
+Denmark,2020-01-24,0,0,0
+Denmark,2020-01-25,0,0,0
+Denmark,2020-01-26,0,0,0
+Denmark,2020-01-27,0,0,0
+Denmark,2020-01-28,0,0,0
+Denmark,2020-01-29,0,0,0
+Denmark,2020-01-30,0,0,0
+Denmark,2020-01-31,0,0,0
+Denmark,2020-02-01,0,0,0
+Denmark,2020-02-02,0,0,0
+Denmark,2020-02-03,0,0,0
+Denmark,2020-02-04,0,0,0
+Denmark,2020-02-05,0,0,0
+Denmark,2020-02-06,0,0,0
+Denmark,2020-02-07,0,0,0
+Denmark,2020-02-08,0,0,0
+Denmark,2020-02-09,0,0,0
+Denmark,2020-02-10,0,0,0
+Denmark,2020-02-11,0,0,0
+Denmark,2020-02-12,0,0,0
+Denmark,2020-02-13,0,0,0
+Denmark,2020-02-14,0,0,0
+Denmark,2020-02-15,0,0,0
+Denmark,2020-02-16,0,0,0
+Denmark,2020-02-17,0,0,0
+Denmark,2020-02-18,0,0,0
+Denmark,2020-02-19,0,0,0
+Denmark,2020-02-20,0,0,0
+Denmark,2020-02-21,0,0,0
+Denmark,2020-02-22,0,0,0
+Denmark,2020-02-23,0,0,0
+Denmark,2020-02-24,0,0,0
+Denmark,2020-02-25,0,0,0
+Denmark,2020-02-26,0,0,0
+Denmark,2020-02-27,1,0,0
+Denmark,2020-02-28,1,0,0
+Denmark,2020-02-29,3,0,0
+Denmark,2020-03-01,4,0,0
+Denmark,2020-03-02,4,0,0
+Denmark,2020-03-03,6,0,0
+Denmark,2020-03-04,10,0,0
+Denmark,2020-03-05,10,0,0
+Denmark,2020-03-06,23,0,1
+Denmark,2020-03-07,23,0,1
+Denmark,2020-03-08,35,0,1
+Denmark,2020-03-09,90,0,1
+Denmark,2020-03-10,262,0,1
+Dominican Republic,2020-01-22,0,0,0
+Dominican Republic,2020-01-23,0,0,0
+Dominican Republic,2020-01-24,0,0,0
+Dominican Republic,2020-01-25,0,0,0
+Dominican Republic,2020-01-26,0,0,0
+Dominican Republic,2020-01-27,0,0,0
+Dominican Republic,2020-01-28,0,0,0
+Dominican Republic,2020-01-29,0,0,0
+Dominican Republic,2020-01-30,0,0,0
+Dominican Republic,2020-01-31,0,0,0
+Dominican Republic,2020-02-01,0,0,0
+Dominican Republic,2020-02-02,0,0,0
+Dominican Republic,2020-02-03,0,0,0
+Dominican Republic,2020-02-04,0,0,0
+Dominican Republic,2020-02-05,0,0,0
+Dominican Republic,2020-02-06,0,0,0
+Dominican Republic,2020-02-07,0,0,0
+Dominican Republic,2020-02-08,0,0,0
+Dominican Republic,2020-02-09,0,0,0
+Dominican Republic,2020-02-10,0,0,0
+Dominican Republic,2020-02-11,0,0,0
+Dominican Republic,2020-02-12,0,0,0
+Dominican Republic,2020-02-13,0,0,0
+Dominican Republic,2020-02-14,0,0,0
+Dominican Republic,2020-02-15,0,0,0
+Dominican Republic,2020-02-16,0,0,0
+Dominican Republic,2020-02-17,0,0,0
+Dominican Republic,2020-02-18,0,0,0
+Dominican Republic,2020-02-19,0,0,0
+Dominican Republic,2020-02-20,0,0,0
+Dominican Republic,2020-02-21,0,0,0
+Dominican Republic,2020-02-22,0,0,0
+Dominican Republic,2020-02-23,0,0,0
+Dominican Republic,2020-02-24,0,0,0
+Dominican Republic,2020-02-25,0,0,0
+Dominican Republic,2020-02-26,0,0,0
+Dominican Republic,2020-02-27,0,0,0
+Dominican Republic,2020-02-28,0,0,0
+Dominican Republic,2020-02-29,0,0,0
+Dominican Republic,2020-03-01,1,0,0
+Dominican Republic,2020-03-02,1,0,0
+Dominican Republic,2020-03-03,1,0,0
+Dominican Republic,2020-03-04,1,0,0
+Dominican Republic,2020-03-05,1,0,0
+Dominican Republic,2020-03-06,2,0,0
+Dominican Republic,2020-03-07,2,0,0
+Dominican Republic,2020-03-08,5,0,0
+Dominican Republic,2020-03-09,5,0,0
+Dominican Republic,2020-03-10,5,0,0
+Ecuador,2020-01-22,0,0,0
+Ecuador,2020-01-23,0,0,0
+Ecuador,2020-01-24,0,0,0
+Ecuador,2020-01-25,0,0,0
+Ecuador,2020-01-26,0,0,0
+Ecuador,2020-01-27,0,0,0
+Ecuador,2020-01-28,0,0,0
+Ecuador,2020-01-29,0,0,0
+Ecuador,2020-01-30,0,0,0
+Ecuador,2020-01-31,0,0,0
+Ecuador,2020-02-01,0,0,0
+Ecuador,2020-02-02,0,0,0
+Ecuador,2020-02-03,0,0,0
+Ecuador,2020-02-04,0,0,0
+Ecuador,2020-02-05,0,0,0
+Ecuador,2020-02-06,0,0,0
+Ecuador,2020-02-07,0,0,0
+Ecuador,2020-02-08,0,0,0
+Ecuador,2020-02-09,0,0,0
+Ecuador,2020-02-10,0,0,0
+Ecuador,2020-02-11,0,0,0
+Ecuador,2020-02-12,0,0,0
+Ecuador,2020-02-13,0,0,0
+Ecuador,2020-02-14,0,0,0
+Ecuador,2020-02-15,0,0,0
+Ecuador,2020-02-16,0,0,0
+Ecuador,2020-02-17,0,0,0
+Ecuador,2020-02-18,0,0,0
+Ecuador,2020-02-19,0,0,0
+Ecuador,2020-02-20,0,0,0
+Ecuador,2020-02-21,0,0,0
+Ecuador,2020-02-22,0,0,0
+Ecuador,2020-02-23,0,0,0
+Ecuador,2020-02-24,0,0,0
+Ecuador,2020-02-25,0,0,0
+Ecuador,2020-02-26,0,0,0
+Ecuador,2020-02-27,0,0,0
+Ecuador,2020-02-28,0,0,0
+Ecuador,2020-02-29,0,0,0
+Ecuador,2020-03-01,6,0,0
+Ecuador,2020-03-02,6,0,0
+Ecuador,2020-03-03,7,0,0
+Ecuador,2020-03-04,10,0,0
+Ecuador,2020-03-05,13,0,0
+Ecuador,2020-03-06,13,0,0
+Ecuador,2020-03-07,13,0,0
+Ecuador,2020-03-08,14,0,0
+Ecuador,2020-03-09,15,0,0
+Ecuador,2020-03-10,15,0,0
+Egypt,2020-01-22,0,0,0
+Egypt,2020-01-23,0,0,0
+Egypt,2020-01-24,0,0,0
+Egypt,2020-01-25,0,0,0
+Egypt,2020-01-26,0,0,0
+Egypt,2020-01-27,0,0,0
+Egypt,2020-01-28,0,0,0
+Egypt,2020-01-29,0,0,0
+Egypt,2020-01-30,0,0,0
+Egypt,2020-01-31,0,0,0
+Egypt,2020-02-01,0,0,0
+Egypt,2020-02-02,0,0,0
+Egypt,2020-02-03,0,0,0
+Egypt,2020-02-04,0,0,0
+Egypt,2020-02-05,0,0,0
+Egypt,2020-02-06,0,0,0
+Egypt,2020-02-07,0,0,0
+Egypt,2020-02-08,0,0,0
+Egypt,2020-02-09,0,0,0
+Egypt,2020-02-10,0,0,0
+Egypt,2020-02-11,0,0,0
+Egypt,2020-02-12,0,0,0
+Egypt,2020-02-13,0,0,0
+Egypt,2020-02-14,1,0,0
+Egypt,2020-02-15,1,0,0
+Egypt,2020-02-16,1,0,0
+Egypt,2020-02-17,1,0,0
+Egypt,2020-02-18,1,0,0
+Egypt,2020-02-19,1,0,0
+Egypt,2020-02-20,1,0,0
+Egypt,2020-02-21,1,0,0
+Egypt,2020-02-22,1,0,0
+Egypt,2020-02-23,1,0,0
+Egypt,2020-02-24,1,0,0
+Egypt,2020-02-25,1,0,0
+Egypt,2020-02-26,1,0,0
+Egypt,2020-02-27,1,0,0
+Egypt,2020-02-28,1,0,1
+Egypt,2020-02-29,1,0,1
+Egypt,2020-03-01,2,0,1
+Egypt,2020-03-02,2,0,1
+Egypt,2020-03-03,2,0,1
+Egypt,2020-03-04,2,0,1
+Egypt,2020-03-05,3,0,1
+Egypt,2020-03-06,15,0,1
+Egypt,2020-03-07,15,0,1
+Egypt,2020-03-08,49,1,1
+Egypt,2020-03-09,55,1,1
+Egypt,2020-03-10,59,1,1
+Estonia,2020-01-22,0,0,0
+Estonia,2020-01-23,0,0,0
+Estonia,2020-01-24,0,0,0
+Estonia,2020-01-25,0,0,0
+Estonia,2020-01-26,0,0,0
+Estonia,2020-01-27,0,0,0
+Estonia,2020-01-28,0,0,0
+Estonia,2020-01-29,0,0,0
+Estonia,2020-01-30,0,0,0
+Estonia,2020-01-31,0,0,0
+Estonia,2020-02-01,0,0,0
+Estonia,2020-02-02,0,0,0
+Estonia,2020-02-03,0,0,0
+Estonia,2020-02-04,0,0,0
+Estonia,2020-02-05,0,0,0
+Estonia,2020-02-06,0,0,0
+Estonia,2020-02-07,0,0,0
+Estonia,2020-02-08,0,0,0
+Estonia,2020-02-09,0,0,0
+Estonia,2020-02-10,0,0,0
+Estonia,2020-02-11,0,0,0
+Estonia,2020-02-12,0,0,0
+Estonia,2020-02-13,0,0,0
+Estonia,2020-02-14,0,0,0
+Estonia,2020-02-15,0,0,0
+Estonia,2020-02-16,0,0,0
+Estonia,2020-02-17,0,0,0
+Estonia,2020-02-18,0,0,0
+Estonia,2020-02-19,0,0,0
+Estonia,2020-02-20,0,0,0
+Estonia,2020-02-21,0,0,0
+Estonia,2020-02-22,0,0,0
+Estonia,2020-02-23,0,0,0
+Estonia,2020-02-24,0,0,0
+Estonia,2020-02-25,0,0,0
+Estonia,2020-02-26,0,0,0
+Estonia,2020-02-27,1,0,0
+Estonia,2020-02-28,1,0,0
+Estonia,2020-02-29,1,0,0
+Estonia,2020-03-01,1,0,0
+Estonia,2020-03-02,1,0,0
+Estonia,2020-03-03,2,0,0
+Estonia,2020-03-04,2,0,0
+Estonia,2020-03-05,3,0,0
+Estonia,2020-03-06,10,0,0
+Estonia,2020-03-07,10,0,0
+Estonia,2020-03-08,10,0,0
+Estonia,2020-03-09,10,0,0
+Estonia,2020-03-10,12,0,0
+Faroe Islands,2020-01-22,0,0,0
+Faroe Islands,2020-01-23,0,0,0
+Faroe Islands,2020-01-24,0,0,0
+Faroe Islands,2020-01-25,0,0,0
+Faroe Islands,2020-01-26,0,0,0
+Faroe Islands,2020-01-27,0,0,0
+Faroe Islands,2020-01-28,0,0,0
+Faroe Islands,2020-01-29,0,0,0
+Faroe Islands,2020-01-30,0,0,0
+Faroe Islands,2020-01-31,0,0,0
+Faroe Islands,2020-02-01,0,0,0
+Faroe Islands,2020-02-02,0,0,0
+Faroe Islands,2020-02-03,0,0,0
+Faroe Islands,2020-02-04,0,0,0
+Faroe Islands,2020-02-05,0,0,0
+Faroe Islands,2020-02-06,0,0,0
+Faroe Islands,2020-02-07,0,0,0
+Faroe Islands,2020-02-08,0,0,0
+Faroe Islands,2020-02-09,0,0,0
+Faroe Islands,2020-02-10,0,0,0
+Faroe Islands,2020-02-11,0,0,0
+Faroe Islands,2020-02-12,0,0,0
+Faroe Islands,2020-02-13,0,0,0
+Faroe Islands,2020-02-14,0,0,0
+Faroe Islands,2020-02-15,0,0,0
+Faroe Islands,2020-02-16,0,0,0
+Faroe Islands,2020-02-17,0,0,0
+Faroe Islands,2020-02-18,0,0,0
+Faroe Islands,2020-02-19,0,0,0
+Faroe Islands,2020-02-20,0,0,0
+Faroe Islands,2020-02-21,0,0,0
+Faroe Islands,2020-02-22,0,0,0
+Faroe Islands,2020-02-23,0,0,0
+Faroe Islands,2020-02-24,0,0,0
+Faroe Islands,2020-02-25,0,0,0
+Faroe Islands,2020-02-26,0,0,0
+Faroe Islands,2020-02-27,0,0,0
+Faroe Islands,2020-02-28,0,0,0
+Faroe Islands,2020-02-29,0,0,0
+Faroe Islands,2020-03-01,0,0,0
+Faroe Islands,2020-03-02,0,0,0
+Faroe Islands,2020-03-03,0,0,0
+Faroe Islands,2020-03-04,1,0,0
+Faroe Islands,2020-03-05,1,0,0
+Faroe Islands,2020-03-06,1,0,0
+Faroe Islands,2020-03-07,1,0,0
+Faroe Islands,2020-03-08,2,0,0
+Faroe Islands,2020-03-09,2,0,0
+Faroe Islands,2020-03-10,2,0,0
+Finland,2020-01-22,0,0,0
+Finland,2020-01-23,0,0,0
+Finland,2020-01-24,0,0,0
+Finland,2020-01-25,0,0,0
+Finland,2020-01-26,0,0,0
+Finland,2020-01-27,0,0,0
+Finland,2020-01-28,0,0,0
+Finland,2020-01-29,1,0,0
+Finland,2020-01-30,1,0,0
+Finland,2020-01-31,1,0,0
+Finland,2020-02-01,1,0,0
+Finland,2020-02-02,1,0,0
+Finland,2020-02-03,1,0,0
+Finland,2020-02-04,1,0,0
+Finland,2020-02-05,1,0,0
+Finland,2020-02-06,1,0,0
+Finland,2020-02-07,1,0,0
+Finland,2020-02-08,1,0,0
+Finland,2020-02-09,1,0,0
+Finland,2020-02-10,1,0,0
+Finland,2020-02-11,1,0,0
+Finland,2020-02-12,1,0,1
+Finland,2020-02-13,1,0,1
+Finland,2020-02-14,1,0,1
+Finland,2020-02-15,1,0,1
+Finland,2020-02-16,1,0,1
+Finland,2020-02-17,1,0,1
+Finland,2020-02-18,1,0,1
+Finland,2020-02-19,1,0,1
+Finland,2020-02-20,1,0,1
+Finland,2020-02-21,1,0,1
+Finland,2020-02-22,1,0,1
+Finland,2020-02-23,1,0,1
+Finland,2020-02-24,1,0,1
+Finland,2020-02-25,1,0,1
+Finland,2020-02-26,2,0,1
+Finland,2020-02-27,2,0,1
+Finland,2020-02-28,2,0,1
+Finland,2020-02-29,3,0,1
+Finland,2020-03-01,6,0,1
+Finland,2020-03-02,6,0,1
+Finland,2020-03-03,6,0,1
+Finland,2020-03-04,6,0,1
+Finland,2020-03-05,12,0,1
+Finland,2020-03-06,15,0,1
+Finland,2020-03-07,15,0,1
+Finland,2020-03-08,23,0,1
+Finland,2020-03-09,30,0,1
+Finland,2020-03-10,40,0,1
+France,2020-01-22,0,0,0
+France,2020-01-23,0,0,0
+France,2020-01-24,2,0,0
+France,2020-01-25,3,0,0
+France,2020-01-26,3,0,0
+France,2020-01-27,3,0,0
+France,2020-01-28,4,0,0
+France,2020-01-29,5,0,0
+France,2020-01-30,5,0,0
+France,2020-01-31,5,0,0
+France,2020-02-01,6,0,0
+France,2020-02-02,6,0,0
+France,2020-02-03,6,0,0
+France,2020-02-04,6,0,0
+France,2020-02-05,6,0,0
+France,2020-02-06,6,0,0
+France,2020-02-07,6,0,0
+France,2020-02-08,11,0,0
+France,2020-02-09,11,0,0
+France,2020-02-10,11,0,0
+France,2020-02-11,11,0,0
+France,2020-02-12,11,0,2
+France,2020-02-13,11,0,2
+France,2020-02-14,11,0,2
+France,2020-02-15,12,1,4
+France,2020-02-16,12,1,4
+France,2020-02-17,12,1,4
+France,2020-02-18,12,1,4
+France,2020-02-19,12,1,4
+France,2020-02-20,12,1,4
+France,2020-02-21,12,1,4
+France,2020-02-22,12,1,4
+France,2020-02-23,12,1,4
+France,2020-02-24,12,1,4
+France,2020-02-25,14,1,11
+France,2020-02-26,18,2,11
+France,2020-02-27,38,2,11
+France,2020-02-28,57,2,11
+France,2020-02-29,100,2,12
+France,2020-03-01,130,2,12
+France,2020-03-02,191,3,12
+France,2020-03-03,204,4,12
+France,2020-03-04,285,4,12
+France,2020-03-05,377,6,12
+France,2020-03-06,653,9,12
+France,2020-03-07,949,11,12
+France,2020-03-08,1126,19,12
+France,2020-03-09,1209,19,12
+France,2020-03-10,1784,33,12
+French Guiana,2020-01-22,0,0,0
+French Guiana,2020-01-23,0,0,0
+French Guiana,2020-01-24,0,0,0
+French Guiana,2020-01-25,0,0,0
+French Guiana,2020-01-26,0,0,0
+French Guiana,2020-01-27,0,0,0
+French Guiana,2020-01-28,0,0,0
+French Guiana,2020-01-29,0,0,0
+French Guiana,2020-01-30,0,0,0
+French Guiana,2020-01-31,0,0,0
+French Guiana,2020-02-01,0,0,0
+French Guiana,2020-02-02,0,0,0
+French Guiana,2020-02-03,0,0,0
+French Guiana,2020-02-04,0,0,0
+French Guiana,2020-02-05,0,0,0
+French Guiana,2020-02-06,0,0,0
+French Guiana,2020-02-07,0,0,0
+French Guiana,2020-02-08,0,0,0
+French Guiana,2020-02-09,0,0,0
+French Guiana,2020-02-10,0,0,0
+French Guiana,2020-02-11,0,0,0
+French Guiana,2020-02-12,0,0,0
+French Guiana,2020-02-13,0,0,0
+French Guiana,2020-02-14,0,0,0
+French Guiana,2020-02-15,0,0,0
+French Guiana,2020-02-16,0,0,0
+French Guiana,2020-02-17,0,0,0
+French Guiana,2020-02-18,0,0,0
+French Guiana,2020-02-19,0,0,0
+French Guiana,2020-02-20,0,0,0
+French Guiana,2020-02-21,0,0,0
+French Guiana,2020-02-22,0,0,0
+French Guiana,2020-02-23,0,0,0
+French Guiana,2020-02-24,0,0,0
+French Guiana,2020-02-25,0,0,0
+French Guiana,2020-02-26,0,0,0
+French Guiana,2020-02-27,0,0,0
+French Guiana,2020-02-28,0,0,0
+French Guiana,2020-02-29,0,0,0
+French Guiana,2020-03-01,0,0,0
+French Guiana,2020-03-02,0,0,0
+French Guiana,2020-03-03,0,0,0
+French Guiana,2020-03-04,0,0,0
+French Guiana,2020-03-05,0,0,0
+French Guiana,2020-03-06,0,0,0
+French Guiana,2020-03-07,5,0,0
+French Guiana,2020-03-08,5,0,0
+French Guiana,2020-03-09,5,0,0
+French Guiana,2020-03-10,5,0,0
+Georgia,2020-01-22,0,0,0
+Georgia,2020-01-23,0,0,0
+Georgia,2020-01-24,0,0,0
+Georgia,2020-01-25,0,0,0
+Georgia,2020-01-26,0,0,0
+Georgia,2020-01-27,0,0,0
+Georgia,2020-01-28,0,0,0
+Georgia,2020-01-29,0,0,0
+Georgia,2020-01-30,0,0,0
+Georgia,2020-01-31,0,0,0
+Georgia,2020-02-01,0,0,0
+Georgia,2020-02-02,0,0,0
+Georgia,2020-02-03,0,0,0
+Georgia,2020-02-04,0,0,0
+Georgia,2020-02-05,0,0,0
+Georgia,2020-02-06,0,0,0
+Georgia,2020-02-07,0,0,0
+Georgia,2020-02-08,0,0,0
+Georgia,2020-02-09,0,0,0
+Georgia,2020-02-10,0,0,0
+Georgia,2020-02-11,0,0,0
+Georgia,2020-02-12,0,0,0
+Georgia,2020-02-13,0,0,0
+Georgia,2020-02-14,0,0,0
+Georgia,2020-02-15,0,0,0
+Georgia,2020-02-16,0,0,0
+Georgia,2020-02-17,0,0,0
+Georgia,2020-02-18,0,0,0
+Georgia,2020-02-19,0,0,0
+Georgia,2020-02-20,0,0,0
+Georgia,2020-02-21,0,0,0
+Georgia,2020-02-22,0,0,0
+Georgia,2020-02-23,0,0,0
+Georgia,2020-02-24,0,0,0
+Georgia,2020-02-25,0,0,0
+Georgia,2020-02-26,1,0,0
+Georgia,2020-02-27,1,0,0
+Georgia,2020-02-28,1,0,0
+Georgia,2020-02-29,1,0,0
+Georgia,2020-03-01,3,0,0
+Georgia,2020-03-02,3,0,0
+Georgia,2020-03-03,3,0,0
+Georgia,2020-03-04,3,0,0
+Georgia,2020-03-05,4,0,0
+Georgia,2020-03-06,4,0,0
+Georgia,2020-03-07,4,0,0
+Georgia,2020-03-08,13,0,0
+Georgia,2020-03-09,15,0,0
+Georgia,2020-03-10,15,0,0
+Germany,2020-01-22,0,0,0
+Germany,2020-01-23,0,0,0
+Germany,2020-01-24,0,0,0
+Germany,2020-01-25,0,0,0
+Germany,2020-01-26,0,0,0
+Germany,2020-01-27,1,0,0
+Germany,2020-01-28,4,0,0
+Germany,2020-01-29,4,0,0
+Germany,2020-01-30,4,0,0
+Germany,2020-01-31,5,0,0
+Germany,2020-02-01,8,0,0
+Germany,2020-02-02,10,0,0
+Germany,2020-02-03,12,0,0
+Germany,2020-02-04,12,0,0
+Germany,2020-02-05,12,0,0
+Germany,2020-02-06,12,0,0
+Germany,2020-02-07,13,0,0
+Germany,2020-02-08,13,0,0
+Germany,2020-02-09,14,0,0
+Germany,2020-02-10,14,0,0
+Germany,2020-02-11,16,0,0
+Germany,2020-02-12,16,0,0
+Germany,2020-02-13,16,0,1
+Germany,2020-02-14,16,0,1
+Germany,2020-02-15,16,0,1
+Germany,2020-02-16,16,0,1
+Germany,2020-02-17,16,0,1
+Germany,2020-02-18,16,0,12
+Germany,2020-02-19,16,0,12
+Germany,2020-02-20,16,0,12
+Germany,2020-02-21,16,0,14
+Germany,2020-02-22,16,0,14
+Germany,2020-02-23,16,0,14
+Germany,2020-02-24,16,0,14
+Germany,2020-02-25,17,0,14
+Germany,2020-02-26,27,0,15
+Germany,2020-02-27,46,0,16
+Germany,2020-02-28,48,0,16
+Germany,2020-02-29,79,0,16
+Germany,2020-03-01,130,0,16
+Germany,2020-03-02,159,0,16
+Germany,2020-03-03,196,0,16
+Germany,2020-03-04,262,0,16
+Germany,2020-03-05,482,0,16
+Germany,2020-03-06,670,0,17
+Germany,2020-03-07,799,0,18
+Germany,2020-03-08,1040,0,18
+Germany,2020-03-09,1176,2,18
+Germany,2020-03-10,1457,2,18
+Gibraltar,2020-01-22,0,0,0
+Gibraltar,2020-01-23,0,0,0
+Gibraltar,2020-01-24,0,0,0
+Gibraltar,2020-01-25,0,0,0
+Gibraltar,2020-01-26,0,0,0
+Gibraltar,2020-01-27,0,0,0
+Gibraltar,2020-01-28,0,0,0
+Gibraltar,2020-01-29,0,0,0
+Gibraltar,2020-01-30,0,0,0
+Gibraltar,2020-01-31,0,0,0
+Gibraltar,2020-02-01,0,0,0
+Gibraltar,2020-02-02,0,0,0
+Gibraltar,2020-02-03,0,0,0
+Gibraltar,2020-02-04,0,0,0
+Gibraltar,2020-02-05,0,0,0
+Gibraltar,2020-02-06,0,0,0
+Gibraltar,2020-02-07,0,0,0
+Gibraltar,2020-02-08,0,0,0
+Gibraltar,2020-02-09,0,0,0
+Gibraltar,2020-02-10,0,0,0
+Gibraltar,2020-02-11,0,0,0
+Gibraltar,2020-02-12,0,0,0
+Gibraltar,2020-02-13,0,0,0
+Gibraltar,2020-02-14,0,0,0
+Gibraltar,2020-02-15,0,0,0
+Gibraltar,2020-02-16,0,0,0
+Gibraltar,2020-02-17,0,0,0
+Gibraltar,2020-02-18,0,0,0
+Gibraltar,2020-02-19,0,0,0
+Gibraltar,2020-02-20,0,0,0
+Gibraltar,2020-02-21,0,0,0
+Gibraltar,2020-02-22,0,0,0
+Gibraltar,2020-02-23,0,0,0
+Gibraltar,2020-02-24,0,0,0
+Gibraltar,2020-02-25,0,0,0
+Gibraltar,2020-02-26,0,0,0
+Gibraltar,2020-02-27,0,0,0
+Gibraltar,2020-02-28,0,0,0
+Gibraltar,2020-02-29,0,0,0
+Gibraltar,2020-03-01,0,0,0
+Gibraltar,2020-03-02,0,0,0
+Gibraltar,2020-03-03,0,0,0
+Gibraltar,2020-03-04,1,0,0
+Gibraltar,2020-03-05,1,0,0
+Gibraltar,2020-03-06,1,0,0
+Gibraltar,2020-03-07,1,0,0
+Gibraltar,2020-03-08,1,0,0
+Gibraltar,2020-03-09,1,0,0
+Gibraltar,2020-03-10,1,0,1
+Greece,2020-01-22,0,0,0
+Greece,2020-01-23,0,0,0
+Greece,2020-01-24,0,0,0
+Greece,2020-01-25,0,0,0
+Greece,2020-01-26,0,0,0
+Greece,2020-01-27,0,0,0
+Greece,2020-01-28,0,0,0
+Greece,2020-01-29,0,0,0
+Greece,2020-01-30,0,0,0
+Greece,2020-01-31,0,0,0
+Greece,2020-02-01,0,0,0
+Greece,2020-02-02,0,0,0
+Greece,2020-02-03,0,0,0
+Greece,2020-02-04,0,0,0
+Greece,2020-02-05,0,0,0
+Greece,2020-02-06,0,0,0
+Greece,2020-02-07,0,0,0
+Greece,2020-02-08,0,0,0
+Greece,2020-02-09,0,0,0
+Greece,2020-02-10,0,0,0
+Greece,2020-02-11,0,0,0
+Greece,2020-02-12,0,0,0
+Greece,2020-02-13,0,0,0
+Greece,2020-02-14,0,0,0
+Greece,2020-02-15,0,0,0
+Greece,2020-02-16,0,0,0
+Greece,2020-02-17,0,0,0
+Greece,2020-02-18,0,0,0
+Greece,2020-02-19,0,0,0
+Greece,2020-02-20,0,0,0
+Greece,2020-02-21,0,0,0
+Greece,2020-02-22,0,0,0
+Greece,2020-02-23,0,0,0
+Greece,2020-02-24,0,0,0
+Greece,2020-02-25,0,0,0
+Greece,2020-02-26,1,0,0
+Greece,2020-02-27,3,0,0
+Greece,2020-02-28,4,0,0
+Greece,2020-02-29,4,0,0
+Greece,2020-03-01,7,0,0
+Greece,2020-03-02,7,0,0
+Greece,2020-03-03,7,0,0
+Greece,2020-03-04,9,0,0
+Greece,2020-03-05,31,0,0
+Greece,2020-03-06,45,0,0
+Greece,2020-03-07,46,0,0
+Greece,2020-03-08,73,0,0
+Greece,2020-03-09,73,0,0
+Greece,2020-03-10,89,0,0
+Holy See,2020-01-22,0,0,0
+Holy See,2020-01-23,0,0,0
+Holy See,2020-01-24,0,0,0
+Holy See,2020-01-25,0,0,0
+Holy See,2020-01-26,0,0,0
+Holy See,2020-01-27,0,0,0
+Holy See,2020-01-28,0,0,0
+Holy See,2020-01-29,0,0,0
+Holy See,2020-01-30,0,0,0
+Holy See,2020-01-31,0,0,0
+Holy See,2020-02-01,0,0,0
+Holy See,2020-02-02,0,0,0
+Holy See,2020-02-03,0,0,0
+Holy See,2020-02-04,0,0,0
+Holy See,2020-02-05,0,0,0
+Holy See,2020-02-06,0,0,0
+Holy See,2020-02-07,0,0,0
+Holy See,2020-02-08,0,0,0
+Holy See,2020-02-09,0,0,0
+Holy See,2020-02-10,0,0,0
+Holy See,2020-02-11,0,0,0
+Holy See,2020-02-12,0,0,0
+Holy See,2020-02-13,0,0,0
+Holy See,2020-02-14,0,0,0
+Holy See,2020-02-15,0,0,0
+Holy See,2020-02-16,0,0,0
+Holy See,2020-02-17,0,0,0
+Holy See,2020-02-18,0,0,0
+Holy See,2020-02-19,0,0,0
+Holy See,2020-02-20,0,0,0
+Holy See,2020-02-21,0,0,0
+Holy See,2020-02-22,0,0,0
+Holy See,2020-02-23,0,0,0
+Holy See,2020-02-24,0,0,0
+Holy See,2020-02-25,0,0,0
+Holy See,2020-02-26,0,0,0
+Holy See,2020-02-27,0,0,0
+Holy See,2020-02-28,0,0,0
+Holy See,2020-02-29,0,0,0
+Holy See,2020-03-01,0,0,0
+Holy See,2020-03-02,0,0,0
+Holy See,2020-03-03,0,0,0
+Holy See,2020-03-04,0,0,0
+Holy See,2020-03-05,0,0,0
+Holy See,2020-03-06,1,0,0
+Holy See,2020-03-07,1,0,0
+Holy See,2020-03-08,1,0,0
+Holy See,2020-03-09,1,0,0
+Holy See,2020-03-10,1,0,0
+Hong Kong SAR,2020-01-22,0,0,0
+Hong Kong SAR,2020-01-23,2,0,0
+Hong Kong SAR,2020-01-24,2,0,0
+Hong Kong SAR,2020-01-25,5,0,0
+Hong Kong SAR,2020-01-26,8,0,0
+Hong Kong SAR,2020-01-27,8,0,0
+Hong Kong SAR,2020-01-28,8,0,0
+Hong Kong SAR,2020-01-29,10,0,0
+Hong Kong SAR,2020-01-30,10,0,0
+Hong Kong SAR,2020-01-31,12,0,0
+Hong Kong SAR,2020-02-01,13,0,0
+Hong Kong SAR,2020-02-02,15,0,0
+Hong Kong SAR,2020-02-03,15,0,0
+Hong Kong SAR,2020-02-04,17,1,0
+Hong Kong SAR,2020-02-05,21,1,0
+Hong Kong SAR,2020-02-06,24,1,0
+Hong Kong SAR,2020-02-07,25,1,0
+Hong Kong SAR,2020-02-08,26,1,0
+Hong Kong SAR,2020-02-09,29,1,0
+Hong Kong SAR,2020-02-10,38,1,0
+Hong Kong SAR,2020-02-11,49,1,0
+Hong Kong SAR,2020-02-12,50,1,1
+Hong Kong SAR,2020-02-13,53,1,1
+Hong Kong SAR,2020-02-14,56,1,1
+Hong Kong SAR,2020-02-15,56,1,1
+Hong Kong SAR,2020-02-16,57,1,2
+Hong Kong SAR,2020-02-17,60,1,2
+Hong Kong SAR,2020-02-18,62,1,2
+Hong Kong SAR,2020-02-19,63,2,5
+Hong Kong SAR,2020-02-20,68,2,6
+Hong Kong SAR,2020-02-21,68,2,5
+Hong Kong SAR,2020-02-22,69,2,6
+Hong Kong SAR,2020-02-23,74,2,11
+Hong Kong SAR,2020-02-24,79,2,19
+Hong Kong SAR,2020-02-25,84,2,19
+Hong Kong SAR,2020-02-26,91,2,24
+Hong Kong SAR,2020-02-27,92,2,24
+Hong Kong SAR,2020-02-28,94,2,30
+Hong Kong SAR,2020-02-29,95,2,33
+Hong Kong SAR,2020-03-01,96,2,36
+Hong Kong SAR,2020-03-02,100,2,36
+Hong Kong SAR,2020-03-03,100,2,37
+Hong Kong SAR,2020-03-04,105,2,37
+Hong Kong SAR,2020-03-05,105,2,43
+Hong Kong SAR,2020-03-06,107,2,46
+Hong Kong SAR,2020-03-07,108,2,51
+Hong Kong SAR,2020-03-08,114,3,58
+Hong Kong SAR,2020-03-09,115,3,59
+Hong Kong SAR,2020-03-10,120,3,65
+Hungary,2020-01-22,0,0,0
+Hungary,2020-01-23,0,0,0
+Hungary,2020-01-24,0,0,0
+Hungary,2020-01-25,0,0,0
+Hungary,2020-01-26,0,0,0
+Hungary,2020-01-27,0,0,0
+Hungary,2020-01-28,0,0,0
+Hungary,2020-01-29,0,0,0
+Hungary,2020-01-30,0,0,0
+Hungary,2020-01-31,0,0,0
+Hungary,2020-02-01,0,0,0
+Hungary,2020-02-02,0,0,0
+Hungary,2020-02-03,0,0,0
+Hungary,2020-02-04,0,0,0
+Hungary,2020-02-05,0,0,0
+Hungary,2020-02-06,0,0,0
+Hungary,2020-02-07,0,0,0
+Hungary,2020-02-08,0,0,0
+Hungary,2020-02-09,0,0,0
+Hungary,2020-02-10,0,0,0
+Hungary,2020-02-11,0,0,0
+Hungary,2020-02-12,0,0,0
+Hungary,2020-02-13,0,0,0
+Hungary,2020-02-14,0,0,0
+Hungary,2020-02-15,0,0,0
+Hungary,2020-02-16,0,0,0
+Hungary,2020-02-17,0,0,0
+Hungary,2020-02-18,0,0,0
+Hungary,2020-02-19,0,0,0
+Hungary,2020-02-20,0,0,0
+Hungary,2020-02-21,0,0,0
+Hungary,2020-02-22,0,0,0
+Hungary,2020-02-23,0,0,0
+Hungary,2020-02-24,0,0,0
+Hungary,2020-02-25,0,0,0
+Hungary,2020-02-26,0,0,0
+Hungary,2020-02-27,0,0,0
+Hungary,2020-02-28,0,0,0
+Hungary,2020-02-29,0,0,0
+Hungary,2020-03-01,0,0,0
+Hungary,2020-03-02,0,0,0
+Hungary,2020-03-03,0,0,0
+Hungary,2020-03-04,2,0,0
+Hungary,2020-03-05,2,0,0
+Hungary,2020-03-06,2,0,0
+Hungary,2020-03-07,4,0,0
+Hungary,2020-03-08,7,0,0
+Hungary,2020-03-09,9,0,0
+Hungary,2020-03-10,9,0,0
+Iceland,2020-01-22,0,0,0
+Iceland,2020-01-23,0,0,0
+Iceland,2020-01-24,0,0,0
+Iceland,2020-01-25,0,0,0
+Iceland,2020-01-26,0,0,0
+Iceland,2020-01-27,0,0,0
+Iceland,2020-01-28,0,0,0
+Iceland,2020-01-29,0,0,0
+Iceland,2020-01-30,0,0,0
+Iceland,2020-01-31,0,0,0
+Iceland,2020-02-01,0,0,0
+Iceland,2020-02-02,0,0,0
+Iceland,2020-02-03,0,0,0
+Iceland,2020-02-04,0,0,0
+Iceland,2020-02-05,0,0,0
+Iceland,2020-02-06,0,0,0
+Iceland,2020-02-07,0,0,0
+Iceland,2020-02-08,0,0,0
+Iceland,2020-02-09,0,0,0
+Iceland,2020-02-10,0,0,0
+Iceland,2020-02-11,0,0,0
+Iceland,2020-02-12,0,0,0
+Iceland,2020-02-13,0,0,0
+Iceland,2020-02-14,0,0,0
+Iceland,2020-02-15,0,0,0
+Iceland,2020-02-16,0,0,0
+Iceland,2020-02-17,0,0,0
+Iceland,2020-02-18,0,0,0
+Iceland,2020-02-19,0,0,0
+Iceland,2020-02-20,0,0,0
+Iceland,2020-02-21,0,0,0
+Iceland,2020-02-22,0,0,0
+Iceland,2020-02-23,0,0,0
+Iceland,2020-02-24,0,0,0
+Iceland,2020-02-25,0,0,0
+Iceland,2020-02-26,0,0,0
+Iceland,2020-02-27,0,0,0
+Iceland,2020-02-28,1,0,0
+Iceland,2020-02-29,1,0,0
+Iceland,2020-03-01,3,0,0
+Iceland,2020-03-02,6,0,0
+Iceland,2020-03-03,11,0,0
+Iceland,2020-03-04,26,0,0
+Iceland,2020-03-05,34,0,0
+Iceland,2020-03-06,43,0,0
+Iceland,2020-03-07,50,0,0
+Iceland,2020-03-08,50,0,0
+Iceland,2020-03-09,58,0,0
+Iceland,2020-03-10,69,0,1
+India,2020-01-22,0,0,0
+India,2020-01-23,0,0,0
+India,2020-01-24,0,0,0
+India,2020-01-25,0,0,0
+India,2020-01-26,0,0,0
+India,2020-01-27,0,0,0
+India,2020-01-28,0,0,0
+India,2020-01-29,0,0,0
+India,2020-01-30,1,0,0
+India,2020-01-31,1,0,0
+India,2020-02-01,1,0,0
+India,2020-02-02,2,0,0
+India,2020-02-03,3,0,0
+India,2020-02-04,3,0,0
+India,2020-02-05,3,0,0
+India,2020-02-06,3,0,0
+India,2020-02-07,3,0,0
+India,2020-02-08,3,0,0
+India,2020-02-09,3,0,0
+India,2020-02-10,3,0,0
+India,2020-02-11,3,0,0
+India,2020-02-12,3,0,0
+India,2020-02-13,3,0,0
+India,2020-02-14,3,0,0
+India,2020-02-15,3,0,0
+India,2020-02-16,3,0,3
+India,2020-02-17,3,0,3
+India,2020-02-18,3,0,3
+India,2020-02-19,3,0,3
+India,2020-02-20,3,0,3
+India,2020-02-21,3,0,3
+India,2020-02-22,3,0,3
+India,2020-02-23,3,0,3
+India,2020-02-24,3,0,3
+India,2020-02-25,3,0,3
+India,2020-02-26,3,0,3
+India,2020-02-27,3,0,3
+India,2020-02-28,3,0,3
+India,2020-02-29,3,0,3
+India,2020-03-01,3,0,3
+India,2020-03-02,5,0,3
+India,2020-03-03,5,0,3
+India,2020-03-04,28,0,3
+India,2020-03-05,30,0,3
+India,2020-03-06,31,0,3
+India,2020-03-07,34,0,3
+India,2020-03-08,39,0,3
+India,2020-03-09,43,0,3
+India,2020-03-10,56,0,4
+Indonesia,2020-01-22,0,0,0
+Indonesia,2020-01-23,0,0,0
+Indonesia,2020-01-24,0,0,0
+Indonesia,2020-01-25,0,0,0
+Indonesia,2020-01-26,0,0,0
+Indonesia,2020-01-27,0,0,0
+Indonesia,2020-01-28,0,0,0
+Indonesia,2020-01-29,0,0,0
+Indonesia,2020-01-30,0,0,0
+Indonesia,2020-01-31,0,0,0
+Indonesia,2020-02-01,0,0,0
+Indonesia,2020-02-02,0,0,0
+Indonesia,2020-02-03,0,0,0
+Indonesia,2020-02-04,0,0,0
+Indonesia,2020-02-05,0,0,0
+Indonesia,2020-02-06,0,0,0
+Indonesia,2020-02-07,0,0,0
+Indonesia,2020-02-08,0,0,0
+Indonesia,2020-02-09,0,0,0
+Indonesia,2020-02-10,0,0,0
+Indonesia,2020-02-11,0,0,0
+Indonesia,2020-02-12,0,0,0
+Indonesia,2020-02-13,0,0,0
+Indonesia,2020-02-14,0,0,0
+Indonesia,2020-02-15,0,0,0
+Indonesia,2020-02-16,0,0,0
+Indonesia,2020-02-17,0,0,0
+Indonesia,2020-02-18,0,0,0
+Indonesia,2020-02-19,0,0,0
+Indonesia,2020-02-20,0,0,0
+Indonesia,2020-02-21,0,0,0
+Indonesia,2020-02-22,0,0,0
+Indonesia,2020-02-23,0,0,0
+Indonesia,2020-02-24,0,0,0
+Indonesia,2020-02-25,0,0,0
+Indonesia,2020-02-26,0,0,0
+Indonesia,2020-02-27,0,0,0
+Indonesia,2020-02-28,0,0,0
+Indonesia,2020-02-29,0,0,0
+Indonesia,2020-03-01,0,0,0
+Indonesia,2020-03-02,2,0,0
+Indonesia,2020-03-03,2,0,0
+Indonesia,2020-03-04,2,0,0
+Indonesia,2020-03-05,2,0,0
+Indonesia,2020-03-06,4,0,0
+Indonesia,2020-03-07,4,0,0
+Indonesia,2020-03-08,6,0,0
+Indonesia,2020-03-09,19,0,0
+Indonesia,2020-03-10,27,0,2
+Iran (Islamic Republic of),2020-01-22,0,0,0
+Iran (Islamic Republic of),2020-01-23,0,0,0
+Iran (Islamic Republic of),2020-01-24,0,0,0
+Iran (Islamic Republic of),2020-01-25,0,0,0
+Iran (Islamic Republic of),2020-01-26,0,0,0
+Iran (Islamic Republic of),2020-01-27,0,0,0
+Iran (Islamic Republic of),2020-01-28,0,0,0
+Iran (Islamic Republic of),2020-01-29,0,0,0
+Iran (Islamic Republic of),2020-01-30,0,0,0
+Iran (Islamic Republic of),2020-01-31,0,0,0
+Iran (Islamic Republic of),2020-02-01,0,0,0
+Iran (Islamic Republic of),2020-02-02,0,0,0
+Iran (Islamic Republic of),2020-02-03,0,0,0
+Iran (Islamic Republic of),2020-02-04,0,0,0
+Iran (Islamic Republic of),2020-02-05,0,0,0
+Iran (Islamic Republic of),2020-02-06,0,0,0
+Iran (Islamic Republic of),2020-02-07,0,0,0
+Iran (Islamic Republic of),2020-02-08,0,0,0
+Iran (Islamic Republic of),2020-02-09,0,0,0
+Iran (Islamic Republic of),2020-02-10,0,0,0
+Iran (Islamic Republic of),2020-02-11,0,0,0
+Iran (Islamic Republic of),2020-02-12,0,0,0
+Iran (Islamic Republic of),2020-02-13,0,0,0
+Iran (Islamic Republic of),2020-02-14,0,0,0
+Iran (Islamic Republic of),2020-02-15,0,0,0
+Iran (Islamic Republic of),2020-02-16,0,0,0
+Iran (Islamic Republic of),2020-02-17,0,0,0
+Iran (Islamic Republic of),2020-02-18,0,0,0
+Iran (Islamic Republic of),2020-02-19,2,2,0
+Iran (Islamic Republic of),2020-02-20,5,2,0
+Iran (Islamic Republic of),2020-02-21,18,4,0
+Iran (Islamic Republic of),2020-02-22,28,5,0
+Iran (Islamic Republic of),2020-02-23,43,8,0
+Iran (Islamic Republic of),2020-02-24,61,12,0
+Iran (Islamic Republic of),2020-02-25,95,16,0
+Iran (Islamic Republic of),2020-02-26,139,19,49
+Iran (Islamic Republic of),2020-02-27,245,26,49
+Iran (Islamic Republic of),2020-02-28,388,34,73
+Iran (Islamic Republic of),2020-02-29,593,43,123
+Iran (Islamic Republic of),2020-03-01,978,54,175
+Iran (Islamic Republic of),2020-03-02,1501,66,291
+Iran (Islamic Republic of),2020-03-03,2336,77,291
+Iran (Islamic Republic of),2020-03-04,2922,92,552
+Iran (Islamic Republic of),2020-03-05,3513,107,739
+Iran (Islamic Republic of),2020-03-06,4747,124,913
+Iran (Islamic Republic of),2020-03-07,5823,145,1669
+Iran (Islamic Republic of),2020-03-08,6566,194,2134
+Iran (Islamic Republic of),2020-03-09,7161,237,2394
+Iran (Islamic Republic of),2020-03-10,8042,291,2731
+Iraq,2020-01-22,0,0,0
+Iraq,2020-01-23,0,0,0
+Iraq,2020-01-24,0,0,0
+Iraq,2020-01-25,0,0,0
+Iraq,2020-01-26,0,0,0
+Iraq,2020-01-27,0,0,0
+Iraq,2020-01-28,0,0,0
+Iraq,2020-01-29,0,0,0
+Iraq,2020-01-30,0,0,0
+Iraq,2020-01-31,0,0,0
+Iraq,2020-02-01,0,0,0
+Iraq,2020-02-02,0,0,0
+Iraq,2020-02-03,0,0,0
+Iraq,2020-02-04,0,0,0
+Iraq,2020-02-05,0,0,0
+Iraq,2020-02-06,0,0,0
+Iraq,2020-02-07,0,0,0
+Iraq,2020-02-08,0,0,0
+Iraq,2020-02-09,0,0,0
+Iraq,2020-02-10,0,0,0
+Iraq,2020-02-11,0,0,0
+Iraq,2020-02-12,0,0,0
+Iraq,2020-02-13,0,0,0
+Iraq,2020-02-14,0,0,0
+Iraq,2020-02-15,0,0,0
+Iraq,2020-02-16,0,0,0
+Iraq,2020-02-17,0,0,0
+Iraq,2020-02-18,0,0,0
+Iraq,2020-02-19,0,0,0
+Iraq,2020-02-20,0,0,0
+Iraq,2020-02-21,0,0,0
+Iraq,2020-02-22,0,0,0
+Iraq,2020-02-23,0,0,0
+Iraq,2020-02-24,1,0,0
+Iraq,2020-02-25,1,0,0
+Iraq,2020-02-26,5,0,0
+Iraq,2020-02-27,7,0,0
+Iraq,2020-02-28,7,0,0
+Iraq,2020-02-29,13,0,0
+Iraq,2020-03-01,19,0,0
+Iraq,2020-03-02,26,0,0
+Iraq,2020-03-03,32,0,0
+Iraq,2020-03-04,35,2,0
+Iraq,2020-03-05,35,2,0
+Iraq,2020-03-06,40,3,0
+Iraq,2020-03-07,54,4,0
+Iraq,2020-03-08,60,6,0
+Iraq,2020-03-09,60,6,3
+Iraq,2020-03-10,71,7,3
+Ireland,2020-01-22,0,0,0
+Ireland,2020-01-23,0,0,0
+Ireland,2020-01-24,0,0,0
+Ireland,2020-01-25,0,0,0
+Ireland,2020-01-26,0,0,0
+Ireland,2020-01-27,0,0,0
+Ireland,2020-01-28,0,0,0
+Ireland,2020-01-29,0,0,0
+Ireland,2020-01-30,0,0,0
+Ireland,2020-01-31,0,0,0
+Ireland,2020-02-01,0,0,0
+Ireland,2020-02-02,0,0,0
+Ireland,2020-02-03,0,0,0
+Ireland,2020-02-04,0,0,0
+Ireland,2020-02-05,0,0,0
+Ireland,2020-02-06,0,0,0
+Ireland,2020-02-07,0,0,0
+Ireland,2020-02-08,0,0,0
+Ireland,2020-02-09,0,0,0
+Ireland,2020-02-10,0,0,0
+Ireland,2020-02-11,0,0,0
+Ireland,2020-02-12,0,0,0
+Ireland,2020-02-13,0,0,0
+Ireland,2020-02-14,0,0,0
+Ireland,2020-02-15,0,0,0
+Ireland,2020-02-16,0,0,0
+Ireland,2020-02-17,0,0,0
+Ireland,2020-02-18,0,0,0
+Ireland,2020-02-19,0,0,0
+Ireland,2020-02-20,0,0,0
+Ireland,2020-02-21,0,0,0
+Ireland,2020-02-22,0,0,0
+Ireland,2020-02-23,0,0,0
+Ireland,2020-02-24,0,0,0
+Ireland,2020-02-25,0,0,0
+Ireland,2020-02-26,0,0,0
+Ireland,2020-02-27,0,0,0
+Ireland,2020-02-28,0,0,0
+Ireland,2020-02-29,1,0,0
+Ireland,2020-03-01,1,0,0
+Ireland,2020-03-02,1,0,0
+Ireland,2020-03-03,2,0,0
+Ireland,2020-03-04,6,0,0
+Ireland,2020-03-05,6,0,0
+Ireland,2020-03-06,18,0,0
+Ireland,2020-03-07,18,0,0
+Ireland,2020-03-08,19,0,0
+Ireland,2020-03-09,21,0,0
+Ireland,2020-03-10,34,0,0
+Israel,2020-01-22,0,0,0
+Israel,2020-01-23,0,0,0
+Israel,2020-01-24,0,0,0
+Israel,2020-01-25,0,0,0
+Israel,2020-01-26,0,0,0
+Israel,2020-01-27,0,0,0
+Israel,2020-01-28,0,0,0
+Israel,2020-01-29,0,0,0
+Israel,2020-01-30,0,0,0
+Israel,2020-01-31,0,0,0
+Israel,2020-02-01,0,0,0
+Israel,2020-02-02,0,0,0
+Israel,2020-02-03,0,0,0
+Israel,2020-02-04,0,0,0
+Israel,2020-02-05,0,0,0
+Israel,2020-02-06,0,0,0
+Israel,2020-02-07,0,0,0
+Israel,2020-02-08,0,0,0
+Israel,2020-02-09,0,0,0
+Israel,2020-02-10,0,0,0
+Israel,2020-02-11,0,0,0
+Israel,2020-02-12,0,0,0
+Israel,2020-02-13,0,0,0
+Israel,2020-02-14,0,0,0
+Israel,2020-02-15,0,0,0
+Israel,2020-02-16,0,0,0
+Israel,2020-02-17,0,0,0
+Israel,2020-02-18,0,0,0
+Israel,2020-02-19,0,0,0
+Israel,2020-02-20,0,0,0
+Israel,2020-02-21,1,0,0
+Israel,2020-02-22,1,0,0
+Israel,2020-02-23,1,0,0
+Israel,2020-02-24,1,0,0
+Israel,2020-02-25,1,0,0
+Israel,2020-02-26,2,0,0
+Israel,2020-02-27,3,0,1
+Israel,2020-02-28,4,0,1
+Israel,2020-02-29,7,0,1
+Israel,2020-03-01,10,0,1
+Israel,2020-03-02,10,0,1
+Israel,2020-03-03,12,0,1
+Israel,2020-03-04,15,0,1
+Israel,2020-03-05,16,0,1
+Israel,2020-03-06,21,0,2
+Israel,2020-03-07,21,0,2
+Israel,2020-03-08,39,0,2
+Israel,2020-03-09,39,0,2
+Israel,2020-03-10,58,0,4
+Italy,2020-01-22,0,0,0
+Italy,2020-01-23,0,0,0
+Italy,2020-01-24,0,0,0
+Italy,2020-01-25,0,0,0
+Italy,2020-01-26,0,0,0
+Italy,2020-01-27,0,0,0
+Italy,2020-01-28,0,0,0
+Italy,2020-01-29,0,0,0
+Italy,2020-01-30,0,0,0
+Italy,2020-01-31,2,0,0
+Italy,2020-02-01,2,0,0
+Italy,2020-02-02,2,0,0
+Italy,2020-02-03,2,0,0
+Italy,2020-02-04,2,0,0
+Italy,2020-02-05,2,0,0
+Italy,2020-02-06,2,0,0
+Italy,2020-02-07,3,0,0
+Italy,2020-02-08,3,0,0
+Italy,2020-02-09,3,0,0
+Italy,2020-02-10,3,0,0
+Italy,2020-02-11,3,0,0
+Italy,2020-02-12,3,0,0
+Italy,2020-02-13,3,0,0
+Italy,2020-02-14,3,0,0
+Italy,2020-02-15,3,0,0
+Italy,2020-02-16,3,0,0
+Italy,2020-02-17,3,0,0
+Italy,2020-02-18,3,0,0
+Italy,2020-02-19,3,0,0
+Italy,2020-02-20,3,0,0
+Italy,2020-02-21,20,1,0
+Italy,2020-02-22,62,2,1
+Italy,2020-02-23,155,3,2
+Italy,2020-02-24,229,7,1
+Italy,2020-02-25,322,10,1
+Italy,2020-02-26,453,12,3
+Italy,2020-02-27,655,17,45
+Italy,2020-02-28,888,21,46
+Italy,2020-02-29,1128,29,46
+Italy,2020-03-01,1694,34,83
+Italy,2020-03-02,2036,52,149
+Italy,2020-03-03,2502,79,160
+Italy,2020-03-04,3089,107,276
+Italy,2020-03-05,3858,148,414
+Italy,2020-03-06,4636,197,523
+Italy,2020-03-07,5883,233,589
+Italy,2020-03-08,7375,366,622
+Italy,2020-03-09,9172,463,724
+Italy,2020-03-10,10149,631,724
+Japan,2020-01-22,2,0,0
+Japan,2020-01-23,1,0,0
+Japan,2020-01-24,2,0,0
+Japan,2020-01-25,2,0,0
+Japan,2020-01-26,4,0,1
+Japan,2020-01-27,4,0,1
+Japan,2020-01-28,7,0,1
+Japan,2020-01-29,7,0,1
+Japan,2020-01-30,11,0,1
+Japan,2020-01-31,15,0,1
+Japan,2020-02-01,20,0,1
+Japan,2020-02-02,20,0,1
+Japan,2020-02-03,20,0,1
+Japan,2020-02-04,22,0,1
+Japan,2020-02-05,22,0,1
+Japan,2020-02-06,45,0,1
+Japan,2020-02-07,25,0,1
+Japan,2020-02-08,25,0,1
+Japan,2020-02-09,26,0,1
+Japan,2020-02-10,26,0,4
+Japan,2020-02-11,26,0,9
+Japan,2020-02-12,28,0,9
+Japan,2020-02-13,28,1,9
+Japan,2020-02-14,29,1,9
+Japan,2020-02-15,43,1,12
+Japan,2020-02-16,59,1,12
+Japan,2020-02-17,66,1,12
+Japan,2020-02-18,74,1,13
+Japan,2020-02-19,84,1,18
+Japan,2020-02-20,94,1,18
+Japan,2020-02-21,105,1,22
+Japan,2020-02-22,122,1,22
+Japan,2020-02-23,147,1,22
+Japan,2020-02-24,159,1,22
+Japan,2020-02-25,170,1,22
+Japan,2020-02-26,189,2,22
+Japan,2020-02-27,214,4,22
+Japan,2020-02-28,228,4,22
+Japan,2020-02-29,241,5,32
+Japan,2020-03-01,256,6,32
+Japan,2020-03-02,274,6,32
+Japan,2020-03-03,293,6,43
+Japan,2020-03-04,331,6,43
+Japan,2020-03-05,360,6,43
+Japan,2020-03-06,420,6,46
+Japan,2020-03-07,461,6,76
+Japan,2020-03-08,502,6,76
+Japan,2020-03-09,511,10,76
+Japan,2020-03-10,581,10,101
+Jordan,2020-01-22,0,0,0
+Jordan,2020-01-23,0,0,0
+Jordan,2020-01-24,0,0,0
+Jordan,2020-01-25,0,0,0
+Jordan,2020-01-26,0,0,0
+Jordan,2020-01-27,0,0,0
+Jordan,2020-01-28,0,0,0
+Jordan,2020-01-29,0,0,0
+Jordan,2020-01-30,0,0,0
+Jordan,2020-01-31,0,0,0
+Jordan,2020-02-01,0,0,0
+Jordan,2020-02-02,0,0,0
+Jordan,2020-02-03,0,0,0
+Jordan,2020-02-04,0,0,0
+Jordan,2020-02-05,0,0,0
+Jordan,2020-02-06,0,0,0
+Jordan,2020-02-07,0,0,0
+Jordan,2020-02-08,0,0,0
+Jordan,2020-02-09,0,0,0
+Jordan,2020-02-10,0,0,0
+Jordan,2020-02-11,0,0,0
+Jordan,2020-02-12,0,0,0
+Jordan,2020-02-13,0,0,0
+Jordan,2020-02-14,0,0,0
+Jordan,2020-02-15,0,0,0
+Jordan,2020-02-16,0,0,0
+Jordan,2020-02-17,0,0,0
+Jordan,2020-02-18,0,0,0
+Jordan,2020-02-19,0,0,0
+Jordan,2020-02-20,0,0,0
+Jordan,2020-02-21,0,0,0
+Jordan,2020-02-22,0,0,0
+Jordan,2020-02-23,0,0,0
+Jordan,2020-02-24,0,0,0
+Jordan,2020-02-25,0,0,0
+Jordan,2020-02-26,0,0,0
+Jordan,2020-02-27,0,0,0
+Jordan,2020-02-28,0,0,0
+Jordan,2020-02-29,0,0,0
+Jordan,2020-03-01,0,0,0
+Jordan,2020-03-02,0,0,0
+Jordan,2020-03-03,1,0,0
+Jordan,2020-03-04,1,0,0
+Jordan,2020-03-05,1,0,0
+Jordan,2020-03-06,1,0,0
+Jordan,2020-03-07,1,0,0
+Jordan,2020-03-08,1,0,0
+Jordan,2020-03-09,1,0,0
+Jordan,2020-03-10,1,0,0
+Kuwait,2020-01-22,0,0,0
+Kuwait,2020-01-23,0,0,0
+Kuwait,2020-01-24,0,0,0
+Kuwait,2020-01-25,0,0,0
+Kuwait,2020-01-26,0,0,0
+Kuwait,2020-01-27,0,0,0
+Kuwait,2020-01-28,0,0,0
+Kuwait,2020-01-29,0,0,0
+Kuwait,2020-01-30,0,0,0
+Kuwait,2020-01-31,0,0,0
+Kuwait,2020-02-01,0,0,0
+Kuwait,2020-02-02,0,0,0
+Kuwait,2020-02-03,0,0,0
+Kuwait,2020-02-04,0,0,0
+Kuwait,2020-02-05,0,0,0
+Kuwait,2020-02-06,0,0,0
+Kuwait,2020-02-07,0,0,0
+Kuwait,2020-02-08,0,0,0
+Kuwait,2020-02-09,0,0,0
+Kuwait,2020-02-10,0,0,0
+Kuwait,2020-02-11,0,0,0
+Kuwait,2020-02-12,0,0,0
+Kuwait,2020-02-13,0,0,0
+Kuwait,2020-02-14,0,0,0
+Kuwait,2020-02-15,0,0,0
+Kuwait,2020-02-16,0,0,0
+Kuwait,2020-02-17,0,0,0
+Kuwait,2020-02-18,0,0,0
+Kuwait,2020-02-19,0,0,0
+Kuwait,2020-02-20,0,0,0
+Kuwait,2020-02-21,0,0,0
+Kuwait,2020-02-22,0,0,0
+Kuwait,2020-02-23,0,0,0
+Kuwait,2020-02-24,1,0,0
+Kuwait,2020-02-25,11,0,0
+Kuwait,2020-02-26,26,0,0
+Kuwait,2020-02-27,43,0,0
+Kuwait,2020-02-28,45,0,0
+Kuwait,2020-02-29,45,0,0
+Kuwait,2020-03-01,45,0,0
+Kuwait,2020-03-02,56,0,0
+Kuwait,2020-03-03,56,0,0
+Kuwait,2020-03-04,56,0,0
+Kuwait,2020-03-05,58,0,0
+Kuwait,2020-03-06,58,0,0
+Kuwait,2020-03-07,61,0,0
+Kuwait,2020-03-08,64,0,1
+Kuwait,2020-03-09,64,0,1
+Kuwait,2020-03-10,69,0,1
+Latvia,2020-01-22,0,0,0
+Latvia,2020-01-23,0,0,0
+Latvia,2020-01-24,0,0,0
+Latvia,2020-01-25,0,0,0
+Latvia,2020-01-26,0,0,0
+Latvia,2020-01-27,0,0,0
+Latvia,2020-01-28,0,0,0
+Latvia,2020-01-29,0,0,0
+Latvia,2020-01-30,0,0,0
+Latvia,2020-01-31,0,0,0
+Latvia,2020-02-01,0,0,0
+Latvia,2020-02-02,0,0,0
+Latvia,2020-02-03,0,0,0
+Latvia,2020-02-04,0,0,0
+Latvia,2020-02-05,0,0,0
+Latvia,2020-02-06,0,0,0
+Latvia,2020-02-07,0,0,0
+Latvia,2020-02-08,0,0,0
+Latvia,2020-02-09,0,0,0
+Latvia,2020-02-10,0,0,0
+Latvia,2020-02-11,0,0,0
+Latvia,2020-02-12,0,0,0
+Latvia,2020-02-13,0,0,0
+Latvia,2020-02-14,0,0,0
+Latvia,2020-02-15,0,0,0
+Latvia,2020-02-16,0,0,0
+Latvia,2020-02-17,0,0,0
+Latvia,2020-02-18,0,0,0
+Latvia,2020-02-19,0,0,0
+Latvia,2020-02-20,0,0,0
+Latvia,2020-02-21,0,0,0
+Latvia,2020-02-22,0,0,0
+Latvia,2020-02-23,0,0,0
+Latvia,2020-02-24,0,0,0
+Latvia,2020-02-25,0,0,0
+Latvia,2020-02-26,0,0,0
+Latvia,2020-02-27,0,0,0
+Latvia,2020-02-28,0,0,0
+Latvia,2020-02-29,0,0,0
+Latvia,2020-03-01,0,0,0
+Latvia,2020-03-02,1,0,0
+Latvia,2020-03-03,1,0,0
+Latvia,2020-03-04,1,0,0
+Latvia,2020-03-05,1,0,0
+Latvia,2020-03-06,1,0,0
+Latvia,2020-03-07,1,0,0
+Latvia,2020-03-08,2,0,0
+Latvia,2020-03-09,6,0,0
+Latvia,2020-03-10,8,0,1
+Lebanon,2020-01-22,0,0,0
+Lebanon,2020-01-23,0,0,0
+Lebanon,2020-01-24,0,0,0
+Lebanon,2020-01-25,0,0,0
+Lebanon,2020-01-26,0,0,0
+Lebanon,2020-01-27,0,0,0
+Lebanon,2020-01-28,0,0,0
+Lebanon,2020-01-29,0,0,0
+Lebanon,2020-01-30,0,0,0
+Lebanon,2020-01-31,0,0,0
+Lebanon,2020-02-01,0,0,0
+Lebanon,2020-02-02,0,0,0
+Lebanon,2020-02-03,0,0,0
+Lebanon,2020-02-04,0,0,0
+Lebanon,2020-02-05,0,0,0
+Lebanon,2020-02-06,0,0,0
+Lebanon,2020-02-07,0,0,0
+Lebanon,2020-02-08,0,0,0
+Lebanon,2020-02-09,0,0,0
+Lebanon,2020-02-10,0,0,0
+Lebanon,2020-02-11,0,0,0
+Lebanon,2020-02-12,0,0,0
+Lebanon,2020-02-13,0,0,0
+Lebanon,2020-02-14,0,0,0
+Lebanon,2020-02-15,0,0,0
+Lebanon,2020-02-16,0,0,0
+Lebanon,2020-02-17,0,0,0
+Lebanon,2020-02-18,0,0,0
+Lebanon,2020-02-19,0,0,0
+Lebanon,2020-02-20,0,0,0
+Lebanon,2020-02-21,1,0,0
+Lebanon,2020-02-22,1,0,0
+Lebanon,2020-02-23,1,0,0
+Lebanon,2020-02-24,1,0,0
+Lebanon,2020-02-25,1,0,0
+Lebanon,2020-02-26,2,0,0
+Lebanon,2020-02-27,2,0,0
+Lebanon,2020-02-28,2,0,0
+Lebanon,2020-02-29,4,0,0
+Lebanon,2020-03-01,10,0,0
+Lebanon,2020-03-02,13,0,0
+Lebanon,2020-03-03,13,0,0
+Lebanon,2020-03-04,13,0,1
+Lebanon,2020-03-05,16,0,1
+Lebanon,2020-03-06,22,0,1
+Lebanon,2020-03-07,22,0,1
+Lebanon,2020-03-08,32,0,1
+Lebanon,2020-03-09,32,0,1
+Lebanon,2020-03-10,41,1,1
+Liechtenstein,2020-01-22,0,0,0
+Liechtenstein,2020-01-23,0,0,0
+Liechtenstein,2020-01-24,0,0,0
+Liechtenstein,2020-01-25,0,0,0
+Liechtenstein,2020-01-26,0,0,0
+Liechtenstein,2020-01-27,0,0,0
+Liechtenstein,2020-01-28,0,0,0
+Liechtenstein,2020-01-29,0,0,0
+Liechtenstein,2020-01-30,0,0,0
+Liechtenstein,2020-01-31,0,0,0
+Liechtenstein,2020-02-01,0,0,0
+Liechtenstein,2020-02-02,0,0,0
+Liechtenstein,2020-02-03,0,0,0
+Liechtenstein,2020-02-04,0,0,0
+Liechtenstein,2020-02-05,0,0,0
+Liechtenstein,2020-02-06,0,0,0
+Liechtenstein,2020-02-07,0,0,0
+Liechtenstein,2020-02-08,0,0,0
+Liechtenstein,2020-02-09,0,0,0
+Liechtenstein,2020-02-10,0,0,0
+Liechtenstein,2020-02-11,0,0,0
+Liechtenstein,2020-02-12,0,0,0
+Liechtenstein,2020-02-13,0,0,0
+Liechtenstein,2020-02-14,0,0,0
+Liechtenstein,2020-02-15,0,0,0
+Liechtenstein,2020-02-16,0,0,0
+Liechtenstein,2020-02-17,0,0,0
+Liechtenstein,2020-02-18,0,0,0
+Liechtenstein,2020-02-19,0,0,0
+Liechtenstein,2020-02-20,0,0,0
+Liechtenstein,2020-02-21,0,0,0
+Liechtenstein,2020-02-22,0,0,0
+Liechtenstein,2020-02-23,0,0,0
+Liechtenstein,2020-02-24,0,0,0
+Liechtenstein,2020-02-25,0,0,0
+Liechtenstein,2020-02-26,0,0,0
+Liechtenstein,2020-02-27,0,0,0
+Liechtenstein,2020-02-28,0,0,0
+Liechtenstein,2020-02-29,0,0,0
+Liechtenstein,2020-03-01,0,0,0
+Liechtenstein,2020-03-02,0,0,0
+Liechtenstein,2020-03-03,0,0,0
+Liechtenstein,2020-03-04,1,0,0
+Liechtenstein,2020-03-05,1,0,0
+Liechtenstein,2020-03-06,1,0,0
+Liechtenstein,2020-03-07,1,0,0
+Liechtenstein,2020-03-08,1,0,0
+Liechtenstein,2020-03-09,1,0,0
+Liechtenstein,2020-03-10,1,0,0
+Lithuania,2020-01-22,0,0,0
+Lithuania,2020-01-23,0,0,0
+Lithuania,2020-01-24,0,0,0
+Lithuania,2020-01-25,0,0,0
+Lithuania,2020-01-26,0,0,0
+Lithuania,2020-01-27,0,0,0
+Lithuania,2020-01-28,0,0,0
+Lithuania,2020-01-29,0,0,0
+Lithuania,2020-01-30,0,0,0
+Lithuania,2020-01-31,0,0,0
+Lithuania,2020-02-01,0,0,0
+Lithuania,2020-02-02,0,0,0
+Lithuania,2020-02-03,0,0,0
+Lithuania,2020-02-04,0,0,0
+Lithuania,2020-02-05,0,0,0
+Lithuania,2020-02-06,0,0,0
+Lithuania,2020-02-07,0,0,0
+Lithuania,2020-02-08,0,0,0
+Lithuania,2020-02-09,0,0,0
+Lithuania,2020-02-10,0,0,0
+Lithuania,2020-02-11,0,0,0
+Lithuania,2020-02-12,0,0,0
+Lithuania,2020-02-13,0,0,0
+Lithuania,2020-02-14,0,0,0
+Lithuania,2020-02-15,0,0,0
+Lithuania,2020-02-16,0,0,0
+Lithuania,2020-02-17,0,0,0
+Lithuania,2020-02-18,0,0,0
+Lithuania,2020-02-19,0,0,0
+Lithuania,2020-02-20,0,0,0
+Lithuania,2020-02-21,0,0,0
+Lithuania,2020-02-22,0,0,0
+Lithuania,2020-02-23,0,0,0
+Lithuania,2020-02-24,0,0,0
+Lithuania,2020-02-25,0,0,0
+Lithuania,2020-02-26,0,0,0
+Lithuania,2020-02-27,0,0,0
+Lithuania,2020-02-28,1,0,0
+Lithuania,2020-02-29,1,0,0
+Lithuania,2020-03-01,1,0,0
+Lithuania,2020-03-02,1,0,0
+Lithuania,2020-03-03,1,0,0
+Lithuania,2020-03-04,1,0,0
+Lithuania,2020-03-05,1,0,0
+Lithuania,2020-03-06,1,0,0
+Lithuania,2020-03-07,1,0,0
+Lithuania,2020-03-08,1,0,0
+Lithuania,2020-03-09,1,0,0
+Lithuania,2020-03-10,1,0,0
+Luxembourg,2020-01-22,0,0,0
+Luxembourg,2020-01-23,0,0,0
+Luxembourg,2020-01-24,0,0,0
+Luxembourg,2020-01-25,0,0,0
+Luxembourg,2020-01-26,0,0,0
+Luxembourg,2020-01-27,0,0,0
+Luxembourg,2020-01-28,0,0,0
+Luxembourg,2020-01-29,0,0,0
+Luxembourg,2020-01-30,0,0,0
+Luxembourg,2020-01-31,0,0,0
+Luxembourg,2020-02-01,0,0,0
+Luxembourg,2020-02-02,0,0,0
+Luxembourg,2020-02-03,0,0,0
+Luxembourg,2020-02-04,0,0,0
+Luxembourg,2020-02-05,0,0,0
+Luxembourg,2020-02-06,0,0,0
+Luxembourg,2020-02-07,0,0,0
+Luxembourg,2020-02-08,0,0,0
+Luxembourg,2020-02-09,0,0,0
+Luxembourg,2020-02-10,0,0,0
+Luxembourg,2020-02-11,0,0,0
+Luxembourg,2020-02-12,0,0,0
+Luxembourg,2020-02-13,0,0,0
+Luxembourg,2020-02-14,0,0,0
+Luxembourg,2020-02-15,0,0,0
+Luxembourg,2020-02-16,0,0,0
+Luxembourg,2020-02-17,0,0,0
+Luxembourg,2020-02-18,0,0,0
+Luxembourg,2020-02-19,0,0,0
+Luxembourg,2020-02-20,0,0,0
+Luxembourg,2020-02-21,0,0,0
+Luxembourg,2020-02-22,0,0,0
+Luxembourg,2020-02-23,0,0,0
+Luxembourg,2020-02-24,0,0,0
+Luxembourg,2020-02-25,0,0,0
+Luxembourg,2020-02-26,0,0,0
+Luxembourg,2020-02-27,0,0,0
+Luxembourg,2020-02-28,0,0,0
+Luxembourg,2020-02-29,1,0,0
+Luxembourg,2020-03-01,1,0,0
+Luxembourg,2020-03-02,1,0,0
+Luxembourg,2020-03-03,1,0,0
+Luxembourg,2020-03-04,1,0,0
+Luxembourg,2020-03-05,1,0,0
+Luxembourg,2020-03-06,2,0,0
+Luxembourg,2020-03-07,2,0,0
+Luxembourg,2020-03-08,3,0,0
+Luxembourg,2020-03-09,3,0,0
+Luxembourg,2020-03-10,5,0,0
+Macao SAR,2020-01-22,1,0,0
+Macao SAR,2020-01-23,2,0,0
+Macao SAR,2020-01-24,2,0,0
+Macao SAR,2020-01-25,2,0,0
+Macao SAR,2020-01-26,5,0,0
+Macao SAR,2020-01-27,6,0,0
+Macao SAR,2020-01-28,7,0,0
+Macao SAR,2020-01-29,7,0,0
+Macao SAR,2020-01-30,7,0,0
+Macao SAR,2020-01-31,7,0,0
+Macao SAR,2020-02-01,7,0,0
+Macao SAR,2020-02-02,8,0,0
+Macao SAR,2020-02-03,8,0,0
+Macao SAR,2020-02-04,10,0,0
+Macao SAR,2020-02-05,10,0,0
+Macao SAR,2020-02-06,10,0,1
+Macao SAR,2020-02-07,10,0,1
+Macao SAR,2020-02-08,10,0,1
+Macao SAR,2020-02-09,10,0,1
+Macao SAR,2020-02-10,10,0,1
+Macao SAR,2020-02-11,10,0,1
+Macao SAR,2020-02-12,10,0,2
+Macao SAR,2020-02-13,10,0,3
+Macao SAR,2020-02-14,10,0,3
+Macao SAR,2020-02-15,10,0,3
+Macao SAR,2020-02-16,10,0,5
+Macao SAR,2020-02-17,10,0,5
+Macao SAR,2020-02-18,10,0,5
+Macao SAR,2020-02-19,10,0,5
+Macao SAR,2020-02-20,10,0,6
+Macao SAR,2020-02-21,10,0,6
+Macao SAR,2020-02-22,10,0,6
+Macao SAR,2020-02-23,10,0,6
+Macao SAR,2020-02-24,10,0,6
+Macao SAR,2020-02-25,10,0,7
+Macao SAR,2020-02-26,10,0,7
+Macao SAR,2020-02-27,10,0,8
+Macao SAR,2020-02-28,10,0,8
+Macao SAR,2020-02-29,10,0,8
+Macao SAR,2020-03-01,10,0,8
+Macao SAR,2020-03-02,10,0,8
+Macao SAR,2020-03-03,10,0,9
+Macao SAR,2020-03-04,10,0,9
+Macao SAR,2020-03-05,10,0,9
+Macao SAR,2020-03-06,10,0,10
+Macao SAR,2020-03-07,10,0,10
+Macao SAR,2020-03-08,10,0,10
+Macao SAR,2020-03-09,10,0,10
+Macao SAR,2020-03-10,10,0,10
+Mainland China,2020-01-22,547,17,28
+Mainland China,2020-01-23,639,18,30
+Mainland China,2020-01-24,916,26,36
+Mainland China,2020-01-25,1399,42,39
+Mainland China,2020-01-26,2062,56,49
+Mainland China,2020-01-27,2863,82,58
+Mainland China,2020-01-28,5494,131,101
+Mainland China,2020-01-29,6070,133,120
+Mainland China,2020-01-30,8124,171,135
+Mainland China,2020-01-31,9783,213,214
+Mainland China,2020-02-01,11871,259,275
+Mainland China,2020-02-02,16607,361,463
+Mainland China,2020-02-03,19693,425,614
+Mainland China,2020-02-04,23680,490,843
+Mainland China,2020-02-05,27409,562,1115
+Mainland China,2020-02-06,30553,632,1476
+Mainland China,2020-02-07,34075,717,1998
+Mainland China,2020-02-08,36778,804,2595
+Mainland China,2020-02-09,39790,904,3218
+Mainland China,2020-02-10,42306,1011,3917
+Mainland China,2020-02-11,44327,1111,4635
+Mainland China,2020-02-12,44699,1116,5079
+Mainland China,2020-02-13,59832,1368,6213
+Mainland China,2020-02-14,66292,1520,7973
+Mainland China,2020-02-15,68347,1662,9294
+Mainland China,2020-02-16,70446,1765,10748
+Mainland China,2020-02-17,72364,1863,12455
+Mainland China,2020-02-18,74139,2002,14199
+Mainland China,2020-02-19,74546,2114,15952
+Mainland China,2020-02-20,74999,2236,18002
+Mainland China,2020-02-21,75472,2236,18693
+Mainland China,2020-02-22,76922,2441,22687
+Mainland China,2020-02-23,76938,2443,23170
+Mainland China,2020-02-24,77152,2593,24990
+Mainland China,2020-02-25,77660,2663,27650
+Mainland China,2020-02-26,78065,2715,30053
+Mainland China,2020-02-27,78498,2744,32898
+Mainland China,2020-02-28,78824,2788,36291
+Mainland China,2020-02-29,79251,2835,39279
+Mainland China,2020-03-01,79826,2870,42118
+Mainland China,2020-03-02,80026,2912,44810
+Mainland China,2020-03-03,80151,2945,47404
+Mainland China,2020-03-04,80271,2981,49955
+Mainland China,2020-03-05,80422,3013,52240
+Mainland China,2020-03-06,80573,3042,53888
+Mainland China,2020-03-07,80652,3070,55478
+Mainland China,2020-03-08,80699,3097,57320
+Mainland China,2020-03-09,80735,3120,58735
+Mainland China,2020-03-10,80757,3136,60106
+Malaysia,2020-01-22,0,0,0
+Malaysia,2020-01-23,0,0,0
+Malaysia,2020-01-24,0,0,0
+Malaysia,2020-01-25,3,0,0
+Malaysia,2020-01-26,4,0,0
+Malaysia,2020-01-27,4,0,0
+Malaysia,2020-01-28,4,0,0
+Malaysia,2020-01-29,7,0,0
+Malaysia,2020-01-30,8,0,0
+Malaysia,2020-01-31,8,0,0
+Malaysia,2020-02-01,8,0,0
+Malaysia,2020-02-02,8,0,0
+Malaysia,2020-02-03,8,0,0
+Malaysia,2020-02-04,10,0,0
+Malaysia,2020-02-05,12,0,0
+Malaysia,2020-02-06,12,0,0
+Malaysia,2020-02-07,12,0,1
+Malaysia,2020-02-08,16,0,1
+Malaysia,2020-02-09,16,0,1
+Malaysia,2020-02-10,18,0,1
+Malaysia,2020-02-11,18,0,3
+Malaysia,2020-02-12,18,0,3
+Malaysia,2020-02-13,19,0,3
+Malaysia,2020-02-14,19,0,3
+Malaysia,2020-02-15,22,0,7
+Malaysia,2020-02-16,22,0,7
+Malaysia,2020-02-17,22,0,7
+Malaysia,2020-02-18,22,0,13
+Malaysia,2020-02-19,22,0,15
+Malaysia,2020-02-20,22,0,15
+Malaysia,2020-02-21,22,0,15
+Malaysia,2020-02-22,22,0,15
+Malaysia,2020-02-23,22,0,15
+Malaysia,2020-02-24,22,0,18
+Malaysia,2020-02-25,22,0,18
+Malaysia,2020-02-26,22,0,18
+Malaysia,2020-02-27,23,0,18
+Malaysia,2020-02-28,23,0,18
+Malaysia,2020-02-29,25,0,18
+Malaysia,2020-03-01,29,0,18
+Malaysia,2020-03-02,29,0,18
+Malaysia,2020-03-03,36,0,22
+Malaysia,2020-03-04,50,0,22
+Malaysia,2020-03-05,50,0,22
+Malaysia,2020-03-06,83,0,22
+Malaysia,2020-03-07,93,0,23
+Malaysia,2020-03-08,99,0,24
+Malaysia,2020-03-09,117,0,24
+Malaysia,2020-03-10,129,0,24
+Maldives,2020-01-22,0,0,0
+Maldives,2020-01-23,0,0,0
+Maldives,2020-01-24,0,0,0
+Maldives,2020-01-25,0,0,0
+Maldives,2020-01-26,0,0,0
+Maldives,2020-01-27,0,0,0
+Maldives,2020-01-28,0,0,0
+Maldives,2020-01-29,0,0,0
+Maldives,2020-01-30,0,0,0
+Maldives,2020-01-31,0,0,0
+Maldives,2020-02-01,0,0,0
+Maldives,2020-02-02,0,0,0
+Maldives,2020-02-03,0,0,0
+Maldives,2020-02-04,0,0,0
+Maldives,2020-02-05,0,0,0
+Maldives,2020-02-06,0,0,0
+Maldives,2020-02-07,0,0,0
+Maldives,2020-02-08,0,0,0
+Maldives,2020-02-09,0,0,0
+Maldives,2020-02-10,0,0,0
+Maldives,2020-02-11,0,0,0
+Maldives,2020-02-12,0,0,0
+Maldives,2020-02-13,0,0,0
+Maldives,2020-02-14,0,0,0
+Maldives,2020-02-15,0,0,0
+Maldives,2020-02-16,0,0,0
+Maldives,2020-02-17,0,0,0
+Maldives,2020-02-18,0,0,0
+Maldives,2020-02-19,0,0,0
+Maldives,2020-02-20,0,0,0
+Maldives,2020-02-21,0,0,0
+Maldives,2020-02-22,0,0,0
+Maldives,2020-02-23,0,0,0
+Maldives,2020-02-24,0,0,0
+Maldives,2020-02-25,0,0,0
+Maldives,2020-02-26,0,0,0
+Maldives,2020-02-27,0,0,0
+Maldives,2020-02-28,0,0,0
+Maldives,2020-02-29,0,0,0
+Maldives,2020-03-01,0,0,0
+Maldives,2020-03-02,0,0,0
+Maldives,2020-03-03,0,0,0
+Maldives,2020-03-04,0,0,0
+Maldives,2020-03-05,0,0,0
+Maldives,2020-03-06,0,0,0
+Maldives,2020-03-07,0,0,0
+Maldives,2020-03-08,4,0,0
+Maldives,2020-03-09,4,0,0
+Maldives,2020-03-10,6,0,0
+Malta,2020-01-22,0,0,0
+Malta,2020-01-23,0,0,0
+Malta,2020-01-24,0,0,0
+Malta,2020-01-25,0,0,0
+Malta,2020-01-26,0,0,0
+Malta,2020-01-27,0,0,0
+Malta,2020-01-28,0,0,0
+Malta,2020-01-29,0,0,0
+Malta,2020-01-30,0,0,0
+Malta,2020-01-31,0,0,0
+Malta,2020-02-01,0,0,0
+Malta,2020-02-02,0,0,0
+Malta,2020-02-03,0,0,0
+Malta,2020-02-04,0,0,0
+Malta,2020-02-05,0,0,0
+Malta,2020-02-06,0,0,0
+Malta,2020-02-07,0,0,0
+Malta,2020-02-08,0,0,0
+Malta,2020-02-09,0,0,0
+Malta,2020-02-10,0,0,0
+Malta,2020-02-11,0,0,0
+Malta,2020-02-12,0,0,0
+Malta,2020-02-13,0,0,0
+Malta,2020-02-14,0,0,0
+Malta,2020-02-15,0,0,0
+Malta,2020-02-16,0,0,0
+Malta,2020-02-17,0,0,0
+Malta,2020-02-18,0,0,0
+Malta,2020-02-19,0,0,0
+Malta,2020-02-20,0,0,0
+Malta,2020-02-21,0,0,0
+Malta,2020-02-22,0,0,0
+Malta,2020-02-23,0,0,0
+Malta,2020-02-24,0,0,0
+Malta,2020-02-25,0,0,0
+Malta,2020-02-26,0,0,0
+Malta,2020-02-27,0,0,0
+Malta,2020-02-28,0,0,0
+Malta,2020-02-29,0,0,0
+Malta,2020-03-01,0,0,0
+Malta,2020-03-02,0,0,0
+Malta,2020-03-03,0,0,0
+Malta,2020-03-04,0,0,0
+Malta,2020-03-05,0,0,0
+Malta,2020-03-06,0,0,0
+Malta,2020-03-07,3,0,0
+Malta,2020-03-08,3,0,0
+Malta,2020-03-09,3,0,0
+Malta,2020-03-10,5,0,0
+Martinique,2020-01-22,0,0,0
+Martinique,2020-01-23,0,0,0
+Martinique,2020-01-24,0,0,0
+Martinique,2020-01-25,0,0,0
+Martinique,2020-01-26,0,0,0
+Martinique,2020-01-27,0,0,0
+Martinique,2020-01-28,0,0,0
+Martinique,2020-01-29,0,0,0
+Martinique,2020-01-30,0,0,0
+Martinique,2020-01-31,0,0,0
+Martinique,2020-02-01,0,0,0
+Martinique,2020-02-02,0,0,0
+Martinique,2020-02-03,0,0,0
+Martinique,2020-02-04,0,0,0
+Martinique,2020-02-05,0,0,0
+Martinique,2020-02-06,0,0,0
+Martinique,2020-02-07,0,0,0
+Martinique,2020-02-08,0,0,0
+Martinique,2020-02-09,0,0,0
+Martinique,2020-02-10,0,0,0
+Martinique,2020-02-11,0,0,0
+Martinique,2020-02-12,0,0,0
+Martinique,2020-02-13,0,0,0
+Martinique,2020-02-14,0,0,0
+Martinique,2020-02-15,0,0,0
+Martinique,2020-02-16,0,0,0
+Martinique,2020-02-17,0,0,0
+Martinique,2020-02-18,0,0,0
+Martinique,2020-02-19,0,0,0
+Martinique,2020-02-20,0,0,0
+Martinique,2020-02-21,0,0,0
+Martinique,2020-02-22,0,0,0
+Martinique,2020-02-23,0,0,0
+Martinique,2020-02-24,0,0,0
+Martinique,2020-02-25,0,0,0
+Martinique,2020-02-26,0,0,0
+Martinique,2020-02-27,0,0,0
+Martinique,2020-02-28,0,0,0
+Martinique,2020-02-29,0,0,0
+Martinique,2020-03-01,0,0,0
+Martinique,2020-03-02,0,0,0
+Martinique,2020-03-03,0,0,0
+Martinique,2020-03-04,0,0,0
+Martinique,2020-03-05,0,0,0
+Martinique,2020-03-06,0,0,0
+Martinique,2020-03-07,2,0,0
+Martinique,2020-03-08,2,0,0
+Martinique,2020-03-09,2,0,0
+Martinique,2020-03-10,2,0,0
+Mexico,2020-01-22,0,0,0
+Mexico,2020-01-23,0,0,0
+Mexico,2020-01-24,0,0,0
+Mexico,2020-01-25,0,0,0
+Mexico,2020-01-26,0,0,0
+Mexico,2020-01-27,0,0,0
+Mexico,2020-01-28,0,0,0
+Mexico,2020-01-29,0,0,0
+Mexico,2020-01-30,0,0,0
+Mexico,2020-01-31,0,0,0
+Mexico,2020-02-01,0,0,0
+Mexico,2020-02-02,0,0,0
+Mexico,2020-02-03,0,0,0
+Mexico,2020-02-04,0,0,0
+Mexico,2020-02-05,0,0,0
+Mexico,2020-02-06,0,0,0
+Mexico,2020-02-07,0,0,0
+Mexico,2020-02-08,0,0,0
+Mexico,2020-02-09,0,0,0
+Mexico,2020-02-10,0,0,0
+Mexico,2020-02-11,0,0,0
+Mexico,2020-02-12,0,0,0
+Mexico,2020-02-13,0,0,0
+Mexico,2020-02-14,0,0,0
+Mexico,2020-02-15,0,0,0
+Mexico,2020-02-16,0,0,0
+Mexico,2020-02-17,0,0,0
+Mexico,2020-02-18,0,0,0
+Mexico,2020-02-19,0,0,0
+Mexico,2020-02-20,0,0,0
+Mexico,2020-02-21,0,0,0
+Mexico,2020-02-22,0,0,0
+Mexico,2020-02-23,0,0,0
+Mexico,2020-02-24,0,0,0
+Mexico,2020-02-25,0,0,0
+Mexico,2020-02-26,0,0,0
+Mexico,2020-02-27,0,0,0
+Mexico,2020-02-28,1,0,0
+Mexico,2020-02-29,4,0,0
+Mexico,2020-03-01,5,0,0
+Mexico,2020-03-02,5,0,0
+Mexico,2020-03-03,5,0,1
+Mexico,2020-03-04,5,0,1
+Mexico,2020-03-05,5,0,1
+Mexico,2020-03-06,6,0,1
+Mexico,2020-03-07,6,0,1
+Mexico,2020-03-08,7,0,1
+Mexico,2020-03-09,7,0,1
+Mexico,2020-03-10,7,0,4
+Monaco,2020-01-22,0,0,0
+Monaco,2020-01-23,0,0,0
+Monaco,2020-01-24,0,0,0
+Monaco,2020-01-25,0,0,0
+Monaco,2020-01-26,0,0,0
+Monaco,2020-01-27,0,0,0
+Monaco,2020-01-28,0,0,0
+Monaco,2020-01-29,0,0,0
+Monaco,2020-01-30,0,0,0
+Monaco,2020-01-31,0,0,0
+Monaco,2020-02-01,0,0,0
+Monaco,2020-02-02,0,0,0
+Monaco,2020-02-03,0,0,0
+Monaco,2020-02-04,0,0,0
+Monaco,2020-02-05,0,0,0
+Monaco,2020-02-06,0,0,0
+Monaco,2020-02-07,0,0,0
+Monaco,2020-02-08,0,0,0
+Monaco,2020-02-09,0,0,0
+Monaco,2020-02-10,0,0,0
+Monaco,2020-02-11,0,0,0
+Monaco,2020-02-12,0,0,0
+Monaco,2020-02-13,0,0,0
+Monaco,2020-02-14,0,0,0
+Monaco,2020-02-15,0,0,0
+Monaco,2020-02-16,0,0,0
+Monaco,2020-02-17,0,0,0
+Monaco,2020-02-18,0,0,0
+Monaco,2020-02-19,0,0,0
+Monaco,2020-02-20,0,0,0
+Monaco,2020-02-21,0,0,0
+Monaco,2020-02-22,0,0,0
+Monaco,2020-02-23,0,0,0
+Monaco,2020-02-24,0,0,0
+Monaco,2020-02-25,0,0,0
+Monaco,2020-02-26,0,0,0
+Monaco,2020-02-27,0,0,0
+Monaco,2020-02-28,0,0,0
+Monaco,2020-02-29,1,0,0
+Monaco,2020-03-01,1,0,0
+Monaco,2020-03-02,1,0,0
+Monaco,2020-03-03,1,0,0
+Monaco,2020-03-04,1,0,0
+Monaco,2020-03-05,1,0,0
+Monaco,2020-03-06,1,0,0
+Monaco,2020-03-07,1,0,0
+Monaco,2020-03-08,1,0,0
+Monaco,2020-03-09,1,0,0
+Monaco,2020-03-10,1,0,0
+Mongolia,2020-01-22,0,0,0
+Mongolia,2020-01-23,0,0,0
+Mongolia,2020-01-24,0,0,0
+Mongolia,2020-01-25,0,0,0
+Mongolia,2020-01-26,0,0,0
+Mongolia,2020-01-27,0,0,0
+Mongolia,2020-01-28,0,0,0
+Mongolia,2020-01-29,0,0,0
+Mongolia,2020-01-30,0,0,0
+Mongolia,2020-01-31,0,0,0
+Mongolia,2020-02-01,0,0,0
+Mongolia,2020-02-02,0,0,0
+Mongolia,2020-02-03,0,0,0
+Mongolia,2020-02-04,0,0,0
+Mongolia,2020-02-05,0,0,0
+Mongolia,2020-02-06,0,0,0
+Mongolia,2020-02-07,0,0,0
+Mongolia,2020-02-08,0,0,0
+Mongolia,2020-02-09,0,0,0
+Mongolia,2020-02-10,0,0,0
+Mongolia,2020-02-11,0,0,0
+Mongolia,2020-02-12,0,0,0
+Mongolia,2020-02-13,0,0,0
+Mongolia,2020-02-14,0,0,0
+Mongolia,2020-02-15,0,0,0
+Mongolia,2020-02-16,0,0,0
+Mongolia,2020-02-17,0,0,0
+Mongolia,2020-02-18,0,0,0
+Mongolia,2020-02-19,0,0,0
+Mongolia,2020-02-20,0,0,0
+Mongolia,2020-02-21,0,0,0
+Mongolia,2020-02-22,0,0,0
+Mongolia,2020-02-23,0,0,0
+Mongolia,2020-02-24,0,0,0
+Mongolia,2020-02-25,0,0,0
+Mongolia,2020-02-26,0,0,0
+Mongolia,2020-02-27,0,0,0
+Mongolia,2020-02-28,0,0,0
+Mongolia,2020-02-29,0,0,0
+Mongolia,2020-03-01,0,0,0
+Mongolia,2020-03-02,0,0,0
+Mongolia,2020-03-03,0,0,0
+Mongolia,2020-03-04,0,0,0
+Mongolia,2020-03-05,0,0,0
+Mongolia,2020-03-06,0,0,0
+Mongolia,2020-03-07,0,0,0
+Mongolia,2020-03-08,0,0,0
+Mongolia,2020-03-09,0,0,0
+Mongolia,2020-03-10,1,0,0
+Morocco,2020-01-22,0,0,0
+Morocco,2020-01-23,0,0,0
+Morocco,2020-01-24,0,0,0
+Morocco,2020-01-25,0,0,0
+Morocco,2020-01-26,0,0,0
+Morocco,2020-01-27,0,0,0
+Morocco,2020-01-28,0,0,0
+Morocco,2020-01-29,0,0,0
+Morocco,2020-01-30,0,0,0
+Morocco,2020-01-31,0,0,0
+Morocco,2020-02-01,0,0,0
+Morocco,2020-02-02,0,0,0
+Morocco,2020-02-03,0,0,0
+Morocco,2020-02-04,0,0,0
+Morocco,2020-02-05,0,0,0
+Morocco,2020-02-06,0,0,0
+Morocco,2020-02-07,0,0,0
+Morocco,2020-02-08,0,0,0
+Morocco,2020-02-09,0,0,0
+Morocco,2020-02-10,0,0,0
+Morocco,2020-02-11,0,0,0
+Morocco,2020-02-12,0,0,0
+Morocco,2020-02-13,0,0,0
+Morocco,2020-02-14,0,0,0
+Morocco,2020-02-15,0,0,0
+Morocco,2020-02-16,0,0,0
+Morocco,2020-02-17,0,0,0
+Morocco,2020-02-18,0,0,0
+Morocco,2020-02-19,0,0,0
+Morocco,2020-02-20,0,0,0
+Morocco,2020-02-21,0,0,0
+Morocco,2020-02-22,0,0,0
+Morocco,2020-02-23,0,0,0
+Morocco,2020-02-24,0,0,0
+Morocco,2020-02-25,0,0,0
+Morocco,2020-02-26,0,0,0
+Morocco,2020-02-27,0,0,0
+Morocco,2020-02-28,0,0,0
+Morocco,2020-02-29,0,0,0
+Morocco,2020-03-01,0,0,0
+Morocco,2020-03-02,1,0,0
+Morocco,2020-03-03,1,0,0
+Morocco,2020-03-04,1,0,0
+Morocco,2020-03-05,2,0,0
+Morocco,2020-03-06,2,0,0
+Morocco,2020-03-07,2,0,0
+Morocco,2020-03-08,2,0,0
+Morocco,2020-03-09,2,0,0
+Morocco,2020-03-10,3,1,0
+Nepal,2020-01-22,0,0,0
+Nepal,2020-01-23,0,0,0
+Nepal,2020-01-24,0,0,0
+Nepal,2020-01-25,1,0,0
+Nepal,2020-01-26,1,0,0
+Nepal,2020-01-27,1,0,0
+Nepal,2020-01-28,1,0,0
+Nepal,2020-01-29,1,0,0
+Nepal,2020-01-30,1,0,0
+Nepal,2020-01-31,1,0,0
+Nepal,2020-02-01,1,0,0
+Nepal,2020-02-02,1,0,0
+Nepal,2020-02-03,1,0,0
+Nepal,2020-02-04,1,0,0
+Nepal,2020-02-05,1,0,0
+Nepal,2020-02-06,1,0,0
+Nepal,2020-02-07,1,0,0
+Nepal,2020-02-08,1,0,0
+Nepal,2020-02-09,1,0,0
+Nepal,2020-02-10,1,0,0
+Nepal,2020-02-11,1,0,0
+Nepal,2020-02-12,1,0,1
+Nepal,2020-02-13,1,0,1
+Nepal,2020-02-14,1,0,1
+Nepal,2020-02-15,1,0,1
+Nepal,2020-02-16,1,0,1
+Nepal,2020-02-17,1,0,1
+Nepal,2020-02-18,1,0,1
+Nepal,2020-02-19,1,0,1
+Nepal,2020-02-20,1,0,1
+Nepal,2020-02-21,1,0,1
+Nepal,2020-02-22,1,0,1
+Nepal,2020-02-23,1,0,1
+Nepal,2020-02-24,1,0,1
+Nepal,2020-02-25,1,0,1
+Nepal,2020-02-26,1,0,1
+Nepal,2020-02-27,1,0,1
+Nepal,2020-02-28,1,0,1
+Nepal,2020-02-29,1,0,1
+Nepal,2020-03-01,1,0,1
+Nepal,2020-03-02,1,0,1
+Nepal,2020-03-03,1,0,1
+Nepal,2020-03-04,1,0,1
+Nepal,2020-03-05,1,0,1
+Nepal,2020-03-06,1,0,1
+Nepal,2020-03-07,1,0,1
+Nepal,2020-03-08,1,0,1
+Nepal,2020-03-09,1,0,1
+Nepal,2020-03-10,1,0,1
+Netherlands,2020-01-22,0,0,0
+Netherlands,2020-01-23,0,0,0
+Netherlands,2020-01-24,0,0,0
+Netherlands,2020-01-25,0,0,0
+Netherlands,2020-01-26,0,0,0
+Netherlands,2020-01-27,0,0,0
+Netherlands,2020-01-28,0,0,0
+Netherlands,2020-01-29,0,0,0
+Netherlands,2020-01-30,0,0,0
+Netherlands,2020-01-31,0,0,0
+Netherlands,2020-02-01,0,0,0
+Netherlands,2020-02-02,0,0,0
+Netherlands,2020-02-03,0,0,0
+Netherlands,2020-02-04,0,0,0
+Netherlands,2020-02-05,0,0,0
+Netherlands,2020-02-06,0,0,0
+Netherlands,2020-02-07,0,0,0
+Netherlands,2020-02-08,0,0,0
+Netherlands,2020-02-09,0,0,0
+Netherlands,2020-02-10,0,0,0
+Netherlands,2020-02-11,0,0,0
+Netherlands,2020-02-12,0,0,0
+Netherlands,2020-02-13,0,0,0
+Netherlands,2020-02-14,0,0,0
+Netherlands,2020-02-15,0,0,0
+Netherlands,2020-02-16,0,0,0
+Netherlands,2020-02-17,0,0,0
+Netherlands,2020-02-18,0,0,0
+Netherlands,2020-02-19,0,0,0
+Netherlands,2020-02-20,0,0,0
+Netherlands,2020-02-21,0,0,0
+Netherlands,2020-02-22,0,0,0
+Netherlands,2020-02-23,0,0,0
+Netherlands,2020-02-24,0,0,0
+Netherlands,2020-02-25,0,0,0
+Netherlands,2020-02-26,0,0,0
+Netherlands,2020-02-27,1,0,0
+Netherlands,2020-02-28,1,0,0
+Netherlands,2020-02-29,6,0,0
+Netherlands,2020-03-01,10,0,0
+Netherlands,2020-03-02,18,0,0
+Netherlands,2020-03-03,24,0,0
+Netherlands,2020-03-04,38,0,0
+Netherlands,2020-03-05,82,0,0
+Netherlands,2020-03-06,128,1,0
+Netherlands,2020-03-07,188,1,0
+Netherlands,2020-03-08,265,3,0
+Netherlands,2020-03-09,321,3,0
+Netherlands,2020-03-10,382,4,0
+New Zealand,2020-01-22,0,0,0
+New Zealand,2020-01-23,0,0,0
+New Zealand,2020-01-24,0,0,0
+New Zealand,2020-01-25,0,0,0
+New Zealand,2020-01-26,0,0,0
+New Zealand,2020-01-27,0,0,0
+New Zealand,2020-01-28,0,0,0
+New Zealand,2020-01-29,0,0,0
+New Zealand,2020-01-30,0,0,0
+New Zealand,2020-01-31,0,0,0
+New Zealand,2020-02-01,0,0,0
+New Zealand,2020-02-02,0,0,0
+New Zealand,2020-02-03,0,0,0
+New Zealand,2020-02-04,0,0,0
+New Zealand,2020-02-05,0,0,0
+New Zealand,2020-02-06,0,0,0
+New Zealand,2020-02-07,0,0,0
+New Zealand,2020-02-08,0,0,0
+New Zealand,2020-02-09,0,0,0
+New Zealand,2020-02-10,0,0,0
+New Zealand,2020-02-11,0,0,0
+New Zealand,2020-02-12,0,0,0
+New Zealand,2020-02-13,0,0,0
+New Zealand,2020-02-14,0,0,0
+New Zealand,2020-02-15,0,0,0
+New Zealand,2020-02-16,0,0,0
+New Zealand,2020-02-17,0,0,0
+New Zealand,2020-02-18,0,0,0
+New Zealand,2020-02-19,0,0,0
+New Zealand,2020-02-20,0,0,0
+New Zealand,2020-02-21,0,0,0
+New Zealand,2020-02-22,0,0,0
+New Zealand,2020-02-23,0,0,0
+New Zealand,2020-02-24,0,0,0
+New Zealand,2020-02-25,0,0,0
+New Zealand,2020-02-26,0,0,0
+New Zealand,2020-02-27,0,0,0
+New Zealand,2020-02-28,1,0,0
+New Zealand,2020-02-29,1,0,0
+New Zealand,2020-03-01,1,0,0
+New Zealand,2020-03-02,1,0,0
+New Zealand,2020-03-03,1,0,0
+New Zealand,2020-03-04,3,0,0
+New Zealand,2020-03-05,3,0,0
+New Zealand,2020-03-06,4,0,0
+New Zealand,2020-03-07,5,0,0
+New Zealand,2020-03-08,5,0,0
+New Zealand,2020-03-09,5,0,0
+New Zealand,2020-03-10,5,0,0
+Nigeria,2020-01-22,0,0,0
+Nigeria,2020-01-23,0,0,0
+Nigeria,2020-01-24,0,0,0
+Nigeria,2020-01-25,0,0,0
+Nigeria,2020-01-26,0,0,0
+Nigeria,2020-01-27,0,0,0
+Nigeria,2020-01-28,0,0,0
+Nigeria,2020-01-29,0,0,0
+Nigeria,2020-01-30,0,0,0
+Nigeria,2020-01-31,0,0,0
+Nigeria,2020-02-01,0,0,0
+Nigeria,2020-02-02,0,0,0
+Nigeria,2020-02-03,0,0,0
+Nigeria,2020-02-04,0,0,0
+Nigeria,2020-02-05,0,0,0
+Nigeria,2020-02-06,0,0,0
+Nigeria,2020-02-07,0,0,0
+Nigeria,2020-02-08,0,0,0
+Nigeria,2020-02-09,0,0,0
+Nigeria,2020-02-10,0,0,0
+Nigeria,2020-02-11,0,0,0
+Nigeria,2020-02-12,0,0,0
+Nigeria,2020-02-13,0,0,0
+Nigeria,2020-02-14,0,0,0
+Nigeria,2020-02-15,0,0,0
+Nigeria,2020-02-16,0,0,0
+Nigeria,2020-02-17,0,0,0
+Nigeria,2020-02-18,0,0,0
+Nigeria,2020-02-19,0,0,0
+Nigeria,2020-02-20,0,0,0
+Nigeria,2020-02-21,0,0,0
+Nigeria,2020-02-22,0,0,0
+Nigeria,2020-02-23,0,0,0
+Nigeria,2020-02-24,0,0,0
+Nigeria,2020-02-25,0,0,0
+Nigeria,2020-02-26,0,0,0
+Nigeria,2020-02-27,0,0,0
+Nigeria,2020-02-28,1,0,0
+Nigeria,2020-02-29,1,0,0
+Nigeria,2020-03-01,1,0,0
+Nigeria,2020-03-02,1,0,0
+Nigeria,2020-03-03,1,0,0
+Nigeria,2020-03-04,1,0,0
+Nigeria,2020-03-05,1,0,0
+Nigeria,2020-03-06,1,0,0
+Nigeria,2020-03-07,1,0,0
+Nigeria,2020-03-08,1,0,0
+Nigeria,2020-03-09,2,0,0
+Nigeria,2020-03-10,2,0,0
+North Macedonia,2020-01-22,0,0,0
+North Macedonia,2020-01-23,0,0,0
+North Macedonia,2020-01-24,0,0,0
+North Macedonia,2020-01-25,0,0,0
+North Macedonia,2020-01-26,0,0,0
+North Macedonia,2020-01-27,0,0,0
+North Macedonia,2020-01-28,0,0,0
+North Macedonia,2020-01-29,0,0,0
+North Macedonia,2020-01-30,0,0,0
+North Macedonia,2020-01-31,0,0,0
+North Macedonia,2020-02-01,0,0,0
+North Macedonia,2020-02-02,0,0,0
+North Macedonia,2020-02-03,0,0,0
+North Macedonia,2020-02-04,0,0,0
+North Macedonia,2020-02-05,0,0,0
+North Macedonia,2020-02-06,0,0,0
+North Macedonia,2020-02-07,0,0,0
+North Macedonia,2020-02-08,0,0,0
+North Macedonia,2020-02-09,0,0,0
+North Macedonia,2020-02-10,0,0,0
+North Macedonia,2020-02-11,0,0,0
+North Macedonia,2020-02-12,0,0,0
+North Macedonia,2020-02-13,0,0,0
+North Macedonia,2020-02-14,0,0,0
+North Macedonia,2020-02-15,0,0,0
+North Macedonia,2020-02-16,0,0,0
+North Macedonia,2020-02-17,0,0,0
+North Macedonia,2020-02-18,0,0,0
+North Macedonia,2020-02-19,0,0,0
+North Macedonia,2020-02-20,0,0,0
+North Macedonia,2020-02-21,0,0,0
+North Macedonia,2020-02-22,0,0,0
+North Macedonia,2020-02-23,0,0,0
+North Macedonia,2020-02-24,0,0,0
+North Macedonia,2020-02-25,0,0,0
+North Macedonia,2020-02-26,1,0,0
+North Macedonia,2020-02-27,1,0,0
+North Macedonia,2020-02-28,1,0,0
+North Macedonia,2020-02-29,1,0,0
+North Macedonia,2020-03-01,1,0,0
+North Macedonia,2020-03-02,1,0,0
+North Macedonia,2020-03-03,1,0,0
+North Macedonia,2020-03-04,1,0,0
+North Macedonia,2020-03-05,1,0,0
+North Macedonia,2020-03-06,3,0,0
+North Macedonia,2020-03-07,3,0,0
+North Macedonia,2020-03-08,3,0,0
+North Macedonia,2020-03-09,3,0,0
+North Macedonia,2020-03-10,7,0,0
+Norway,2020-01-22,0,0,0
+Norway,2020-01-23,0,0,0
+Norway,2020-01-24,0,0,0
+Norway,2020-01-25,0,0,0
+Norway,2020-01-26,0,0,0
+Norway,2020-01-27,0,0,0
+Norway,2020-01-28,0,0,0
+Norway,2020-01-29,0,0,0
+Norway,2020-01-30,0,0,0
+Norway,2020-01-31,0,0,0
+Norway,2020-02-01,0,0,0
+Norway,2020-02-02,0,0,0
+Norway,2020-02-03,0,0,0
+Norway,2020-02-04,0,0,0
+Norway,2020-02-05,0,0,0
+Norway,2020-02-06,0,0,0
+Norway,2020-02-07,0,0,0
+Norway,2020-02-08,0,0,0
+Norway,2020-02-09,0,0,0
+Norway,2020-02-10,0,0,0
+Norway,2020-02-11,0,0,0
+Norway,2020-02-12,0,0,0
+Norway,2020-02-13,0,0,0
+Norway,2020-02-14,0,0,0
+Norway,2020-02-15,0,0,0
+Norway,2020-02-16,0,0,0
+Norway,2020-02-17,0,0,0
+Norway,2020-02-18,0,0,0
+Norway,2020-02-19,0,0,0
+Norway,2020-02-20,0,0,0
+Norway,2020-02-21,0,0,0
+Norway,2020-02-22,0,0,0
+Norway,2020-02-23,0,0,0
+Norway,2020-02-24,0,0,0
+Norway,2020-02-25,0,0,0
+Norway,2020-02-26,1,0,0
+Norway,2020-02-27,1,0,0
+Norway,2020-02-28,6,0,0
+Norway,2020-02-29,15,0,0
+Norway,2020-03-01,19,0,0
+Norway,2020-03-02,25,0,0
+Norway,2020-03-03,32,0,0
+Norway,2020-03-04,56,0,0
+Norway,2020-03-05,87,0,0
+Norway,2020-03-06,108,0,0
+Norway,2020-03-07,147,0,0
+Norway,2020-03-08,176,0,0
+Norway,2020-03-09,205,0,1
+Norway,2020-03-10,400,0,1
+occupied Palestinian territory,2020-01-22,0,0,0
+occupied Palestinian territory,2020-01-23,0,0,0
+occupied Palestinian territory,2020-01-24,0,0,0
+occupied Palestinian territory,2020-01-25,0,0,0
+occupied Palestinian territory,2020-01-26,0,0,0
+occupied Palestinian territory,2020-01-27,0,0,0
+occupied Palestinian territory,2020-01-28,0,0,0
+occupied Palestinian territory,2020-01-29,0,0,0
+occupied Palestinian territory,2020-01-30,0,0,0
+occupied Palestinian territory,2020-01-31,0,0,0
+occupied Palestinian territory,2020-02-01,0,0,0
+occupied Palestinian territory,2020-02-02,0,0,0
+occupied Palestinian territory,2020-02-03,0,0,0
+occupied Palestinian territory,2020-02-04,0,0,0
+occupied Palestinian territory,2020-02-05,0,0,0
+occupied Palestinian territory,2020-02-06,0,0,0
+occupied Palestinian territory,2020-02-07,0,0,0
+occupied Palestinian territory,2020-02-08,0,0,0
+occupied Palestinian territory,2020-02-09,0,0,0
+occupied Palestinian territory,2020-02-10,0,0,0
+occupied Palestinian territory,2020-02-11,0,0,0
+occupied Palestinian territory,2020-02-12,0,0,0
+occupied Palestinian territory,2020-02-13,0,0,0
+occupied Palestinian territory,2020-02-14,0,0,0
+occupied Palestinian territory,2020-02-15,0,0,0
+occupied Palestinian territory,2020-02-16,0,0,0
+occupied Palestinian territory,2020-02-17,0,0,0
+occupied Palestinian territory,2020-02-18,0,0,0
+occupied Palestinian territory,2020-02-19,0,0,0
+occupied Palestinian territory,2020-02-20,0,0,0
+occupied Palestinian territory,2020-02-21,0,0,0
+occupied Palestinian territory,2020-02-22,0,0,0
+occupied Palestinian territory,2020-02-23,0,0,0
+occupied Palestinian territory,2020-02-24,0,0,0
+occupied Palestinian territory,2020-02-25,0,0,0
+occupied Palestinian territory,2020-02-26,0,0,0
+occupied Palestinian territory,2020-02-27,0,0,0
+occupied Palestinian territory,2020-02-28,0,0,0
+occupied Palestinian territory,2020-02-29,0,0,0
+occupied Palestinian territory,2020-03-01,0,0,0
+occupied Palestinian territory,2020-03-02,0,0,0
+occupied Palestinian territory,2020-03-03,0,0,0
+occupied Palestinian territory,2020-03-04,0,0,0
+occupied Palestinian territory,2020-03-05,4,0,0
+occupied Palestinian territory,2020-03-06,16,0,0
+occupied Palestinian territory,2020-03-07,22,0,0
+occupied Palestinian territory,2020-03-08,22,0,0
+occupied Palestinian territory,2020-03-09,22,0,0
+occupied Palestinian territory,2020-03-10,25,0,0
+Oman,2020-01-22,0,0,0
+Oman,2020-01-23,0,0,0
+Oman,2020-01-24,0,0,0
+Oman,2020-01-25,0,0,0
+Oman,2020-01-26,0,0,0
+Oman,2020-01-27,0,0,0
+Oman,2020-01-28,0,0,0
+Oman,2020-01-29,0,0,0
+Oman,2020-01-30,0,0,0
+Oman,2020-01-31,0,0,0
+Oman,2020-02-01,0,0,0
+Oman,2020-02-02,0,0,0
+Oman,2020-02-03,0,0,0
+Oman,2020-02-04,0,0,0
+Oman,2020-02-05,0,0,0
+Oman,2020-02-06,0,0,0
+Oman,2020-02-07,0,0,0
+Oman,2020-02-08,0,0,0
+Oman,2020-02-09,0,0,0
+Oman,2020-02-10,0,0,0
+Oman,2020-02-11,0,0,0
+Oman,2020-02-12,0,0,0
+Oman,2020-02-13,0,0,0
+Oman,2020-02-14,0,0,0
+Oman,2020-02-15,0,0,0
+Oman,2020-02-16,0,0,0
+Oman,2020-02-17,0,0,0
+Oman,2020-02-18,0,0,0
+Oman,2020-02-19,0,0,0
+Oman,2020-02-20,0,0,0
+Oman,2020-02-21,0,0,0
+Oman,2020-02-22,0,0,0
+Oman,2020-02-23,0,0,0
+Oman,2020-02-24,2,0,0
+Oman,2020-02-25,2,0,0
+Oman,2020-02-26,4,0,0
+Oman,2020-02-27,4,0,0
+Oman,2020-02-28,4,0,0
+Oman,2020-02-29,6,0,1
+Oman,2020-03-01,6,0,1
+Oman,2020-03-02,6,0,1
+Oman,2020-03-03,12,0,2
+Oman,2020-03-04,15,0,2
+Oman,2020-03-05,16,0,2
+Oman,2020-03-06,16,0,2
+Oman,2020-03-07,16,0,2
+Oman,2020-03-08,16,0,2
+Oman,2020-03-09,16,0,2
+Oman,2020-03-10,18,0,9
+Others,2020-01-22,0,0,0
+Others,2020-01-23,0,0,0
+Others,2020-01-24,0,0,0
+Others,2020-01-25,0,0,0
+Others,2020-01-26,0,0,0
+Others,2020-01-27,0,0,0
+Others,2020-01-28,0,0,0
+Others,2020-01-29,0,0,0
+Others,2020-01-30,0,0,0
+Others,2020-01-31,0,0,0
+Others,2020-02-01,0,0,0
+Others,2020-02-02,0,0,0
+Others,2020-02-03,0,0,0
+Others,2020-02-04,0,0,0
+Others,2020-02-05,0,0,0
+Others,2020-02-06,0,0,0
+Others,2020-02-07,61,0,0
+Others,2020-02-08,61,0,0
+Others,2020-02-09,64,0,0
+Others,2020-02-10,135,0,0
+Others,2020-02-11,135,0,0
+Others,2020-02-12,175,0,0
+Others,2020-02-13,175,0,0
+Others,2020-02-14,218,0,0
+Others,2020-02-15,285,0,0
+Others,2020-02-16,355,0,0
+Others,2020-02-17,454,0,0
+Others,2020-02-18,542,0,0
+Others,2020-02-19,621,0,1
+Others,2020-02-20,634,2,1
+Others,2020-02-21,634,2,1
+Others,2020-02-22,634,2,1
+Others,2020-02-23,691,3,0
+Others,2020-02-24,691,3,0
+Others,2020-02-25,691,3,0
+Others,2020-02-26,705,4,10
+Others,2020-02-27,705,4,10
+Others,2020-02-28,705,6,10
+Others,2020-02-29,705,6,10
+Others,2020-03-01,705,6,10
+Others,2020-03-02,705,6,10
+Others,2020-03-03,706,6,10
+Others,2020-03-04,706,6,10
+Others,2020-03-05,706,6,10
+Others,2020-03-06,696,6,40
+Others,2020-03-07,696,6,40
+Others,2020-03-08,696,6,40
+Others,2020-03-09,696,6,40
+Others,2020-03-10,696,6,40
+Pakistan,2020-01-22,0,0,0
+Pakistan,2020-01-23,0,0,0
+Pakistan,2020-01-24,0,0,0
+Pakistan,2020-01-25,0,0,0
+Pakistan,2020-01-26,0,0,0
+Pakistan,2020-01-27,0,0,0
+Pakistan,2020-01-28,0,0,0
+Pakistan,2020-01-29,0,0,0
+Pakistan,2020-01-30,0,0,0
+Pakistan,2020-01-31,0,0,0
+Pakistan,2020-02-01,0,0,0
+Pakistan,2020-02-02,0,0,0
+Pakistan,2020-02-03,0,0,0
+Pakistan,2020-02-04,0,0,0
+Pakistan,2020-02-05,0,0,0
+Pakistan,2020-02-06,0,0,0
+Pakistan,2020-02-07,0,0,0
+Pakistan,2020-02-08,0,0,0
+Pakistan,2020-02-09,0,0,0
+Pakistan,2020-02-10,0,0,0
+Pakistan,2020-02-11,0,0,0
+Pakistan,2020-02-12,0,0,0
+Pakistan,2020-02-13,0,0,0
+Pakistan,2020-02-14,0,0,0
+Pakistan,2020-02-15,0,0,0
+Pakistan,2020-02-16,0,0,0
+Pakistan,2020-02-17,0,0,0
+Pakistan,2020-02-18,0,0,0
+Pakistan,2020-02-19,0,0,0
+Pakistan,2020-02-20,0,0,0
+Pakistan,2020-02-21,0,0,0
+Pakistan,2020-02-22,0,0,0
+Pakistan,2020-02-23,0,0,0
+Pakistan,2020-02-24,0,0,0
+Pakistan,2020-02-25,0,0,0
+Pakistan,2020-02-26,2,0,0
+Pakistan,2020-02-27,2,0,0
+Pakistan,2020-02-28,2,0,0
+Pakistan,2020-02-29,4,0,0
+Pakistan,2020-03-01,4,0,0
+Pakistan,2020-03-02,4,0,0
+Pakistan,2020-03-03,5,0,0
+Pakistan,2020-03-04,5,0,0
+Pakistan,2020-03-05,5,0,0
+Pakistan,2020-03-06,6,0,0
+Pakistan,2020-03-07,6,0,0
+Pakistan,2020-03-08,6,0,1
+Pakistan,2020-03-09,6,0,1
+Pakistan,2020-03-10,16,0,1
+Panama,2020-01-22,0,0,0
+Panama,2020-01-23,0,0,0
+Panama,2020-01-24,0,0,0
+Panama,2020-01-25,0,0,0
+Panama,2020-01-26,0,0,0
+Panama,2020-01-27,0,0,0
+Panama,2020-01-28,0,0,0
+Panama,2020-01-29,0,0,0
+Panama,2020-01-30,0,0,0
+Panama,2020-01-31,0,0,0
+Panama,2020-02-01,0,0,0
+Panama,2020-02-02,0,0,0
+Panama,2020-02-03,0,0,0
+Panama,2020-02-04,0,0,0
+Panama,2020-02-05,0,0,0
+Panama,2020-02-06,0,0,0
+Panama,2020-02-07,0,0,0
+Panama,2020-02-08,0,0,0
+Panama,2020-02-09,0,0,0
+Panama,2020-02-10,0,0,0
+Panama,2020-02-11,0,0,0
+Panama,2020-02-12,0,0,0
+Panama,2020-02-13,0,0,0
+Panama,2020-02-14,0,0,0
+Panama,2020-02-15,0,0,0
+Panama,2020-02-16,0,0,0
+Panama,2020-02-17,0,0,0
+Panama,2020-02-18,0,0,0
+Panama,2020-02-19,0,0,0
+Panama,2020-02-20,0,0,0
+Panama,2020-02-21,0,0,0
+Panama,2020-02-22,0,0,0
+Panama,2020-02-23,0,0,0
+Panama,2020-02-24,0,0,0
+Panama,2020-02-25,0,0,0
+Panama,2020-02-26,0,0,0
+Panama,2020-02-27,0,0,0
+Panama,2020-02-28,0,0,0
+Panama,2020-02-29,0,0,0
+Panama,2020-03-01,0,0,0
+Panama,2020-03-02,0,0,0
+Panama,2020-03-03,0,0,0
+Panama,2020-03-04,0,0,0
+Panama,2020-03-05,0,0,0
+Panama,2020-03-06,0,0,0
+Panama,2020-03-07,0,0,0
+Panama,2020-03-08,0,0,0
+Panama,2020-03-09,0,0,0
+Panama,2020-03-10,1,0,0
+Paraguay,2020-01-22,0,0,0
+Paraguay,2020-01-23,0,0,0
+Paraguay,2020-01-24,0,0,0
+Paraguay,2020-01-25,0,0,0
+Paraguay,2020-01-26,0,0,0
+Paraguay,2020-01-27,0,0,0
+Paraguay,2020-01-28,0,0,0
+Paraguay,2020-01-29,0,0,0
+Paraguay,2020-01-30,0,0,0
+Paraguay,2020-01-31,0,0,0
+Paraguay,2020-02-01,0,0,0
+Paraguay,2020-02-02,0,0,0
+Paraguay,2020-02-03,0,0,0
+Paraguay,2020-02-04,0,0,0
+Paraguay,2020-02-05,0,0,0
+Paraguay,2020-02-06,0,0,0
+Paraguay,2020-02-07,0,0,0
+Paraguay,2020-02-08,0,0,0
+Paraguay,2020-02-09,0,0,0
+Paraguay,2020-02-10,0,0,0
+Paraguay,2020-02-11,0,0,0
+Paraguay,2020-02-12,0,0,0
+Paraguay,2020-02-13,0,0,0
+Paraguay,2020-02-14,0,0,0
+Paraguay,2020-02-15,0,0,0
+Paraguay,2020-02-16,0,0,0
+Paraguay,2020-02-17,0,0,0
+Paraguay,2020-02-18,0,0,0
+Paraguay,2020-02-19,0,0,0
+Paraguay,2020-02-20,0,0,0
+Paraguay,2020-02-21,0,0,0
+Paraguay,2020-02-22,0,0,0
+Paraguay,2020-02-23,0,0,0
+Paraguay,2020-02-24,0,0,0
+Paraguay,2020-02-25,0,0,0
+Paraguay,2020-02-26,0,0,0
+Paraguay,2020-02-27,0,0,0
+Paraguay,2020-02-28,0,0,0
+Paraguay,2020-02-29,0,0,0
+Paraguay,2020-03-01,0,0,0
+Paraguay,2020-03-02,0,0,0
+Paraguay,2020-03-03,0,0,0
+Paraguay,2020-03-04,0,0,0
+Paraguay,2020-03-05,0,0,0
+Paraguay,2020-03-06,0,0,0
+Paraguay,2020-03-07,0,0,0
+Paraguay,2020-03-08,1,0,0
+Paraguay,2020-03-09,1,0,0
+Paraguay,2020-03-10,1,0,0
+Peru,2020-01-22,0,0,0
+Peru,2020-01-23,0,0,0
+Peru,2020-01-24,0,0,0
+Peru,2020-01-25,0,0,0
+Peru,2020-01-26,0,0,0
+Peru,2020-01-27,0,0,0
+Peru,2020-01-28,0,0,0
+Peru,2020-01-29,0,0,0
+Peru,2020-01-30,0,0,0
+Peru,2020-01-31,0,0,0
+Peru,2020-02-01,0,0,0
+Peru,2020-02-02,0,0,0
+Peru,2020-02-03,0,0,0
+Peru,2020-02-04,0,0,0
+Peru,2020-02-05,0,0,0
+Peru,2020-02-06,0,0,0
+Peru,2020-02-07,0,0,0
+Peru,2020-02-08,0,0,0
+Peru,2020-02-09,0,0,0
+Peru,2020-02-10,0,0,0
+Peru,2020-02-11,0,0,0
+Peru,2020-02-12,0,0,0
+Peru,2020-02-13,0,0,0
+Peru,2020-02-14,0,0,0
+Peru,2020-02-15,0,0,0
+Peru,2020-02-16,0,0,0
+Peru,2020-02-17,0,0,0
+Peru,2020-02-18,0,0,0
+Peru,2020-02-19,0,0,0
+Peru,2020-02-20,0,0,0
+Peru,2020-02-21,0,0,0
+Peru,2020-02-22,0,0,0
+Peru,2020-02-23,0,0,0
+Peru,2020-02-24,0,0,0
+Peru,2020-02-25,0,0,0
+Peru,2020-02-26,0,0,0
+Peru,2020-02-27,0,0,0
+Peru,2020-02-28,0,0,0
+Peru,2020-02-29,0,0,0
+Peru,2020-03-01,0,0,0
+Peru,2020-03-02,0,0,0
+Peru,2020-03-03,0,0,0
+Peru,2020-03-04,0,0,0
+Peru,2020-03-05,0,0,0
+Peru,2020-03-06,1,0,0
+Peru,2020-03-07,1,0,0
+Peru,2020-03-08,6,0,0
+Peru,2020-03-09,7,0,0
+Peru,2020-03-10,11,0,0
+Philippines,2020-01-22,0,0,0
+Philippines,2020-01-23,0,0,0
+Philippines,2020-01-24,0,0,0
+Philippines,2020-01-25,0,0,0
+Philippines,2020-01-26,0,0,0
+Philippines,2020-01-27,0,0,0
+Philippines,2020-01-28,0,0,0
+Philippines,2020-01-29,0,0,0
+Philippines,2020-01-30,1,0,0
+Philippines,2020-01-31,1,0,0
+Philippines,2020-02-01,1,0,0
+Philippines,2020-02-02,2,1,0
+Philippines,2020-02-03,2,1,0
+Philippines,2020-02-04,2,1,0
+Philippines,2020-02-05,2,1,0
+Philippines,2020-02-06,2,1,0
+Philippines,2020-02-07,3,1,0
+Philippines,2020-02-08,3,1,0
+Philippines,2020-02-09,3,1,0
+Philippines,2020-02-10,3,1,0
+Philippines,2020-02-11,3,1,0
+Philippines,2020-02-12,3,1,1
+Philippines,2020-02-13,3,1,1
+Philippines,2020-02-14,3,1,1
+Philippines,2020-02-15,3,1,1
+Philippines,2020-02-16,3,1,1
+Philippines,2020-02-17,3,1,1
+Philippines,2020-02-18,3,1,1
+Philippines,2020-02-19,3,1,1
+Philippines,2020-02-20,3,1,1
+Philippines,2020-02-21,3,1,1
+Philippines,2020-02-22,3,1,1
+Philippines,2020-02-23,3,1,1
+Philippines,2020-02-24,3,1,1
+Philippines,2020-02-25,3,1,1
+Philippines,2020-02-26,3,1,1
+Philippines,2020-02-27,3,1,1
+Philippines,2020-02-28,3,1,1
+Philippines,2020-02-29,3,1,1
+Philippines,2020-03-01,3,1,1
+Philippines,2020-03-02,3,1,1
+Philippines,2020-03-03,3,1,1
+Philippines,2020-03-04,3,1,1
+Philippines,2020-03-05,3,1,1
+Philippines,2020-03-06,5,1,1
+Philippines,2020-03-07,6,1,1
+Philippines,2020-03-08,10,1,1
+Philippines,2020-03-09,20,1,1
+Philippines,2020-03-10,33,1,2
+Poland,2020-01-22,0,0,0
+Poland,2020-01-23,0,0,0
+Poland,2020-01-24,0,0,0
+Poland,2020-01-25,0,0,0
+Poland,2020-01-26,0,0,0
+Poland,2020-01-27,0,0,0
+Poland,2020-01-28,0,0,0
+Poland,2020-01-29,0,0,0
+Poland,2020-01-30,0,0,0
+Poland,2020-01-31,0,0,0
+Poland,2020-02-01,0,0,0
+Poland,2020-02-02,0,0,0
+Poland,2020-02-03,0,0,0
+Poland,2020-02-04,0,0,0
+Poland,2020-02-05,0,0,0
+Poland,2020-02-06,0,0,0
+Poland,2020-02-07,0,0,0
+Poland,2020-02-08,0,0,0
+Poland,2020-02-09,0,0,0
+Poland,2020-02-10,0,0,0
+Poland,2020-02-11,0,0,0
+Poland,2020-02-12,0,0,0
+Poland,2020-02-13,0,0,0
+Poland,2020-02-14,0,0,0
+Poland,2020-02-15,0,0,0
+Poland,2020-02-16,0,0,0
+Poland,2020-02-17,0,0,0
+Poland,2020-02-18,0,0,0
+Poland,2020-02-19,0,0,0
+Poland,2020-02-20,0,0,0
+Poland,2020-02-21,0,0,0
+Poland,2020-02-22,0,0,0
+Poland,2020-02-23,0,0,0
+Poland,2020-02-24,0,0,0
+Poland,2020-02-25,0,0,0
+Poland,2020-02-26,0,0,0
+Poland,2020-02-27,0,0,0
+Poland,2020-02-28,0,0,0
+Poland,2020-02-29,0,0,0
+Poland,2020-03-01,0,0,0
+Poland,2020-03-02,0,0,0
+Poland,2020-03-03,0,0,0
+Poland,2020-03-04,1,0,0
+Poland,2020-03-05,1,0,0
+Poland,2020-03-06,5,0,0
+Poland,2020-03-07,5,0,0
+Poland,2020-03-08,11,0,0
+Poland,2020-03-09,16,0,0
+Poland,2020-03-10,22,0,0
+Portugal,2020-01-22,0,0,0
+Portugal,2020-01-23,0,0,0
+Portugal,2020-01-24,0,0,0
+Portugal,2020-01-25,0,0,0
+Portugal,2020-01-26,0,0,0
+Portugal,2020-01-27,0,0,0
+Portugal,2020-01-28,0,0,0
+Portugal,2020-01-29,0,0,0
+Portugal,2020-01-30,0,0,0
+Portugal,2020-01-31,0,0,0
+Portugal,2020-02-01,0,0,0
+Portugal,2020-02-02,0,0,0
+Portugal,2020-02-03,0,0,0
+Portugal,2020-02-04,0,0,0
+Portugal,2020-02-05,0,0,0
+Portugal,2020-02-06,0,0,0
+Portugal,2020-02-07,0,0,0
+Portugal,2020-02-08,0,0,0
+Portugal,2020-02-09,0,0,0
+Portugal,2020-02-10,0,0,0
+Portugal,2020-02-11,0,0,0
+Portugal,2020-02-12,0,0,0
+Portugal,2020-02-13,0,0,0
+Portugal,2020-02-14,0,0,0
+Portugal,2020-02-15,0,0,0
+Portugal,2020-02-16,0,0,0
+Portugal,2020-02-17,0,0,0
+Portugal,2020-02-18,0,0,0
+Portugal,2020-02-19,0,0,0
+Portugal,2020-02-20,0,0,0
+Portugal,2020-02-21,0,0,0
+Portugal,2020-02-22,0,0,0
+Portugal,2020-02-23,0,0,0
+Portugal,2020-02-24,0,0,0
+Portugal,2020-02-25,0,0,0
+Portugal,2020-02-26,0,0,0
+Portugal,2020-02-27,0,0,0
+Portugal,2020-02-28,0,0,0
+Portugal,2020-02-29,0,0,0
+Portugal,2020-03-01,0,0,0
+Portugal,2020-03-02,2,0,0
+Portugal,2020-03-03,2,0,0
+Portugal,2020-03-04,5,0,0
+Portugal,2020-03-05,8,0,0
+Portugal,2020-03-06,13,0,0
+Portugal,2020-03-07,20,0,0
+Portugal,2020-03-08,30,0,0
+Portugal,2020-03-09,30,0,0
+Portugal,2020-03-10,41,0,0
+Qatar,2020-01-22,0,0,0
+Qatar,2020-01-23,0,0,0
+Qatar,2020-01-24,0,0,0
+Qatar,2020-01-25,0,0,0
+Qatar,2020-01-26,0,0,0
+Qatar,2020-01-27,0,0,0
+Qatar,2020-01-28,0,0,0
+Qatar,2020-01-29,0,0,0
+Qatar,2020-01-30,0,0,0
+Qatar,2020-01-31,0,0,0
+Qatar,2020-02-01,0,0,0
+Qatar,2020-02-02,0,0,0
+Qatar,2020-02-03,0,0,0
+Qatar,2020-02-04,0,0,0
+Qatar,2020-02-05,0,0,0
+Qatar,2020-02-06,0,0,0
+Qatar,2020-02-07,0,0,0
+Qatar,2020-02-08,0,0,0
+Qatar,2020-02-09,0,0,0
+Qatar,2020-02-10,0,0,0
+Qatar,2020-02-11,0,0,0
+Qatar,2020-02-12,0,0,0
+Qatar,2020-02-13,0,0,0
+Qatar,2020-02-14,0,0,0
+Qatar,2020-02-15,0,0,0
+Qatar,2020-02-16,0,0,0
+Qatar,2020-02-17,0,0,0
+Qatar,2020-02-18,0,0,0
+Qatar,2020-02-19,0,0,0
+Qatar,2020-02-20,0,0,0
+Qatar,2020-02-21,0,0,0
+Qatar,2020-02-22,0,0,0
+Qatar,2020-02-23,0,0,0
+Qatar,2020-02-24,0,0,0
+Qatar,2020-02-25,0,0,0
+Qatar,2020-02-26,0,0,0
+Qatar,2020-02-27,0,0,0
+Qatar,2020-02-28,0,0,0
+Qatar,2020-02-29,1,0,0
+Qatar,2020-03-01,3,0,0
+Qatar,2020-03-02,3,0,0
+Qatar,2020-03-03,7,0,0
+Qatar,2020-03-04,8,0,0
+Qatar,2020-03-05,8,0,0
+Qatar,2020-03-06,8,0,0
+Qatar,2020-03-07,8,0,0
+Qatar,2020-03-08,15,0,0
+Qatar,2020-03-09,18,0,0
+Qatar,2020-03-10,24,0,0
+Republic of Korea,2020-01-22,1,0,0
+Republic of Korea,2020-01-23,1,0,0
+Republic of Korea,2020-01-24,2,0,0
+Republic of Korea,2020-01-25,2,0,0
+Republic of Korea,2020-01-26,3,0,0
+Republic of Korea,2020-01-27,4,0,0
+Republic of Korea,2020-01-28,4,0,0
+Republic of Korea,2020-01-29,4,0,0
+Republic of Korea,2020-01-30,4,0,0
+Republic of Korea,2020-01-31,11,0,0
+Republic of Korea,2020-02-01,12,0,0
+Republic of Korea,2020-02-02,15,0,0
+Republic of Korea,2020-02-03,15,0,0
+Republic of Korea,2020-02-04,16,0,0
+Republic of Korea,2020-02-05,19,0,0
+Republic of Korea,2020-02-06,23,0,0
+Republic of Korea,2020-02-07,24,0,1
+Republic of Korea,2020-02-08,24,0,1
+Republic of Korea,2020-02-09,25,0,3
+Republic of Korea,2020-02-10,27,0,3
+Republic of Korea,2020-02-11,28,0,3
+Republic of Korea,2020-02-12,28,0,7
+Republic of Korea,2020-02-13,28,0,7
+Republic of Korea,2020-02-14,28,0,7
+Republic of Korea,2020-02-15,28,0,9
+Republic of Korea,2020-02-16,29,0,9
+Republic of Korea,2020-02-17,30,0,10
+Republic of Korea,2020-02-18,31,0,12
+Republic of Korea,2020-02-19,31,0,12
+Republic of Korea,2020-02-20,104,1,16
+Republic of Korea,2020-02-21,204,2,16
+Republic of Korea,2020-02-22,433,2,16
+Republic of Korea,2020-02-23,602,6,18
+Republic of Korea,2020-02-24,833,8,18
+Republic of Korea,2020-02-25,977,10,22
+Republic of Korea,2020-02-26,1261,12,22
+Republic of Korea,2020-02-27,1766,13,22
+Republic of Korea,2020-02-28,2337,13,22
+Republic of Korea,2020-02-29,3150,16,27
+Republic of Korea,2020-03-01,3736,17,30
+Republic of Korea,2020-03-02,4335,28,30
+Republic of Korea,2020-03-03,5186,28,30
+Republic of Korea,2020-03-04,5621,35,41
+Republic of Korea,2020-03-05,6088,35,41
+Republic of Korea,2020-03-06,6593,42,135
+Republic of Korea,2020-03-07,7041,44,135
+Republic of Korea,2020-03-08,7314,50,118
+Republic of Korea,2020-03-09,7478,53,118
+Republic of Korea,2020-03-10,7513,54,247
+Republic of Moldova,2020-01-22,0,0,0
+Republic of Moldova,2020-01-23,0,0,0
+Republic of Moldova,2020-01-24,0,0,0
+Republic of Moldova,2020-01-25,0,0,0
+Republic of Moldova,2020-01-26,0,0,0
+Republic of Moldova,2020-01-27,0,0,0
+Republic of Moldova,2020-01-28,0,0,0
+Republic of Moldova,2020-01-29,0,0,0
+Republic of Moldova,2020-01-30,0,0,0
+Republic of Moldova,2020-01-31,0,0,0
+Republic of Moldova,2020-02-01,0,0,0
+Republic of Moldova,2020-02-02,0,0,0
+Republic of Moldova,2020-02-03,0,0,0
+Republic of Moldova,2020-02-04,0,0,0
+Republic of Moldova,2020-02-05,0,0,0
+Republic of Moldova,2020-02-06,0,0,0
+Republic of Moldova,2020-02-07,0,0,0
+Republic of Moldova,2020-02-08,0,0,0
+Republic of Moldova,2020-02-09,0,0,0
+Republic of Moldova,2020-02-10,0,0,0
+Republic of Moldova,2020-02-11,0,0,0
+Republic of Moldova,2020-02-12,0,0,0
+Republic of Moldova,2020-02-13,0,0,0
+Republic of Moldova,2020-02-14,0,0,0
+Republic of Moldova,2020-02-15,0,0,0
+Republic of Moldova,2020-02-16,0,0,0
+Republic of Moldova,2020-02-17,0,0,0
+Republic of Moldova,2020-02-18,0,0,0
+Republic of Moldova,2020-02-19,0,0,0
+Republic of Moldova,2020-02-20,0,0,0
+Republic of Moldova,2020-02-21,0,0,0
+Republic of Moldova,2020-02-22,0,0,0
+Republic of Moldova,2020-02-23,0,0,0
+Republic of Moldova,2020-02-24,0,0,0
+Republic of Moldova,2020-02-25,0,0,0
+Republic of Moldova,2020-02-26,0,0,0
+Republic of Moldova,2020-02-27,0,0,0
+Republic of Moldova,2020-02-28,0,0,0
+Republic of Moldova,2020-02-29,0,0,0
+Republic of Moldova,2020-03-01,0,0,0
+Republic of Moldova,2020-03-02,0,0,0
+Republic of Moldova,2020-03-03,0,0,0
+Republic of Moldova,2020-03-04,0,0,0
+Republic of Moldova,2020-03-05,0,0,0
+Republic of Moldova,2020-03-06,0,0,0
+Republic of Moldova,2020-03-07,0,0,0
+Republic of Moldova,2020-03-08,1,0,0
+Republic of Moldova,2020-03-09,1,0,0
+Republic of Moldova,2020-03-10,3,0,0
+Romania,2020-01-22,0,0,0
+Romania,2020-01-23,0,0,0
+Romania,2020-01-24,0,0,0
+Romania,2020-01-25,0,0,0
+Romania,2020-01-26,0,0,0
+Romania,2020-01-27,0,0,0
+Romania,2020-01-28,0,0,0
+Romania,2020-01-29,0,0,0
+Romania,2020-01-30,0,0,0
+Romania,2020-01-31,0,0,0
+Romania,2020-02-01,0,0,0
+Romania,2020-02-02,0,0,0
+Romania,2020-02-03,0,0,0
+Romania,2020-02-04,0,0,0
+Romania,2020-02-05,0,0,0
+Romania,2020-02-06,0,0,0
+Romania,2020-02-07,0,0,0
+Romania,2020-02-08,0,0,0
+Romania,2020-02-09,0,0,0
+Romania,2020-02-10,0,0,0
+Romania,2020-02-11,0,0,0
+Romania,2020-02-12,0,0,0
+Romania,2020-02-13,0,0,0
+Romania,2020-02-14,0,0,0
+Romania,2020-02-15,0,0,0
+Romania,2020-02-16,0,0,0
+Romania,2020-02-17,0,0,0
+Romania,2020-02-18,0,0,0
+Romania,2020-02-19,0,0,0
+Romania,2020-02-20,0,0,0
+Romania,2020-02-21,0,0,0
+Romania,2020-02-22,0,0,0
+Romania,2020-02-23,0,0,0
+Romania,2020-02-24,0,0,0
+Romania,2020-02-25,0,0,0
+Romania,2020-02-26,1,0,0
+Romania,2020-02-27,1,0,0
+Romania,2020-02-28,3,0,0
+Romania,2020-02-29,3,0,0
+Romania,2020-03-01,3,0,0
+Romania,2020-03-02,3,0,0
+Romania,2020-03-03,3,0,0
+Romania,2020-03-04,4,0,1
+Romania,2020-03-05,6,0,1
+Romania,2020-03-06,9,0,1
+Romania,2020-03-07,9,0,3
+Romania,2020-03-08,15,0,3
+Romania,2020-03-09,15,0,3
+Romania,2020-03-10,25,0,3
+Russian Federation,2020-01-22,0,0,0
+Russian Federation,2020-01-23,0,0,0
+Russian Federation,2020-01-24,0,0,0
+Russian Federation,2020-01-25,0,0,0
+Russian Federation,2020-01-26,0,0,0
+Russian Federation,2020-01-27,0,0,0
+Russian Federation,2020-01-28,0,0,0
+Russian Federation,2020-01-29,0,0,0
+Russian Federation,2020-01-30,0,0,0
+Russian Federation,2020-01-31,2,0,0
+Russian Federation,2020-02-01,2,0,0
+Russian Federation,2020-02-02,2,0,0
+Russian Federation,2020-02-03,2,0,0
+Russian Federation,2020-02-04,2,0,0
+Russian Federation,2020-02-05,2,0,0
+Russian Federation,2020-02-06,2,0,0
+Russian Federation,2020-02-07,2,0,0
+Russian Federation,2020-02-08,2,0,0
+Russian Federation,2020-02-09,2,0,0
+Russian Federation,2020-02-10,2,0,0
+Russian Federation,2020-02-11,2,0,0
+Russian Federation,2020-02-12,2,0,2
+Russian Federation,2020-02-13,2,0,2
+Russian Federation,2020-02-14,2,0,2
+Russian Federation,2020-02-15,2,0,2
+Russian Federation,2020-02-16,2,0,2
+Russian Federation,2020-02-17,2,0,2
+Russian Federation,2020-02-18,2,0,2
+Russian Federation,2020-02-19,2,0,2
+Russian Federation,2020-02-20,2,0,2
+Russian Federation,2020-02-21,2,0,2
+Russian Federation,2020-02-22,2,0,2
+Russian Federation,2020-02-23,2,0,2
+Russian Federation,2020-02-24,2,0,2
+Russian Federation,2020-02-25,2,0,2
+Russian Federation,2020-02-26,2,0,2
+Russian Federation,2020-02-27,2,0,2
+Russian Federation,2020-02-28,2,0,2
+Russian Federation,2020-02-29,2,0,2
+Russian Federation,2020-03-01,2,0,2
+Russian Federation,2020-03-02,3,0,2
+Russian Federation,2020-03-03,3,0,2
+Russian Federation,2020-03-04,3,0,2
+Russian Federation,2020-03-05,4,0,2
+Russian Federation,2020-03-06,13,0,2
+Russian Federation,2020-03-07,13,0,2
+Russian Federation,2020-03-08,17,0,3
+Russian Federation,2020-03-09,17,0,3
+Russian Federation,2020-03-10,20,0,3
+Saint Barthelemy,2020-01-22,0,0,0
+Saint Barthelemy,2020-01-23,0,0,0
+Saint Barthelemy,2020-01-24,0,0,0
+Saint Barthelemy,2020-01-25,0,0,0
+Saint Barthelemy,2020-01-26,0,0,0
+Saint Barthelemy,2020-01-27,0,0,0
+Saint Barthelemy,2020-01-28,0,0,0
+Saint Barthelemy,2020-01-29,0,0,0
+Saint Barthelemy,2020-01-30,0,0,0
+Saint Barthelemy,2020-01-31,0,0,0
+Saint Barthelemy,2020-02-01,0,0,0
+Saint Barthelemy,2020-02-02,0,0,0
+Saint Barthelemy,2020-02-03,0,0,0
+Saint Barthelemy,2020-02-04,0,0,0
+Saint Barthelemy,2020-02-05,0,0,0
+Saint Barthelemy,2020-02-06,0,0,0
+Saint Barthelemy,2020-02-07,0,0,0
+Saint Barthelemy,2020-02-08,0,0,0
+Saint Barthelemy,2020-02-09,0,0,0
+Saint Barthelemy,2020-02-10,0,0,0
+Saint Barthelemy,2020-02-11,0,0,0
+Saint Barthelemy,2020-02-12,0,0,0
+Saint Barthelemy,2020-02-13,0,0,0
+Saint Barthelemy,2020-02-14,0,0,0
+Saint Barthelemy,2020-02-15,0,0,0
+Saint Barthelemy,2020-02-16,0,0,0
+Saint Barthelemy,2020-02-17,0,0,0
+Saint Barthelemy,2020-02-18,0,0,0
+Saint Barthelemy,2020-02-19,0,0,0
+Saint Barthelemy,2020-02-20,0,0,0
+Saint Barthelemy,2020-02-21,0,0,0
+Saint Barthelemy,2020-02-22,0,0,0
+Saint Barthelemy,2020-02-23,0,0,0
+Saint Barthelemy,2020-02-24,0,0,0
+Saint Barthelemy,2020-02-25,0,0,0
+Saint Barthelemy,2020-02-26,0,0,0
+Saint Barthelemy,2020-02-27,0,0,0
+Saint Barthelemy,2020-02-28,0,0,0
+Saint Barthelemy,2020-02-29,0,0,0
+Saint Barthelemy,2020-03-01,0,0,0
+Saint Barthelemy,2020-03-02,0,0,0
+Saint Barthelemy,2020-03-03,0,0,0
+Saint Barthelemy,2020-03-04,3,0,0
+Saint Barthelemy,2020-03-05,3,0,0
+Saint Barthelemy,2020-03-06,3,0,0
+Saint Barthelemy,2020-03-07,3,0,0
+Saint Barthelemy,2020-03-08,3,0,0
+Saint Barthelemy,2020-03-09,1,0,0
+Saint Barthelemy,2020-03-10,1,0,0
+Saint Martin,2020-01-22,0,0,0
+Saint Martin,2020-01-23,0,0,0
+Saint Martin,2020-01-24,0,0,0
+Saint Martin,2020-01-25,0,0,0
+Saint Martin,2020-01-26,0,0,0
+Saint Martin,2020-01-27,0,0,0
+Saint Martin,2020-01-28,0,0,0
+Saint Martin,2020-01-29,0,0,0
+Saint Martin,2020-01-30,0,0,0
+Saint Martin,2020-01-31,0,0,0
+Saint Martin,2020-02-01,0,0,0
+Saint Martin,2020-02-02,0,0,0
+Saint Martin,2020-02-03,0,0,0
+Saint Martin,2020-02-04,0,0,0
+Saint Martin,2020-02-05,0,0,0
+Saint Martin,2020-02-06,0,0,0
+Saint Martin,2020-02-07,0,0,0
+Saint Martin,2020-02-08,0,0,0
+Saint Martin,2020-02-09,0,0,0
+Saint Martin,2020-02-10,0,0,0
+Saint Martin,2020-02-11,0,0,0
+Saint Martin,2020-02-12,0,0,0
+Saint Martin,2020-02-13,0,0,0
+Saint Martin,2020-02-14,0,0,0
+Saint Martin,2020-02-15,0,0,0
+Saint Martin,2020-02-16,0,0,0
+Saint Martin,2020-02-17,0,0,0
+Saint Martin,2020-02-18,0,0,0
+Saint Martin,2020-02-19,0,0,0
+Saint Martin,2020-02-20,0,0,0
+Saint Martin,2020-02-21,0,0,0
+Saint Martin,2020-02-22,0,0,0
+Saint Martin,2020-02-23,0,0,0
+Saint Martin,2020-02-24,0,0,0
+Saint Martin,2020-02-25,0,0,0
+Saint Martin,2020-02-26,0,0,0
+Saint Martin,2020-02-27,0,0,0
+Saint Martin,2020-02-28,0,0,0
+Saint Martin,2020-02-29,0,0,0
+Saint Martin,2020-03-01,0,0,0
+Saint Martin,2020-03-02,0,0,0
+Saint Martin,2020-03-03,0,0,0
+Saint Martin,2020-03-04,0,0,0
+Saint Martin,2020-03-05,0,0,0
+Saint Martin,2020-03-06,0,0,0
+Saint Martin,2020-03-07,0,0,0
+Saint Martin,2020-03-08,0,0,0
+Saint Martin,2020-03-09,2,0,0
+Saint Martin,2020-03-10,2,0,0
+San Marino,2020-01-22,0,0,0
+San Marino,2020-01-23,0,0,0
+San Marino,2020-01-24,0,0,0
+San Marino,2020-01-25,0,0,0
+San Marino,2020-01-26,0,0,0
+San Marino,2020-01-27,0,0,0
+San Marino,2020-01-28,0,0,0
+San Marino,2020-01-29,0,0,0
+San Marino,2020-01-30,0,0,0
+San Marino,2020-01-31,0,0,0
+San Marino,2020-02-01,0,0,0
+San Marino,2020-02-02,0,0,0
+San Marino,2020-02-03,0,0,0
+San Marino,2020-02-04,0,0,0
+San Marino,2020-02-05,0,0,0
+San Marino,2020-02-06,0,0,0
+San Marino,2020-02-07,0,0,0
+San Marino,2020-02-08,0,0,0
+San Marino,2020-02-09,0,0,0
+San Marino,2020-02-10,0,0,0
+San Marino,2020-02-11,0,0,0
+San Marino,2020-02-12,0,0,0
+San Marino,2020-02-13,0,0,0
+San Marino,2020-02-14,0,0,0
+San Marino,2020-02-15,0,0,0
+San Marino,2020-02-16,0,0,0
+San Marino,2020-02-17,0,0,0
+San Marino,2020-02-18,0,0,0
+San Marino,2020-02-19,0,0,0
+San Marino,2020-02-20,0,0,0
+San Marino,2020-02-21,0,0,0
+San Marino,2020-02-22,0,0,0
+San Marino,2020-02-23,0,0,0
+San Marino,2020-02-24,0,0,0
+San Marino,2020-02-25,0,0,0
+San Marino,2020-02-26,0,0,0
+San Marino,2020-02-27,1,0,0
+San Marino,2020-02-28,1,0,0
+San Marino,2020-02-29,1,0,0
+San Marino,2020-03-01,1,0,0
+San Marino,2020-03-02,8,0,0
+San Marino,2020-03-03,10,1,0
+San Marino,2020-03-04,16,1,0
+San Marino,2020-03-05,21,1,0
+San Marino,2020-03-06,21,1,0
+San Marino,2020-03-07,23,1,0
+San Marino,2020-03-08,36,1,0
+San Marino,2020-03-09,36,1,0
+San Marino,2020-03-10,51,2,0
+Saudi Arabia,2020-01-22,0,0,0
+Saudi Arabia,2020-01-23,0,0,0
+Saudi Arabia,2020-01-24,0,0,0
+Saudi Arabia,2020-01-25,0,0,0
+Saudi Arabia,2020-01-26,0,0,0
+Saudi Arabia,2020-01-27,0,0,0
+Saudi Arabia,2020-01-28,0,0,0
+Saudi Arabia,2020-01-29,0,0,0
+Saudi Arabia,2020-01-30,0,0,0
+Saudi Arabia,2020-01-31,0,0,0
+Saudi Arabia,2020-02-01,0,0,0
+Saudi Arabia,2020-02-02,0,0,0
+Saudi Arabia,2020-02-03,0,0,0
+Saudi Arabia,2020-02-04,0,0,0
+Saudi Arabia,2020-02-05,0,0,0
+Saudi Arabia,2020-02-06,0,0,0
+Saudi Arabia,2020-02-07,0,0,0
+Saudi Arabia,2020-02-08,0,0,0
+Saudi Arabia,2020-02-09,0,0,0
+Saudi Arabia,2020-02-10,0,0,0
+Saudi Arabia,2020-02-11,0,0,0
+Saudi Arabia,2020-02-12,0,0,0
+Saudi Arabia,2020-02-13,0,0,0
+Saudi Arabia,2020-02-14,0,0,0
+Saudi Arabia,2020-02-15,0,0,0
+Saudi Arabia,2020-02-16,0,0,0
+Saudi Arabia,2020-02-17,0,0,0
+Saudi Arabia,2020-02-18,0,0,0
+Saudi Arabia,2020-02-19,0,0,0
+Saudi Arabia,2020-02-20,0,0,0
+Saudi Arabia,2020-02-21,0,0,0
+Saudi Arabia,2020-02-22,0,0,0
+Saudi Arabia,2020-02-23,0,0,0
+Saudi Arabia,2020-02-24,0,0,0
+Saudi Arabia,2020-02-25,0,0,0
+Saudi Arabia,2020-02-26,0,0,0
+Saudi Arabia,2020-02-27,0,0,0
+Saudi Arabia,2020-02-28,0,0,0
+Saudi Arabia,2020-02-29,0,0,0
+Saudi Arabia,2020-03-01,0,0,0
+Saudi Arabia,2020-03-02,1,0,0
+Saudi Arabia,2020-03-03,1,0,0
+Saudi Arabia,2020-03-04,1,0,0
+Saudi Arabia,2020-03-05,5,0,0
+Saudi Arabia,2020-03-06,5,0,0
+Saudi Arabia,2020-03-07,5,0,0
+Saudi Arabia,2020-03-08,11,0,0
+Saudi Arabia,2020-03-09,15,0,0
+Saudi Arabia,2020-03-10,20,0,1
+Senegal,2020-01-22,0,0,0
+Senegal,2020-01-23,0,0,0
+Senegal,2020-01-24,0,0,0
+Senegal,2020-01-25,0,0,0
+Senegal,2020-01-26,0,0,0
+Senegal,2020-01-27,0,0,0
+Senegal,2020-01-28,0,0,0
+Senegal,2020-01-29,0,0,0
+Senegal,2020-01-30,0,0,0
+Senegal,2020-01-31,0,0,0
+Senegal,2020-02-01,0,0,0
+Senegal,2020-02-02,0,0,0
+Senegal,2020-02-03,0,0,0
+Senegal,2020-02-04,0,0,0
+Senegal,2020-02-05,0,0,0
+Senegal,2020-02-06,0,0,0
+Senegal,2020-02-07,0,0,0
+Senegal,2020-02-08,0,0,0
+Senegal,2020-02-09,0,0,0
+Senegal,2020-02-10,0,0,0
+Senegal,2020-02-11,0,0,0
+Senegal,2020-02-12,0,0,0
+Senegal,2020-02-13,0,0,0
+Senegal,2020-02-14,0,0,0
+Senegal,2020-02-15,0,0,0
+Senegal,2020-02-16,0,0,0
+Senegal,2020-02-17,0,0,0
+Senegal,2020-02-18,0,0,0
+Senegal,2020-02-19,0,0,0
+Senegal,2020-02-20,0,0,0
+Senegal,2020-02-21,0,0,0
+Senegal,2020-02-22,0,0,0
+Senegal,2020-02-23,0,0,0
+Senegal,2020-02-24,0,0,0
+Senegal,2020-02-25,0,0,0
+Senegal,2020-02-26,0,0,0
+Senegal,2020-02-27,0,0,0
+Senegal,2020-02-28,0,0,0
+Senegal,2020-02-29,0,0,0
+Senegal,2020-03-01,0,0,0
+Senegal,2020-03-02,1,0,0
+Senegal,2020-03-03,2,0,0
+Senegal,2020-03-04,4,0,0
+Senegal,2020-03-05,4,0,0
+Senegal,2020-03-06,4,0,0
+Senegal,2020-03-07,4,0,0
+Senegal,2020-03-08,4,0,1
+Senegal,2020-03-09,4,0,1
+Senegal,2020-03-10,4,0,1
+Serbia,2020-01-22,0,0,0
+Serbia,2020-01-23,0,0,0
+Serbia,2020-01-24,0,0,0
+Serbia,2020-01-25,0,0,0
+Serbia,2020-01-26,0,0,0
+Serbia,2020-01-27,0,0,0
+Serbia,2020-01-28,0,0,0
+Serbia,2020-01-29,0,0,0
+Serbia,2020-01-30,0,0,0
+Serbia,2020-01-31,0,0,0
+Serbia,2020-02-01,0,0,0
+Serbia,2020-02-02,0,0,0
+Serbia,2020-02-03,0,0,0
+Serbia,2020-02-04,0,0,0
+Serbia,2020-02-05,0,0,0
+Serbia,2020-02-06,0,0,0
+Serbia,2020-02-07,0,0,0
+Serbia,2020-02-08,0,0,0
+Serbia,2020-02-09,0,0,0
+Serbia,2020-02-10,0,0,0
+Serbia,2020-02-11,0,0,0
+Serbia,2020-02-12,0,0,0
+Serbia,2020-02-13,0,0,0
+Serbia,2020-02-14,0,0,0
+Serbia,2020-02-15,0,0,0
+Serbia,2020-02-16,0,0,0
+Serbia,2020-02-17,0,0,0
+Serbia,2020-02-18,0,0,0
+Serbia,2020-02-19,0,0,0
+Serbia,2020-02-20,0,0,0
+Serbia,2020-02-21,0,0,0
+Serbia,2020-02-22,0,0,0
+Serbia,2020-02-23,0,0,0
+Serbia,2020-02-24,0,0,0
+Serbia,2020-02-25,0,0,0
+Serbia,2020-02-26,0,0,0
+Serbia,2020-02-27,0,0,0
+Serbia,2020-02-28,0,0,0
+Serbia,2020-02-29,0,0,0
+Serbia,2020-03-01,0,0,0
+Serbia,2020-03-02,0,0,0
+Serbia,2020-03-03,0,0,0
+Serbia,2020-03-04,0,0,0
+Serbia,2020-03-05,0,0,0
+Serbia,2020-03-06,1,0,0
+Serbia,2020-03-07,1,0,0
+Serbia,2020-03-08,1,0,0
+Serbia,2020-03-09,1,0,0
+Serbia,2020-03-10,5,0,0
+Singapore,2020-01-22,0,0,0
+Singapore,2020-01-23,1,0,0
+Singapore,2020-01-24,3,0,0
+Singapore,2020-01-25,3,0,0
+Singapore,2020-01-26,4,0,0
+Singapore,2020-01-27,5,0,0
+Singapore,2020-01-28,7,0,0
+Singapore,2020-01-29,7,0,0
+Singapore,2020-01-30,10,0,0
+Singapore,2020-01-31,13,0,0
+Singapore,2020-02-01,16,0,0
+Singapore,2020-02-02,18,0,0
+Singapore,2020-02-03,18,0,0
+Singapore,2020-02-04,24,0,0
+Singapore,2020-02-05,28,0,0
+Singapore,2020-02-06,28,0,0
+Singapore,2020-02-07,30,0,0
+Singapore,2020-02-08,33,0,2
+Singapore,2020-02-09,40,0,2
+Singapore,2020-02-10,45,0,2
+Singapore,2020-02-11,47,0,9
+Singapore,2020-02-12,50,0,15
+Singapore,2020-02-13,58,0,15
+Singapore,2020-02-14,67,0,17
+Singapore,2020-02-15,72,0,18
+Singapore,2020-02-16,75,0,18
+Singapore,2020-02-17,77,0,24
+Singapore,2020-02-18,81,0,29
+Singapore,2020-02-19,84,0,34
+Singapore,2020-02-20,84,0,34
+Singapore,2020-02-21,85,0,37
+Singapore,2020-02-22,85,0,37
+Singapore,2020-02-23,89,0,51
+Singapore,2020-02-24,89,0,51
+Singapore,2020-02-25,91,0,53
+Singapore,2020-02-26,93,0,62
+Singapore,2020-02-27,93,0,62
+Singapore,2020-02-28,93,0,62
+Singapore,2020-02-29,102,0,72
+Singapore,2020-03-01,106,0,72
+Singapore,2020-03-02,108,0,78
+Singapore,2020-03-03,110,0,78
+Singapore,2020-03-04,110,0,78
+Singapore,2020-03-05,117,0,78
+Singapore,2020-03-06,130,0,78
+Singapore,2020-03-07,138,0,78
+Singapore,2020-03-08,150,0,78
+Singapore,2020-03-09,150,0,78
+Singapore,2020-03-10,160,0,78
+Slovakia,2020-01-22,0,0,0
+Slovakia,2020-01-23,0,0,0
+Slovakia,2020-01-24,0,0,0
+Slovakia,2020-01-25,0,0,0
+Slovakia,2020-01-26,0,0,0
+Slovakia,2020-01-27,0,0,0
+Slovakia,2020-01-28,0,0,0
+Slovakia,2020-01-29,0,0,0
+Slovakia,2020-01-30,0,0,0
+Slovakia,2020-01-31,0,0,0
+Slovakia,2020-02-01,0,0,0
+Slovakia,2020-02-02,0,0,0
+Slovakia,2020-02-03,0,0,0
+Slovakia,2020-02-04,0,0,0
+Slovakia,2020-02-05,0,0,0
+Slovakia,2020-02-06,0,0,0
+Slovakia,2020-02-07,0,0,0
+Slovakia,2020-02-08,0,0,0
+Slovakia,2020-02-09,0,0,0
+Slovakia,2020-02-10,0,0,0
+Slovakia,2020-02-11,0,0,0
+Slovakia,2020-02-12,0,0,0
+Slovakia,2020-02-13,0,0,0
+Slovakia,2020-02-14,0,0,0
+Slovakia,2020-02-15,0,0,0
+Slovakia,2020-02-16,0,0,0
+Slovakia,2020-02-17,0,0,0
+Slovakia,2020-02-18,0,0,0
+Slovakia,2020-02-19,0,0,0
+Slovakia,2020-02-20,0,0,0
+Slovakia,2020-02-21,0,0,0
+Slovakia,2020-02-22,0,0,0
+Slovakia,2020-02-23,0,0,0
+Slovakia,2020-02-24,0,0,0
+Slovakia,2020-02-25,0,0,0
+Slovakia,2020-02-26,0,0,0
+Slovakia,2020-02-27,0,0,0
+Slovakia,2020-02-28,0,0,0
+Slovakia,2020-02-29,0,0,0
+Slovakia,2020-03-01,0,0,0
+Slovakia,2020-03-02,0,0,0
+Slovakia,2020-03-03,0,0,0
+Slovakia,2020-03-04,0,0,0
+Slovakia,2020-03-05,0,0,0
+Slovakia,2020-03-06,1,0,0
+Slovakia,2020-03-07,1,0,0
+Slovakia,2020-03-08,3,0,0
+Slovakia,2020-03-09,3,0,0
+Slovakia,2020-03-10,7,0,0
+Slovenia,2020-01-22,0,0,0
+Slovenia,2020-01-23,0,0,0
+Slovenia,2020-01-24,0,0,0
+Slovenia,2020-01-25,0,0,0
+Slovenia,2020-01-26,0,0,0
+Slovenia,2020-01-27,0,0,0
+Slovenia,2020-01-28,0,0,0
+Slovenia,2020-01-29,0,0,0
+Slovenia,2020-01-30,0,0,0
+Slovenia,2020-01-31,0,0,0
+Slovenia,2020-02-01,0,0,0
+Slovenia,2020-02-02,0,0,0
+Slovenia,2020-02-03,0,0,0
+Slovenia,2020-02-04,0,0,0
+Slovenia,2020-02-05,0,0,0
+Slovenia,2020-02-06,0,0,0
+Slovenia,2020-02-07,0,0,0
+Slovenia,2020-02-08,0,0,0
+Slovenia,2020-02-09,0,0,0
+Slovenia,2020-02-10,0,0,0
+Slovenia,2020-02-11,0,0,0
+Slovenia,2020-02-12,0,0,0
+Slovenia,2020-02-13,0,0,0
+Slovenia,2020-02-14,0,0,0
+Slovenia,2020-02-15,0,0,0
+Slovenia,2020-02-16,0,0,0
+Slovenia,2020-02-17,0,0,0
+Slovenia,2020-02-18,0,0,0
+Slovenia,2020-02-19,0,0,0
+Slovenia,2020-02-20,0,0,0
+Slovenia,2020-02-21,0,0,0
+Slovenia,2020-02-22,0,0,0
+Slovenia,2020-02-23,0,0,0
+Slovenia,2020-02-24,0,0,0
+Slovenia,2020-02-25,0,0,0
+Slovenia,2020-02-26,0,0,0
+Slovenia,2020-02-27,0,0,0
+Slovenia,2020-02-28,0,0,0
+Slovenia,2020-02-29,0,0,0
+Slovenia,2020-03-01,0,0,0
+Slovenia,2020-03-02,0,0,0
+Slovenia,2020-03-03,0,0,0
+Slovenia,2020-03-04,0,0,0
+Slovenia,2020-03-05,2,0,0
+Slovenia,2020-03-06,7,0,0
+Slovenia,2020-03-07,7,0,0
+Slovenia,2020-03-08,16,0,0
+Slovenia,2020-03-09,16,0,0
+Slovenia,2020-03-10,31,0,0
+South Africa,2020-01-22,0,0,0
+South Africa,2020-01-23,0,0,0
+South Africa,2020-01-24,0,0,0
+South Africa,2020-01-25,0,0,0
+South Africa,2020-01-26,0,0,0
+South Africa,2020-01-27,0,0,0
+South Africa,2020-01-28,0,0,0
+South Africa,2020-01-29,0,0,0
+South Africa,2020-01-30,0,0,0
+South Africa,2020-01-31,0,0,0
+South Africa,2020-02-01,0,0,0
+South Africa,2020-02-02,0,0,0
+South Africa,2020-02-03,0,0,0
+South Africa,2020-02-04,0,0,0
+South Africa,2020-02-05,0,0,0
+South Africa,2020-02-06,0,0,0
+South Africa,2020-02-07,0,0,0
+South Africa,2020-02-08,0,0,0
+South Africa,2020-02-09,0,0,0
+South Africa,2020-02-10,0,0,0
+South Africa,2020-02-11,0,0,0
+South Africa,2020-02-12,0,0,0
+South Africa,2020-02-13,0,0,0
+South Africa,2020-02-14,0,0,0
+South Africa,2020-02-15,0,0,0
+South Africa,2020-02-16,0,0,0
+South Africa,2020-02-17,0,0,0
+South Africa,2020-02-18,0,0,0
+South Africa,2020-02-19,0,0,0
+South Africa,2020-02-20,0,0,0
+South Africa,2020-02-21,0,0,0
+South Africa,2020-02-22,0,0,0
+South Africa,2020-02-23,0,0,0
+South Africa,2020-02-24,0,0,0
+South Africa,2020-02-25,0,0,0
+South Africa,2020-02-26,0,0,0
+South Africa,2020-02-27,0,0,0
+South Africa,2020-02-28,0,0,0
+South Africa,2020-02-29,0,0,0
+South Africa,2020-03-01,0,0,0
+South Africa,2020-03-02,0,0,0
+South Africa,2020-03-03,0,0,0
+South Africa,2020-03-04,0,0,0
+South Africa,2020-03-05,1,0,0
+South Africa,2020-03-06,1,0,0
+South Africa,2020-03-07,1,0,0
+South Africa,2020-03-08,3,0,0
+South Africa,2020-03-09,3,0,0
+South Africa,2020-03-10,7,0,0
+Spain,2020-01-22,0,0,0
+Spain,2020-01-23,0,0,0
+Spain,2020-01-24,0,0,0
+Spain,2020-01-25,0,0,0
+Spain,2020-01-26,0,0,0
+Spain,2020-01-27,0,0,0
+Spain,2020-01-28,0,0,0
+Spain,2020-01-29,0,0,0
+Spain,2020-01-30,0,0,0
+Spain,2020-01-31,0,0,0
+Spain,2020-02-01,1,0,0
+Spain,2020-02-02,1,0,0
+Spain,2020-02-03,1,0,0
+Spain,2020-02-04,1,0,0
+Spain,2020-02-05,1,0,0
+Spain,2020-02-06,1,0,0
+Spain,2020-02-07,1,0,0
+Spain,2020-02-08,1,0,0
+Spain,2020-02-09,2,0,0
+Spain,2020-02-10,2,0,0
+Spain,2020-02-11,2,0,0
+Spain,2020-02-12,2,0,0
+Spain,2020-02-13,2,0,0
+Spain,2020-02-14,2,0,0
+Spain,2020-02-15,2,0,2
+Spain,2020-02-16,2,0,2
+Spain,2020-02-17,2,0,2
+Spain,2020-02-18,2,0,2
+Spain,2020-02-19,2,0,2
+Spain,2020-02-20,2,0,2
+Spain,2020-02-21,2,0,2
+Spain,2020-02-22,2,0,2
+Spain,2020-02-23,2,0,2
+Spain,2020-02-24,2,0,2
+Spain,2020-02-25,6,0,2
+Spain,2020-02-26,13,0,2
+Spain,2020-02-27,15,0,2
+Spain,2020-02-28,32,0,2
+Spain,2020-02-29,45,0,2
+Spain,2020-03-01,84,0,2
+Spain,2020-03-02,120,0,2
+Spain,2020-03-03,165,1,2
+Spain,2020-03-04,222,2,2
+Spain,2020-03-05,259,3,2
+Spain,2020-03-06,400,5,2
+Spain,2020-03-07,500,10,30
+Spain,2020-03-08,673,17,30
+Spain,2020-03-09,1073,28,32
+Spain,2020-03-10,1695,35,32
+Sri Lanka,2020-01-22,0,0,0
+Sri Lanka,2020-01-23,0,0,0
+Sri Lanka,2020-01-24,0,0,0
+Sri Lanka,2020-01-25,0,0,0
+Sri Lanka,2020-01-26,0,0,0
+Sri Lanka,2020-01-27,1,0,0
+Sri Lanka,2020-01-28,1,0,0
+Sri Lanka,2020-01-29,1,0,0
+Sri Lanka,2020-01-30,1,0,0
+Sri Lanka,2020-01-31,1,0,0
+Sri Lanka,2020-02-01,1,0,0
+Sri Lanka,2020-02-02,1,0,0
+Sri Lanka,2020-02-03,1,0,0
+Sri Lanka,2020-02-04,1,0,0
+Sri Lanka,2020-02-05,1,0,0
+Sri Lanka,2020-02-06,1,0,0
+Sri Lanka,2020-02-07,1,0,0
+Sri Lanka,2020-02-08,1,0,1
+Sri Lanka,2020-02-09,1,0,1
+Sri Lanka,2020-02-10,1,0,1
+Sri Lanka,2020-02-11,1,0,1
+Sri Lanka,2020-02-12,1,0,1
+Sri Lanka,2020-02-13,1,0,1
+Sri Lanka,2020-02-14,1,0,1
+Sri Lanka,2020-02-15,1,0,1
+Sri Lanka,2020-02-16,1,0,1
+Sri Lanka,2020-02-17,1,0,1
+Sri Lanka,2020-02-18,1,0,1
+Sri Lanka,2020-02-19,1,0,1
+Sri Lanka,2020-02-20,1,0,1
+Sri Lanka,2020-02-21,1,0,1
+Sri Lanka,2020-02-22,1,0,1
+Sri Lanka,2020-02-23,1,0,1
+Sri Lanka,2020-02-24,1,0,1
+Sri Lanka,2020-02-25,1,0,1
+Sri Lanka,2020-02-26,1,0,1
+Sri Lanka,2020-02-27,1,0,1
+Sri Lanka,2020-02-28,1,0,1
+Sri Lanka,2020-02-29,1,0,1
+Sri Lanka,2020-03-01,1,0,1
+Sri Lanka,2020-03-02,1,0,1
+Sri Lanka,2020-03-03,1,0,1
+Sri Lanka,2020-03-04,1,0,1
+Sri Lanka,2020-03-05,1,0,1
+Sri Lanka,2020-03-06,1,0,1
+Sri Lanka,2020-03-07,1,0,1
+Sri Lanka,2020-03-08,1,0,1
+Sri Lanka,2020-03-09,1,0,1
+Sri Lanka,2020-03-10,1,0,1
+Sweden,2020-01-22,0,0,0
+Sweden,2020-01-23,0,0,0
+Sweden,2020-01-24,0,0,0
+Sweden,2020-01-25,0,0,0
+Sweden,2020-01-26,0,0,0
+Sweden,2020-01-27,0,0,0
+Sweden,2020-01-28,0,0,0
+Sweden,2020-01-29,0,0,0
+Sweden,2020-01-30,0,0,0
+Sweden,2020-01-31,1,0,0
+Sweden,2020-02-01,1,0,0
+Sweden,2020-02-02,1,0,0
+Sweden,2020-02-03,1,0,0
+Sweden,2020-02-04,1,0,0
+Sweden,2020-02-05,1,0,0
+Sweden,2020-02-06,1,0,0
+Sweden,2020-02-07,1,0,0
+Sweden,2020-02-08,1,0,0
+Sweden,2020-02-09,1,0,0
+Sweden,2020-02-10,1,0,0
+Sweden,2020-02-11,1,0,0
+Sweden,2020-02-12,1,0,0
+Sweden,2020-02-13,1,0,0
+Sweden,2020-02-14,1,0,0
+Sweden,2020-02-15,1,0,0
+Sweden,2020-02-16,1,0,0
+Sweden,2020-02-17,1,0,0
+Sweden,2020-02-18,1,0,0
+Sweden,2020-02-19,1,0,0
+Sweden,2020-02-20,1,0,0
+Sweden,2020-02-21,1,0,0
+Sweden,2020-02-22,1,0,0
+Sweden,2020-02-23,1,0,0
+Sweden,2020-02-24,1,0,0
+Sweden,2020-02-25,1,0,0
+Sweden,2020-02-26,2,0,0
+Sweden,2020-02-27,7,0,0
+Sweden,2020-02-28,7,0,0
+Sweden,2020-02-29,12,0,0
+Sweden,2020-03-01,14,0,0
+Sweden,2020-03-02,15,0,0
+Sweden,2020-03-03,21,0,0
+Sweden,2020-03-04,35,0,0
+Sweden,2020-03-05,94,0,0
+Sweden,2020-03-06,101,0,0
+Sweden,2020-03-07,161,0,0
+Sweden,2020-03-08,203,0,0
+Sweden,2020-03-09,248,0,1
+Sweden,2020-03-10,355,0,1
+Switzerland,2020-01-22,0,0,0
+Switzerland,2020-01-23,0,0,0
+Switzerland,2020-01-24,0,0,0
+Switzerland,2020-01-25,0,0,0
+Switzerland,2020-01-26,0,0,0
+Switzerland,2020-01-27,0,0,0
+Switzerland,2020-01-28,0,0,0
+Switzerland,2020-01-29,0,0,0
+Switzerland,2020-01-30,0,0,0
+Switzerland,2020-01-31,0,0,0
+Switzerland,2020-02-01,0,0,0
+Switzerland,2020-02-02,0,0,0
+Switzerland,2020-02-03,0,0,0
+Switzerland,2020-02-04,0,0,0
+Switzerland,2020-02-05,0,0,0
+Switzerland,2020-02-06,0,0,0
+Switzerland,2020-02-07,0,0,0
+Switzerland,2020-02-08,0,0,0
+Switzerland,2020-02-09,0,0,0
+Switzerland,2020-02-10,0,0,0
+Switzerland,2020-02-11,0,0,0
+Switzerland,2020-02-12,0,0,0
+Switzerland,2020-02-13,0,0,0
+Switzerland,2020-02-14,0,0,0
+Switzerland,2020-02-15,0,0,0
+Switzerland,2020-02-16,0,0,0
+Switzerland,2020-02-17,0,0,0
+Switzerland,2020-02-18,0,0,0
+Switzerland,2020-02-19,0,0,0
+Switzerland,2020-02-20,0,0,0
+Switzerland,2020-02-21,0,0,0
+Switzerland,2020-02-22,0,0,0
+Switzerland,2020-02-23,0,0,0
+Switzerland,2020-02-24,0,0,0
+Switzerland,2020-02-25,1,0,0
+Switzerland,2020-02-26,1,0,0
+Switzerland,2020-02-27,8,0,0
+Switzerland,2020-02-28,8,0,0
+Switzerland,2020-02-29,18,0,0
+Switzerland,2020-03-01,27,0,0
+Switzerland,2020-03-02,42,0,0
+Switzerland,2020-03-03,56,0,2
+Switzerland,2020-03-04,90,0,3
+Switzerland,2020-03-05,114,1,3
+Switzerland,2020-03-06,214,1,3
+Switzerland,2020-03-07,268,1,3
+Switzerland,2020-03-08,337,2,3
+Switzerland,2020-03-09,374,2,3
+Switzerland,2020-03-10,491,3,3
+Taipei and environs,2020-01-22,1,0,0
+Taipei and environs,2020-01-23,1,0,0
+Taipei and environs,2020-01-24,3,0,0
+Taipei and environs,2020-01-25,3,0,0
+Taipei and environs,2020-01-26,4,0,0
+Taipei and environs,2020-01-27,5,0,0
+Taipei and environs,2020-01-28,8,0,0
+Taipei and environs,2020-01-29,8,0,0
+Taipei and environs,2020-01-30,9,0,0
+Taipei and environs,2020-01-31,10,0,0
+Taipei and environs,2020-02-01,10,0,0
+Taipei and environs,2020-02-02,10,0,0
+Taipei and environs,2020-02-03,10,0,0
+Taipei and environs,2020-02-04,11,0,0
+Taipei and environs,2020-02-05,11,0,0
+Taipei and environs,2020-02-06,16,0,1
+Taipei and environs,2020-02-07,16,0,1
+Taipei and environs,2020-02-08,17,0,1
+Taipei and environs,2020-02-09,18,0,1
+Taipei and environs,2020-02-10,18,0,1
+Taipei and environs,2020-02-11,18,0,1
+Taipei and environs,2020-02-12,18,0,1
+Taipei and environs,2020-02-13,18,0,1
+Taipei and environs,2020-02-14,18,0,2
+Taipei and environs,2020-02-15,18,0,2
+Taipei and environs,2020-02-16,20,1,2
+Taipei and environs,2020-02-17,22,1,2
+Taipei and environs,2020-02-18,22,1,2
+Taipei and environs,2020-02-19,23,1,2
+Taipei and environs,2020-02-20,24,1,2
+Taipei and environs,2020-02-21,26,1,2
+Taipei and environs,2020-02-22,26,1,2
+Taipei and environs,2020-02-23,28,1,2
+Taipei and environs,2020-02-24,30,1,5
+Taipei and environs,2020-02-25,31,1,5
+Taipei and environs,2020-02-26,32,1,5
+Taipei and environs,2020-02-27,32,1,5
+Taipei and environs,2020-02-28,34,1,6
+Taipei and environs,2020-02-29,39,1,9
+Taipei and environs,2020-03-01,40,1,9
+Taipei and environs,2020-03-02,41,1,12
+Taipei and environs,2020-03-03,42,1,12
+Taipei and environs,2020-03-04,42,1,12
+Taipei and environs,2020-03-05,44,1,12
+Taipei and environs,2020-03-06,45,1,12
+Taipei and environs,2020-03-07,45,1,12
+Taipei and environs,2020-03-08,45,1,13
+Taipei and environs,2020-03-09,45,1,15
+Taipei and environs,2020-03-10,47,1,17
+Thailand,2020-01-22,2,0,0
+Thailand,2020-01-23,3,0,0
+Thailand,2020-01-24,5,0,0
+Thailand,2020-01-25,7,0,0
+Thailand,2020-01-26,8,0,2
+Thailand,2020-01-27,8,0,2
+Thailand,2020-01-28,14,0,5
+Thailand,2020-01-29,14,0,5
+Thailand,2020-01-30,14,0,5
+Thailand,2020-01-31,19,0,5
+Thailand,2020-02-01,19,0,5
+Thailand,2020-02-02,19,0,5
+Thailand,2020-02-03,19,0,5
+Thailand,2020-02-04,25,0,5
+Thailand,2020-02-05,25,0,5
+Thailand,2020-02-06,25,0,5
+Thailand,2020-02-07,25,0,5
+Thailand,2020-02-08,32,0,10
+Thailand,2020-02-09,32,0,10
+Thailand,2020-02-10,32,0,10
+Thailand,2020-02-11,33,0,10
+Thailand,2020-02-12,33,0,10
+Thailand,2020-02-13,33,0,12
+Thailand,2020-02-14,33,0,12
+Thailand,2020-02-15,33,0,12
+Thailand,2020-02-16,34,0,14
+Thailand,2020-02-17,35,0,15
+Thailand,2020-02-18,35,0,15
+Thailand,2020-02-19,35,0,15
+Thailand,2020-02-20,35,0,15
+Thailand,2020-02-21,35,0,17
+Thailand,2020-02-22,35,0,17
+Thailand,2020-02-23,35,0,21
+Thailand,2020-02-24,35,0,21
+Thailand,2020-02-25,37,0,22
+Thailand,2020-02-26,40,0,22
+Thailand,2020-02-27,40,0,22
+Thailand,2020-02-28,41,0,28
+Thailand,2020-02-29,42,0,28
+Thailand,2020-03-01,42,1,28
+Thailand,2020-03-02,43,1,31
+Thailand,2020-03-03,43,1,31
+Thailand,2020-03-04,43,1,31
+Thailand,2020-03-05,47,1,31
+Thailand,2020-03-06,48,1,31
+Thailand,2020-03-07,50,1,31
+Thailand,2020-03-08,50,1,31
+Thailand,2020-03-09,50,1,31
+Thailand,2020-03-10,53,1,33
+Togo,2020-01-22,0,0,0
+Togo,2020-01-23,0,0,0
+Togo,2020-01-24,0,0,0
+Togo,2020-01-25,0,0,0
+Togo,2020-01-26,0,0,0
+Togo,2020-01-27,0,0,0
+Togo,2020-01-28,0,0,0
+Togo,2020-01-29,0,0,0
+Togo,2020-01-30,0,0,0
+Togo,2020-01-31,0,0,0
+Togo,2020-02-01,0,0,0
+Togo,2020-02-02,0,0,0
+Togo,2020-02-03,0,0,0
+Togo,2020-02-04,0,0,0
+Togo,2020-02-05,0,0,0
+Togo,2020-02-06,0,0,0
+Togo,2020-02-07,0,0,0
+Togo,2020-02-08,0,0,0
+Togo,2020-02-09,0,0,0
+Togo,2020-02-10,0,0,0
+Togo,2020-02-11,0,0,0
+Togo,2020-02-12,0,0,0
+Togo,2020-02-13,0,0,0
+Togo,2020-02-14,0,0,0
+Togo,2020-02-15,0,0,0
+Togo,2020-02-16,0,0,0
+Togo,2020-02-17,0,0,0
+Togo,2020-02-18,0,0,0
+Togo,2020-02-19,0,0,0
+Togo,2020-02-20,0,0,0
+Togo,2020-02-21,0,0,0
+Togo,2020-02-22,0,0,0
+Togo,2020-02-23,0,0,0
+Togo,2020-02-24,0,0,0
+Togo,2020-02-25,0,0,0
+Togo,2020-02-26,0,0,0
+Togo,2020-02-27,0,0,0
+Togo,2020-02-28,0,0,0
+Togo,2020-02-29,0,0,0
+Togo,2020-03-01,0,0,0
+Togo,2020-03-02,0,0,0
+Togo,2020-03-03,0,0,0
+Togo,2020-03-04,0,0,0
+Togo,2020-03-05,0,0,0
+Togo,2020-03-06,1,0,0
+Togo,2020-03-07,1,0,0
+Togo,2020-03-08,1,0,0
+Togo,2020-03-09,1,0,0
+Togo,2020-03-10,1,0,0
+Tunisia,2020-01-22,0,0,0
+Tunisia,2020-01-23,0,0,0
+Tunisia,2020-01-24,0,0,0
+Tunisia,2020-01-25,0,0,0
+Tunisia,2020-01-26,0,0,0
+Tunisia,2020-01-27,0,0,0
+Tunisia,2020-01-28,0,0,0
+Tunisia,2020-01-29,0,0,0
+Tunisia,2020-01-30,0,0,0
+Tunisia,2020-01-31,0,0,0
+Tunisia,2020-02-01,0,0,0
+Tunisia,2020-02-02,0,0,0
+Tunisia,2020-02-03,0,0,0
+Tunisia,2020-02-04,0,0,0
+Tunisia,2020-02-05,0,0,0
+Tunisia,2020-02-06,0,0,0
+Tunisia,2020-02-07,0,0,0
+Tunisia,2020-02-08,0,0,0
+Tunisia,2020-02-09,0,0,0
+Tunisia,2020-02-10,0,0,0
+Tunisia,2020-02-11,0,0,0
+Tunisia,2020-02-12,0,0,0
+Tunisia,2020-02-13,0,0,0
+Tunisia,2020-02-14,0,0,0
+Tunisia,2020-02-15,0,0,0
+Tunisia,2020-02-16,0,0,0
+Tunisia,2020-02-17,0,0,0
+Tunisia,2020-02-18,0,0,0
+Tunisia,2020-02-19,0,0,0
+Tunisia,2020-02-20,0,0,0
+Tunisia,2020-02-21,0,0,0
+Tunisia,2020-02-22,0,0,0
+Tunisia,2020-02-23,0,0,0
+Tunisia,2020-02-24,0,0,0
+Tunisia,2020-02-25,0,0,0
+Tunisia,2020-02-26,0,0,0
+Tunisia,2020-02-27,0,0,0
+Tunisia,2020-02-28,0,0,0
+Tunisia,2020-02-29,0,0,0
+Tunisia,2020-03-01,0,0,0
+Tunisia,2020-03-02,0,0,0
+Tunisia,2020-03-03,0,0,0
+Tunisia,2020-03-04,1,0,0
+Tunisia,2020-03-05,1,0,0
+Tunisia,2020-03-06,1,0,0
+Tunisia,2020-03-07,1,0,0
+Tunisia,2020-03-08,2,0,0
+Tunisia,2020-03-09,2,0,0
+Tunisia,2020-03-10,5,0,0
+UK,2020-01-22,0,0,0
+UK,2020-01-23,0,0,0
+UK,2020-01-24,0,0,0
+UK,2020-01-25,0,0,0
+UK,2020-01-26,0,0,0
+UK,2020-01-27,0,0,0
+UK,2020-01-28,0,0,0
+UK,2020-01-29,0,0,0
+UK,2020-01-30,0,0,0
+UK,2020-01-31,2,0,0
+UK,2020-02-01,2,0,0
+UK,2020-02-02,2,0,0
+UK,2020-02-03,2,0,0
+UK,2020-02-04,2,0,0
+UK,2020-02-05,2,0,0
+UK,2020-02-06,2,0,0
+UK,2020-02-07,3,0,0
+UK,2020-02-08,3,0,0
+UK,2020-02-09,3,0,0
+UK,2020-02-10,8,0,0
+UK,2020-02-11,8,0,0
+UK,2020-02-12,9,0,1
+UK,2020-02-13,9,0,1
+UK,2020-02-14,9,0,1
+UK,2020-02-15,9,0,1
+UK,2020-02-16,9,0,8
+UK,2020-02-17,9,0,8
+UK,2020-02-18,9,0,8
+UK,2020-02-19,9,0,8
+UK,2020-02-20,9,0,8
+UK,2020-02-21,9,0,8
+UK,2020-02-22,9,0,8
+UK,2020-02-23,9,0,8
+UK,2020-02-24,13,0,8
+UK,2020-02-25,13,0,8
+UK,2020-02-26,13,0,8
+UK,2020-02-27,15,0,8
+UK,2020-02-28,20,0,8
+UK,2020-02-29,23,0,8
+UK,2020-03-01,36,0,8
+UK,2020-03-02,40,0,8
+UK,2020-03-03,51,0,8
+UK,2020-03-04,85,0,8
+UK,2020-03-05,115,1,8
+UK,2020-03-06,163,2,8
+UK,2020-03-07,206,2,18
+UK,2020-03-08,273,3,18
+UK,2020-03-09,321,4,18
+UK,2020-03-10,382,6,18
+Ukraine,2020-01-22,0,0,0
+Ukraine,2020-01-23,0,0,0
+Ukraine,2020-01-24,0,0,0
+Ukraine,2020-01-25,0,0,0
+Ukraine,2020-01-26,0,0,0
+Ukraine,2020-01-27,0,0,0
+Ukraine,2020-01-28,0,0,0
+Ukraine,2020-01-29,0,0,0
+Ukraine,2020-01-30,0,0,0
+Ukraine,2020-01-31,0,0,0
+Ukraine,2020-02-01,0,0,0
+Ukraine,2020-02-02,0,0,0
+Ukraine,2020-02-03,0,0,0
+Ukraine,2020-02-04,0,0,0
+Ukraine,2020-02-05,0,0,0
+Ukraine,2020-02-06,0,0,0
+Ukraine,2020-02-07,0,0,0
+Ukraine,2020-02-08,0,0,0
+Ukraine,2020-02-09,0,0,0
+Ukraine,2020-02-10,0,0,0
+Ukraine,2020-02-11,0,0,0
+Ukraine,2020-02-12,0,0,0
+Ukraine,2020-02-13,0,0,0
+Ukraine,2020-02-14,0,0,0
+Ukraine,2020-02-15,0,0,0
+Ukraine,2020-02-16,0,0,0
+Ukraine,2020-02-17,0,0,0
+Ukraine,2020-02-18,0,0,0
+Ukraine,2020-02-19,0,0,0
+Ukraine,2020-02-20,0,0,0
+Ukraine,2020-02-21,0,0,0
+Ukraine,2020-02-22,0,0,0
+Ukraine,2020-02-23,0,0,0
+Ukraine,2020-02-24,0,0,0
+Ukraine,2020-02-25,0,0,0
+Ukraine,2020-02-26,0,0,0
+Ukraine,2020-02-27,0,0,0
+Ukraine,2020-02-28,0,0,0
+Ukraine,2020-02-29,0,0,0
+Ukraine,2020-03-01,0,0,0
+Ukraine,2020-03-02,0,0,0
+Ukraine,2020-03-03,1,0,0
+Ukraine,2020-03-04,1,0,0
+Ukraine,2020-03-05,1,0,0
+Ukraine,2020-03-06,1,0,0
+Ukraine,2020-03-07,1,0,0
+Ukraine,2020-03-08,1,0,0
+Ukraine,2020-03-09,1,0,0
+Ukraine,2020-03-10,1,0,0
+United Arab Emirates,2020-01-22,0,0,0
+United Arab Emirates,2020-01-23,0,0,0
+United Arab Emirates,2020-01-24,0,0,0
+United Arab Emirates,2020-01-25,0,0,0
+United Arab Emirates,2020-01-26,0,0,0
+United Arab Emirates,2020-01-27,0,0,0
+United Arab Emirates,2020-01-28,0,0,0
+United Arab Emirates,2020-01-29,4,0,0
+United Arab Emirates,2020-01-30,4,0,0
+United Arab Emirates,2020-01-31,4,0,0
+United Arab Emirates,2020-02-01,4,0,0
+United Arab Emirates,2020-02-02,5,0,0
+United Arab Emirates,2020-02-03,5,0,0
+United Arab Emirates,2020-02-04,5,0,0
+United Arab Emirates,2020-02-05,5,0,0
+United Arab Emirates,2020-02-06,5,0,0
+United Arab Emirates,2020-02-07,5,0,0
+United Arab Emirates,2020-02-08,7,0,0
+United Arab Emirates,2020-02-09,7,0,0
+United Arab Emirates,2020-02-10,8,0,0
+United Arab Emirates,2020-02-11,8,0,0
+United Arab Emirates,2020-02-12,8,0,1
+United Arab Emirates,2020-02-13,8,0,1
+United Arab Emirates,2020-02-14,8,0,1
+United Arab Emirates,2020-02-15,8,0,3
+United Arab Emirates,2020-02-16,9,0,4
+United Arab Emirates,2020-02-17,9,0,4
+United Arab Emirates,2020-02-18,9,0,4
+United Arab Emirates,2020-02-19,9,0,4
+United Arab Emirates,2020-02-20,9,0,4
+United Arab Emirates,2020-02-21,9,0,4
+United Arab Emirates,2020-02-22,13,0,4
+United Arab Emirates,2020-02-23,13,0,4
+United Arab Emirates,2020-02-24,13,0,4
+United Arab Emirates,2020-02-25,13,0,4
+United Arab Emirates,2020-02-26,13,0,4
+United Arab Emirates,2020-02-27,13,0,4
+United Arab Emirates,2020-02-28,19,0,5
+United Arab Emirates,2020-02-29,21,0,5
+United Arab Emirates,2020-03-01,21,0,5
+United Arab Emirates,2020-03-02,21,0,5
+United Arab Emirates,2020-03-03,27,0,5
+United Arab Emirates,2020-03-04,27,0,5
+United Arab Emirates,2020-03-05,29,0,5
+United Arab Emirates,2020-03-06,29,0,5
+United Arab Emirates,2020-03-07,45,0,7
+United Arab Emirates,2020-03-08,45,0,7
+United Arab Emirates,2020-03-09,45,0,7
+United Arab Emirates,2020-03-10,74,0,12
+US,2020-01-22,1,0,0
+US,2020-01-23,1,0,0
+US,2020-01-24,2,0,0
+US,2020-01-25,2,0,0
+US,2020-01-26,5,0,0
+US,2020-01-27,5,0,0
+US,2020-01-28,5,0,0
+US,2020-01-29,5,0,0
+US,2020-01-30,5,0,0
+US,2020-01-31,7,0,0
+US,2020-02-01,8,0,0
+US,2020-02-02,8,0,0
+US,2020-02-03,11,0,0
+US,2020-02-04,11,0,0
+US,2020-02-05,11,0,0
+US,2020-02-06,11,0,0
+US,2020-02-07,11,0,0
+US,2020-02-08,11,0,0
+US,2020-02-09,11,0,3
+US,2020-02-10,11,0,3
+US,2020-02-11,12,0,3
+US,2020-02-12,12,0,3
+US,2020-02-13,13,0,3
+US,2020-02-14,13,0,3
+US,2020-02-15,13,0,3
+US,2020-02-16,13,0,3
+US,2020-02-17,13,0,3
+US,2020-02-18,13,0,3
+US,2020-02-19,13,0,3
+US,2020-02-20,13,0,3
+US,2020-02-21,15,0,5
+US,2020-02-22,15,0,5
+US,2020-02-23,15,0,5
+US,2020-02-24,51,0,5
+US,2020-02-25,51,0,6
+US,2020-02-26,57,0,6
+US,2020-02-27,58,0,6
+US,2020-02-28,60,0,7
+US,2020-02-29,68,1,7
+US,2020-03-01,74,1,7
+US,2020-03-02,98,6,7
+US,2020-03-03,118,7,7
+US,2020-03-04,149,11,7
+US,2020-03-05,217,12,7
+US,2020-03-06,267,14,7
+US,2020-03-07,403,17,7
+US,2020-03-08,518,21,7
+US,2020-03-09,584,22,7
+US,2020-03-10,1670,56,15
+Viet Nam,2020-01-22,0,0,0
+Viet Nam,2020-01-23,2,0,0
+Viet Nam,2020-01-24,2,0,0
+Viet Nam,2020-01-25,2,0,0
+Viet Nam,2020-01-26,2,0,0
+Viet Nam,2020-01-27,2,0,0
+Viet Nam,2020-01-28,2,0,0
+Viet Nam,2020-01-29,2,0,0
+Viet Nam,2020-01-30,2,0,0
+Viet Nam,2020-01-31,2,0,0
+Viet Nam,2020-02-01,6,0,1
+Viet Nam,2020-02-02,6,0,1
+Viet Nam,2020-02-03,8,0,1
+Viet Nam,2020-02-04,8,0,1
+Viet Nam,2020-02-05,8,0,1
+Viet Nam,2020-02-06,10,0,1
+Viet Nam,2020-02-07,10,0,1
+Viet Nam,2020-02-08,13,0,1
+Viet Nam,2020-02-09,13,0,1
+Viet Nam,2020-02-10,14,0,1
+Viet Nam,2020-02-11,15,0,6
+Viet Nam,2020-02-12,15,0,6
+Viet Nam,2020-02-13,16,0,7
+Viet Nam,2020-02-14,16,0,7
+Viet Nam,2020-02-15,16,0,7
+Viet Nam,2020-02-16,16,0,7
+Viet Nam,2020-02-17,16,0,7
+Viet Nam,2020-02-18,16,0,7
+Viet Nam,2020-02-19,16,0,7
+Viet Nam,2020-02-20,16,0,7
+Viet Nam,2020-02-21,16,0,14
+Viet Nam,2020-02-22,16,0,14
+Viet Nam,2020-02-23,16,0,14
+Viet Nam,2020-02-24,16,0,14
+Viet Nam,2020-02-25,16,0,16
+Viet Nam,2020-02-26,16,0,16
+Viet Nam,2020-02-27,16,0,16
+Viet Nam,2020-02-28,16,0,16
+Viet Nam,2020-02-29,16,0,16
+Viet Nam,2020-03-01,16,0,16
+Viet Nam,2020-03-02,16,0,16
+Viet Nam,2020-03-03,16,0,16
+Viet Nam,2020-03-04,16,0,16
+Viet Nam,2020-03-05,16,0,16
+Viet Nam,2020-03-06,16,0,16
+Viet Nam,2020-03-07,18,0,16
+Viet Nam,2020-03-08,30,0,16
+Viet Nam,2020-03-09,30,0,16
+Viet Nam,2020-03-10,31,0,16
